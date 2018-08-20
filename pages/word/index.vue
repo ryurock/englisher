@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        englisher
+        englisher word/index.vue
       </h1>
       <h2 class="subtitle">
         英単語を素早く覚えましょう
@@ -62,4 +62,3 @@ export default {
   padding-top: 15px;
 }
 </style>
-
