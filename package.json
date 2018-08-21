@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
+    "dev-debug": "node --inspect-brk=9229 node_modules/nuxt/bin/nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
@@ -13,6 +14,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "normalize.css": "^8.0.0",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {

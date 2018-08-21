@@ -1,9 +1,8 @@
 <template>
   <section class="container">
     <div>
-      <app-logo/>
       <h1 class="title">
-        englisher
+        enner
       </h1>
       <h2 class="subtitle">
         英単語を素早く覚えましょう
@@ -12,11 +11,7 @@
         <a
           href="https://nuxtjs.org/"
           target="_blank"
-          class="button--green">Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey">GitHub</a>
+          class="button--green">速読をためす</a>
       </div>
     </div>
   </section>
@@ -28,6 +23,14 @@ import AppLogo from '~/components/AppLogo.vue'
 export default {
   components: {
     AppLogo
+  },
+  head() {
+    return {
+      title: 'enner',
+      meta: [
+        { hid: 'description', name: 'description', content: 'My custom description' }
+      ]
+    }
   }
 }
 </script>
