@@ -38,6 +38,10 @@
           <h3>Even I can do it</h3>
         </div>
       </div>
+      <div class="ad">
+        <img src="https://placehold.jp/320x100.png" />
+      </div>
+
     </div>
   </section>
 </template>

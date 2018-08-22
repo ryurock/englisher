@@ -39,26 +39,46 @@
         </div>
       </div>
     </div>
+    <section class="ad">
+      <img src="https://placehold.jp/320x100.png" />
+    </section>
+    <section class="grammar">
+      <ul>
+        <li>単語の最後 s(es,ies) をつけると複数になる。</li>
+        <li>形容詞のそれぞれを変えるにはer と est</li>
+        <li>動詞の語尾を変えるには、ing と ed</li>
+      </ul>
+    </section>
+    <section class="footer">
+      <div class="player">
+        <i class="fa fa-play-circle fa-lg"></i>
+        <i class="fas fa-volume-off fa-lg"></i>
+        <p>00:00:00</p>
+        <p>残20</p>
+      </div>
+      <div class="logo">enner</div>
+    </section>
   </section>
 </template>
 <style>
 .container {
-  min-height: 100vh;
+  min-height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   flex-direction: column;
+  color: #35495e;
 }
 .character-token {
   margin-bottom: 3%;
 }
 .character-token h1 {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
   display: block;
+  margin: 3vh;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
   font-weight: bold;
-  font-size: 80px;
-  color: #35495e;
+  font-size: 100px;
   letter-spacing: 1px;
 }
 
@@ -77,8 +97,8 @@
 
 .part-of-speech {
   margin-left: 10%;
-  margin-bottom: 2%;
-  font-size: 22px;
+  margin-bottom: 1%;
+  font-size: 19px;
 }
 
 .part-of-speech-title {
@@ -108,9 +128,47 @@
 .example-token {
   display: inline-block;
   width: 80%;
-  font-size: 24px;
+  font-size: 22px;
+}
+.ad {
+  margin-top: 3vh;
+}
+.grammar {
+  margin-top: 3vh;
+  text-align: left;
 }
 
+.grammar li {
+  margin-bottom: 1%;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  text-align: right;
+  color: white;
+  background-color: #3b8070;
+  width: 100%;
+  padding: 2vh;
+}
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  display: inline-block;
+}
+.player {
+  display: inline-block;
+  font-size: 24px;
+  text-align: center;
+  width: 80%;
+}
+
+.player p {
+  display: inline;
+  margin-right: 3vh;
+}
+.player i {
+  margin-right: 3vh;
+}
 </style>
 
 <script>
