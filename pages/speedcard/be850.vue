@@ -53,7 +53,7 @@
       <div class="player">
         <i class="fa fa-play-circle fa-lg"></i>
         <i class="fas fa-volume-off fa-lg"></i>
-        <p>00:00:00</p>
+        <p>{{ formatTime }}</p>
         <p>残20</p>
       </div>
       <div class="logo">enner</div>
@@ -103,7 +103,7 @@
 
 .part-of-speech-title {
   display: inline-block;
-  width: 20%;
+  width: 19%;
   font-style: italic;
   text-align: right;
 }
@@ -151,9 +151,10 @@
   padding: 2vh;
 }
 .logo {
+  display: inline-block;
   font-size: 22px;
   font-weight: bold;
-  display: inline-block;
+  vertical-align: top;
 }
 .player {
   display: inline-block;
@@ -175,9 +176,56 @@
 import BasicEnglish850Words from '~/models/words/basic-english850.json'
 
 export default {
+  data() {
+    return {
+      min: 59,
+      sec: 59,
+      timerOn: false,
+      timerObj: null,
+    }
+  },
   methods: {
-    hoge: function(){
+    count: function() {
+      if (this.sec <= 0 && this.min >= 1) {
+        this.min --;
+        this.sec = 59;
+      } else if(this.sec <= 0 && this.min <= 0) {
+        this.complete();
+      } else {
+        this.sec --;
+      }
+    },
+    start: function() {
+      this.timerObj = setInterval(function() {self.count()}, 1000)
+      this.timerOn = true; //timerがOFFであることを状態として保持
+    },
+
+    stop: function() {
+      clearInterval(this.timerObj);
+      this.timerOn = false; //timerがOFFであることを状態として保持
+    },
+
+    complete: function() {
+      clearInterval(this.timerObj)
+    }
+  },
+  computed: {
+    formatTime: function() {
       console.log('hoge');
+      setInterval(function() {self.count()}, 1000)
+      this.timerOn = true; //timerがOFFであることを状態として保持
+
+      let timeStrings = [
+        this.min.toString(),
+        this.sec.toString()
+      ].map(function(str) {
+        if (str.length < 2) {
+          return "0" + str
+        } else {
+          return str
+        }
+      })
+      return timeStrings[0] + ":" + timeStrings[1]
     }
   }
 }
