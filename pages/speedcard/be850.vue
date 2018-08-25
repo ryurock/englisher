@@ -1,7 +1,10 @@
 <template>
   <section class="container">
+    <header class="header">
+      <h1 class="logo">enner</h1>
+    </header>
     <div class="character-token">
-      <h1>even</h1>
+      <h1>according to</h1>
       <h2>〇〇だって / 〇〇でも（強調）</h2>
     </div>
     <div class="related-info">
@@ -49,34 +52,33 @@
         <li>動詞の語尾を変えるには、ing と ed</li>
       </ul>
     </section>
-    <section class="footer">
+    <footer class="footer">
       <div class="player">
         <svg class="octicon octicon-triangle-right player-icon" viewBox="0 0 6 16" version="1.1" width="12" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"></path></svg>
         <svg class="octicon octicon-mute player-icon" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"></path></svg>
-        <countDownTimer
-         starttime="Sep 5, 2018 15:37:25"
-         endtime="Sep 8, 2018 16:37:25"
-         trans='{
-         "day":"",
-         "hours":":",
-         "minutes":":",
-         "seconds":":",
-         "expired":"",
-         "running":"",
-         "upcoming":"",
-         "status": {}
-         }'
-         ></countDownTimer>
-        <p>残20</p>
+        <CountDownTimer
+          v-bind:starttime='startTime'
+          v-bind:endtime='endTime'
+          v-bind:wordcount='wordCount'
+          v-bind:trans='{
+            day: "",
+            hours: ":",
+            minutes: ":",
+            seconds: ":",
+            expired: "",
+            running: wordLength,
+            upcoming: "",
+            status: {}
+          }'
+         ></CountDownTimer>
       </div>
-      <div class="logo">enner</div>
-    </section>
+    </footer>
   </section>
 </template>
 
 
 <script>
-import BasicEnglish850Words from '~/models/words/basic-english850.json'
+import basicEnglish850Words from '~/models/words/basic-english850.json'
 import CountDownTimer from '~/components/SpeedCard/CountDownTimer.vue'
 
 export default {
@@ -85,8 +87,19 @@ export default {
   },
   data() {
     const defaultSpeed = 2;
-    const endSeconds = (BasicEnglish850Words.length * defaultSpeed);
-    return {}
+
+    const endSeconds = (basicEnglish850Words.length * defaultSpeed);
+    const startTime = new Date();
+    const endTime = new Date(startTime.setSeconds(endSeconds));
+    return {
+      word: basicEnglish850Words,
+      startTime: startTime,
+      endTime: endTime,
+      wordCount: {
+        length: basicEnglish850Words.length,
+        speed: (defaultSpeed * 1000)
+      }
+    }
   },
   methods: {},
   computed: {}
@@ -103,20 +116,28 @@ export default {
   flex-direction: column;
   color: #35495e;
 }
+
+.header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: #3b8070;
+}
 .character-token {
   margin-bottom: 3%;
 }
 .character-token h1 {
+  word-break: break-all;
   display: block;
   margin: 3vh;
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
   font-weight: bold;
-  font-size: 100px;
+  font-size: 80px;
   letter-spacing: 1px;
 }
 
 .character-token h2 {
-  font-size: 36px;
+  font-size: 24px;
   font-weight: bold;
   color: #526488;
   word-spacing: 5px;
@@ -131,7 +152,7 @@ export default {
 .part-of-speech {
   margin-left: 10%;
   margin-bottom: 1%;
-  font-size: 19px;
+  font-size: 17px;
 }
 
 .part-of-speech-title {
@@ -154,7 +175,7 @@ export default {
 .example-title {
   display: inline-block;
   width: 20%;
-  font-size: 22px;
+  font-size: 20px;
   font-style: italic;
   text-align: right;
 }
@@ -174,10 +195,10 @@ export default {
 .grammar li {
   margin-bottom: 1%;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
-  text-align: right;
   color: white;
   background-color: #3b8070;
   width: 100%;
@@ -185,19 +206,21 @@ export default {
 }
 
 .logo {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  float: right;
-  font-style: italic;
+  width: 10vh;
+  height: 5vh;
+  margin: 0;
+  margin-left: 1vh;
   font-size: 22px;
-  height: 4vh;
-  line-height: 3.4vh;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 5vh;
+  color: white;
 }
 
 .player {
-  float: left;
   font-size: 24px;
   text-align: center;
-  width: 80%;
   height: 4vh;
   line-height: 4vh;
 }
