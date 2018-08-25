@@ -1,11 +1,8 @@
 <template>
   <section class="container">
-    <header class="header">
-      <h1 class="logo">enner</h1>
-    </header>
     <div class="character-token">
-      <h1>according to</h1>
-      <h2>〇〇だって / 〇〇でも（強調）</h2>
+      <h1>{{ word }}</h1>
+      <h2>{{ transWord }}</h2>
     </div>
     <div class="related-info">
       <div class="part-of-speech">
@@ -57,16 +54,17 @@
         <svg class="octicon octicon-triangle-right player-icon" viewBox="0 0 6 16" version="1.1" width="12" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"></path></svg>
         <svg class="octicon octicon-mute player-icon" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"></path></svg>
         <CountDownTimer
-          v-bind:starttime='startTime'
-          v-bind:endtime='endTime'
-          v-bind:wordcount='wordCount'
+          v-bind:startTime='startTime'
+          v-bind:endTime='endTime'
+          v-bind:wordDelay='wordDelay'
+          v-bind:wordLength='wordLength'
           v-bind:trans='{
             day: "",
             hours: ":",
             minutes: ":",
             seconds: ":",
             expired: "",
-            running: wordLength,
+            running: "",
             upcoming: "",
             status: {}
           }'
@@ -87,19 +85,33 @@ export default {
   },
   data() {
     const defaultSpeed = 2;
-
     const endSeconds = (basicEnglish850Words.length * defaultSpeed);
     const startTime = new Date();
     const endTime = new Date(startTime.setSeconds(endSeconds));
+    const word = basicEnglish850Words.shift();
     return {
-      word: basicEnglish850Words,
+      word: '',
+      transWord: '',
+      words: basicEnglish850Words,
+      wordDelay: (defaultSpeed * 1000),
+      wordLength: basicEnglish850Words.length,
       startTime: startTime,
       endTime: endTime,
-      wordCount: {
-        length: basicEnglish850Words.length,
-        speed: (defaultSpeed * 1000)
-      }
     }
+  },
+  mounted() {
+    console.log(this.words);
+    let counter = 0;
+    this.wordInterval = setInterval(() => {
+      this.word = this.words[counter].en.word;
+      const transwords = this.words[counter].ja.map((transWord) => {
+        return transWord.words.join(' / ');
+      });
+      console.log(transwords);
+      this.transWord = transwords[0];
+      counter++;
+    }, this.wordDelay);
+
   },
   methods: {},
   computed: {}
@@ -117,12 +129,6 @@ export default {
   color: #35495e;
 }
 
-.header {
-  position: absolute;
-  top: 0;
-  width: 100%;
-  background-color: #3b8070;
-}
 .character-token {
   margin-bottom: 3%;
 }

@@ -1,5 +1,8 @@
 <template>
   <div>
+    <header class="header">
+      <h1 class="logo">enner</h1>
+    </header>
     <nuxt/>
   </div>
 </template>
@@ -48,6 +51,13 @@ html {
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
+}
+
+.header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: #3b8070;
 }
 </style>
 

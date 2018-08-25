@@ -45,7 +45,13 @@
 <script>
 export default {
   name: 'CountDownTimer',
-  props: ['starttime','endtime','trans', 'wordcount'] ,
+  props: [
+    'startTime',
+    'endTime',
+    'trans',
+    'wordDelay',
+    'wordLength'
+  ] ,
   data: function(){
   	return {
     	timer:"",
@@ -69,21 +75,20 @@ export default {
     this.wordString = this.trans;
   },
   mounted(){
-    this.start = this.starttime.getTime();
-    this.end = this.endtime.getTime();
+    this.start = this.startTime.getTime();
+    this.end = this.endTime.getTime();
     // Update the count down every 1 second
     this.timerCount(this.start,this.end);
     this.timerInterval = setInterval(() => {
         this.timerCount(this.start,this.end);
     }, 1000);
-
-    this.count = this.wordcount.length;
+    this.count = this.wordLength;
     this.wordInterval = setInterval(() => {
       this.count--;
       if (this.count == 0) {
         clearInterval(this.wordInterval);
       }
-    }, this.wordcount.speed);
+    }, this.wordDelay);
   },
   methods: {
     timerCount: function(start, end){
