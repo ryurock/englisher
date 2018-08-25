@@ -28,7 +28,7 @@
 }
 .timer {
   display: inline-block;
-  width: 50%;
+  width: 54%;
 }
 
 .timer-message {
