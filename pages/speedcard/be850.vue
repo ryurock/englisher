@@ -51,15 +51,48 @@
     </section>
     <section class="footer">
       <div class="player">
-        <i class="fa fa-play-circle fa-lg"></i>
-        <i class="fas fa-volume-off fa-lg"></i>
-        <p>{{ formatTime }}</p>
+        <svg class="octicon octicon-triangle-right player-icon" viewBox="0 0 6 16" version="1.1" width="12" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"></path></svg>
+        <svg class="octicon octicon-mute player-icon" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"></path></svg>
+        <countDownTimer
+         starttime="Sep 5, 2018 15:37:25"
+         endtime="Sep 8, 2018 16:37:25"
+         trans='{
+         "day":"",
+         "hours":":",
+         "minutes":":",
+         "seconds":":",
+         "expired":"",
+         "running":"",
+         "upcoming":"",
+         "status": {}
+         }'
+         ></countDownTimer>
         <p>残20</p>
       </div>
       <div class="logo">enner</div>
     </section>
   </section>
 </template>
+
+
+<script>
+import BasicEnglish850Words from '~/models/words/basic-english850.json'
+import CountDownTimer from '~/components/SpeedCard/CountDownTimer.vue'
+
+export default {
+  components: {
+    CountDownTimer
+  },
+  data() {
+    const defaultSpeed = 2;
+    const endSeconds = (BasicEnglish850Words.length * defaultSpeed);
+    return {}
+  },
+  methods: {},
+  computed: {}
+}
+</script>
+
 <style>
 .container {
   min-height: 90vh;
@@ -150,83 +183,44 @@
   width: 100%;
   padding: 2vh;
 }
+
 .logo {
-  display: inline-block;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  float: right;
+  font-style: italic;
   font-size: 22px;
-  font-weight: bold;
-  vertical-align: top;
+  height: 4vh;
+  line-height: 3.4vh;
 }
+
 .player {
-  display: inline-block;
+  float: left;
   font-size: 24px;
   text-align: center;
   width: 80%;
+  height: 4vh;
+  line-height: 4vh;
 }
 
-.player p {
-  display: inline;
+.octicon {
+  display: inline-block; /* 公式と同じ */
+  fill: currentColor;    /* 公式と同じ */
+  vertical-align: text-bottom;
+  height: 1.4em; /* 大きさは height で指定 */
+}
+
+.player-icon {
+  font-size: 3vh;
   margin-right: 3vh;
+}
+.player p {
+  display: inline-block;
+  font-size: 21px;
+  margin-left: 1vh;
+  margin-right: 2vh;
+  vertical-align: top;
 }
 .player i {
   margin-right: 3vh;
 }
 </style>
-
-<script>
-import BasicEnglish850Words from '~/models/words/basic-english850.json'
-
-export default {
-  data() {
-    return {
-      min: 59,
-      sec: 59,
-      timerOn: false,
-      timerObj: null,
-    }
-  },
-  methods: {
-    count: function() {
-      if (this.sec <= 0 && this.min >= 1) {
-        this.min --;
-        this.sec = 59;
-      } else if(this.sec <= 0 && this.min <= 0) {
-        this.complete();
-      } else {
-        this.sec --;
-      }
-    },
-    start: function() {
-      this.timerObj = setInterval(function() {self.count()}, 1000)
-      this.timerOn = true; //timerがOFFであることを状態として保持
-    },
-
-    stop: function() {
-      clearInterval(this.timerObj);
-      this.timerOn = false; //timerがOFFであることを状態として保持
-    },
-
-    complete: function() {
-      clearInterval(this.timerObj)
-    }
-  },
-  computed: {
-    formatTime: function() {
-      console.log('hoge');
-      setInterval(function() {self.count()}, 1000)
-      this.timerOn = true; //timerがOFFであることを状態として保持
-
-      let timeStrings = [
-        this.min.toString(),
-        this.sec.toString()
-      ].map(function(str) {
-        if (str.length < 2) {
-          return "0" + str
-        } else {
-          return str
-        }
-      })
-      return timeStrings[0] + ":" + timeStrings[1]
-    }
-  }
-}
-</script>
