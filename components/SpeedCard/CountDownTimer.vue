@@ -40,6 +40,43 @@
 .format {
   vertical-align: text-bottom;
 }
+.footer {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  background-color: #3b8070;
+  width: 100%;
+  padding: 2vh;
+}
+
+.player {
+  font-size: 24px;
+  text-align: center;
+  height: 4vh;
+  line-height: 4vh;
+}
+
+.octicon {
+  display: inline-block; /* 公式と同じ */
+  fill: currentColor;    /* 公式と同じ */
+  vertical-align: text-bottom;
+  height: 1.4em; /* 大きさは height で指定 */
+}
+
+.player-icon {
+  font-size: 3vh;
+  margin-right: 3vh;
+}
+.player p {
+  display: inline-block;
+  font-size: 21px;
+  margin-left: 1vh;
+  margin-right: 2vh;
+  vertical-align: top;
+}
+.player i {
+  margin-right: 3vh;
+}
 </style>
 
 <script>

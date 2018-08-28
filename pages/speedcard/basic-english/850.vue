@@ -1,59 +1,43 @@
 <template>
 <no-ssr>
-  <section class="container">
-    <div class="character-token">
-      <h1 class="character-token">{{ word }}</h1>
+  <main class="container">
+    <div class="word">
+      <h1>{{ word }}</h1>
     </div>
-
-    <div class="related-info">
-      <h2 class="trans-token">{{ transWord1 }}</h2>
-      <div v-if="partOfSpeech1" class="part-of-speech">
+    <section v-for="(tran, key, index) in trans" v-bind:key="index" class="trans">
+      <div class="trans-word">
+        <h2>{{ tran.tokens.join(' / ') }}</h2>
+      </div>
+      <div class="part-of-speech">
         <div class="part-of-speech-title">
           <p>品詞</p>
         </div>
         <div class="part-of-speech-type">
-          <h3>{{ partOfSpeech1 }}</h3>
+          <h3>{{ tran.wordClass.join(' / ') }}</h3>
         </div>
       </div>
-      <div v-if="example1" class="example">
+      <div v-if="tran.example.length > 0" class="example">
         <div class="example-title">
           <p>例文</p>
         </div>
-        <div class="example-token">
-          <h3>{{ example1 }}</h3>
+        <div class="example-text">
+          <h3>{{ tran.example.join(' / ') }}</h3>
         </div>
       </div>
-    </div>
-
-    <div class="related-info">
-      <h2 v-if="transWord2" class="trans-token">{{ transWord2 }}</h2>
-      <div v-if="partOfSpeech2" class="part-of-speech">
-        <div class="part-of-speech-title">
-          <p>品詞</p>
-        </div>
-        <div class="part-of-speech-type">
-          <h3>{{ partOfSpeech2 }}</h3>
-        </div>
-      </div>
-      <div v-if="example2" class="example">
-        <div class="example-title">
-          <p>例文</p>
-        </div>
-        <div class="example-token">
-          <h3>{{ example2 }}</h3>
-        </div>
-      </div>
-    </div>
-
-    <section class="ad">
-      <img src="https://placehold.jp/320x100.png" />
     </section>
     <section class="grammar">
-      <ul>
-        <li>単語の最後 s(es,ies) をつけると複数になる。</li>
-        <li>形容詞のそれぞれを変えるにはer と est</li>
-        <li>動詞の語尾を変えるには、ing と ed</li>
-      </ul>
+      <div class="grammar-container">
+        <ul>
+          <li>単語の最後 s(es,ies) をつけると複数になる。</li>
+          <li>形容詞のそれぞれを変えるにはer と est</li>
+          <li>動詞の語尾を変えるには、ing と ed</li>
+        </ul>
+      </div>
+    </section>
+    <section class="ad">
+      <div class="banner">
+        <img src="https://placehold.jp/320x100.png" />
+      </div>
     </section>
     <footer class="footer">
       <div class="player">
@@ -77,12 +61,13 @@
          ></CountDownTimer>
       </div>
     </footer>
-  </section>
+  </main>
 </no-ssr>
+
 </template>
 
 <script>
-import basicEnglish850Words from '~/models/words/basic-english850.json'
+import basicEnglish850Words from '~/models/words/basic-english/850.json'
 import CountDownTimer from '~/components/SpeedCard/CountDownTimer.vue'
 
 export default {
@@ -96,23 +81,10 @@ export default {
     const endTime = new Date(startTime.setSeconds(endSeconds));
 
     const wordInfo = basicEnglish850Words.shift();
-
-    const example1 = (wordInfo.ja[0].enEx) ? wordInfo.ja[0].enEx.join(' / ') : '';
-    let transWord2, partOfSpeech2, example2 = '';
-    if (wordInfo.ja[1]) {
-      if (wordInfo.ja[1].words) transWord2 = wordInfo.ja[1].words.join(' / ');
-      if (wordInfo.ja[1].wordClass) partOfSpeech2 = wordInfo.ja[1].wordClass.join(' / ');
-      if (wordInfo.ja[1].enEx) example2 = wordInfo.ja[1].enEx.join(' / ');
-    }
     return {
-      word: wordInfo.en.word,
-      transWord1: wordInfo.ja[0].words.join(' / '),
-      partOfSpeech1: wordInfo.ja[0].wordClass.join(' / '),
-      example1: example1,
-      transWord2: transWord2,
-      partOfSpeech2: partOfSpeech2,
-      example2: example2,
       words: basicEnglish850Words,
+      word: wordInfo.langueges.en.tokens[0],
+      trans: wordInfo.langueges.ja,
       wordDelay: (defaultSpeed * 1000),
       wordLength: basicEnglish850Words.length,
       startTime: startTime,
@@ -122,174 +94,124 @@ export default {
   mounted() {
     let counter = 0;
     this.wordInterval = setInterval(() => {
-      // const wordInfo = this.words.shift();
-      this.word = this.words[counter].en.word;
-      this.transWord1 = this.words[counter].ja[0].words.join(' / ');
-      this.partOfSpeech1 = this.words[counter].ja[0].wordClass.join(' / ');
-      this.example1 = (this.words[counter].ja[0].enEx) ? this.words[counter].ja[0].enEx.join(' / ') : '';
+      this.word = this.words[counter].langueges.en.tokens[0];
+      this.trans = this.words[counter].langueges.ja;
 
-      this.transWord2 = '';
-      this.partOfSpeech2 = '';
-      this.example2 = '';
-      if (this.words[counter].ja[1]) {
-        this.transWord2 = (this.words[counter].ja[1].words) ? this.transWord2 = this.words[counter].ja[1].words.join(' / ') : '';
-        this.partOfSpeech2 = (this.words[counter].ja[1].wordClass) ? this.partOfSpeech2 = this.words[counter].ja[1].wordClass.join(' / ') : '';
-        this.example2 = (this.words[counter].ja[1].enEx) ? this.example2 = this.words[counter].ja[1].enEx.join(' / ') : '';
-      }
-
-
-      clearInterval(this.wordInterval);
+      // clearInterval(this.wordInterval);
       counter++;
     }, this.wordDelay);
-
-  },
-  methods: {},
-  computed: {}
+  }
 }
 </script>
 
 <style>
 .container {
-  min-height: 90vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  flex-direction: column;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+  min-height: 5vh;
+  margin-top: 5vh;
   color: #35495e;
 }
 
-.character-token {
-  display: block;
-  height: 23vh;
-  margin: 3vh;
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  font-weight: bold;
-  font-size: 80px;
-  margin-bottom: 3%;
-  word-break: break-all;
-  letter-spacing: 1px;
-}
-.trans-token {
-  display: block;
-  margin: 3vh;
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  font-size: 24px;
-  font-weight: bold;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-.character-token {
-  word-break: break-all;
-  display: block;
-  margin: 3vh;
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  font-weight: bold;
-  font-size: 80px;
-  letter-spacing: 1px;
+.word {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.related-info {
-  color: #526488;
-  width: 100%;
+.word h1 {
+  font-size: 9vh;
+  word-break: break-all;
+  margin: 3vh auto;
+  text-align: center;
+}
+
+.trans {
+  margin-bottom: 3vh;
+}
+
+.trans-word {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #3b8070;
+}
+
+.trans-word h2 {
+  font-size: 28px;
+  margin: 3vh auto;
+  text-align: center;
 }
 
 .part-of-speech {
-  margin-left: 10%;
-  margin-bottom: 1%;
-  font-size: 17px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2vh;
 }
-
 .part-of-speech-title {
-  display: inline-block;
-  width: 19%;
   font-style: italic;
-  text-align: right;
+  width: 7vh;
+  margin-left: 4vh;
 }
-
 .part-of-speech-type {
-  display: inline-block;
-  width: 80%;
+  width: 35vh;
+  text-align: center;
 }
 
 .example {
-  margin-left: 10%;
-  margin-bottom: 2%;
-}
-
-.example-title {
-  display: inline-block;
-  width: 20%;
-  font-size: 20px;
-  font-style: italic;
-  text-align: right;
-}
-.example-token {
-  display: inline-block;
-  width: 80%;
-  font-size: 22px;
-}
-.ad {
-  margin-top: 3vh;
-}
-.grammar {
-  margin-top: 3vh;
-  text-align: left;
-}
-
-.grammar li {
-  margin-bottom: 1%;
-}
-
-.footer {
-  position: absolute;
-  bottom: 0;
-  color: white;
-  background-color: #3b8070;
-  width: 100%;
-  padding: 2vh;
-}
-
-.logo {
-  width: 10vh;
-  height: 5vh;
-  margin: 0;
-  margin-left: 1vh;
-  font-size: 22px;
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-style: italic;
-  font-weight: normal;
-  line-height: 5vh;
-  color: white;
-}
-
-.player {
   font-size: 24px;
-  text-align: center;
-  height: 4vh;
-  line-height: 4vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2vh;
+}
+.example-title {
+  font-size: 18px;
+  font-style: italic;
+  width: 10vh;
+  margin-left: 4vh;
 }
 
-.octicon {
-  display: inline-block; /* 公式と同じ */
-  fill: currentColor;    /* 公式と同じ */
-  vertical-align: text-bottom;
-  height: 1.4em; /* 大きさは height で指定 */
-}
-
-.player-icon {
-  font-size: 3vh;
-  margin-right: 3vh;
-}
-.player p {
-  display: inline-block;
-  font-size: 21px;
-  margin-left: 1vh;
+.example-text {
+  width: 35vh;
   margin-right: 2vh;
-  vertical-align: top;
+  text-align: center;
 }
-.player i {
-  margin-right: 3vh;
+
+.ad {
+  position: absolute;
+  bottom: 10vh;
+  width: 100%;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grammar {
+  position: absolute;
+  bottom: 25vh;
+  width: 100%;
+}
+
+.grammar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 400px) {
+  .example-title {
+    margin-left: 7vh;
+  }
+  .example-text {
+    width: 70vh;
+  }
+  .part-of-speech-type {
+    width: 70vh;
+  }
 }
 </style>

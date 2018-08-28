@@ -122,6 +122,7 @@ export default {
 
 .example-text {
   width: 35vh;
+  margin-right: 2vh;
   text-align: center;
 }
 
