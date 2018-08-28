@@ -1,44 +1,47 @@
 <template>
   <section class="container">
-    <div class="character-token">
-      <h1>{{ word }}</h1>
-      <h2>{{ transWord }}</h2>
-    </div>
-    <div class="related-info">
-      <div class="part-of-speech">
-        <div class="part-of-speech-title">
-          <p>品詞</p>
-        </div>
-        <div class="part-of-speech-type">
-          <h3>形容詞</h3>
-        </div>
-      </div>
-      <div class="example">
-        <div class="example-title">
-          <p>例文</p>
-        </div>
-        <div class="example-token">
-          <h3>an even chance</h3>
-        </div>
-      </div>
+    <h1 class="character-token">{{ word }}</h1>
 
-      <div class="part-of-speech">
+    <div class="related-info">
+      <h2 class="trans-token">{{ transWord1 }}</h2>
+      <div v-if="partOfSpeech1" class="part-of-speech">
         <div class="part-of-speech-title">
           <p>品詞</p>
         </div>
         <div class="part-of-speech-type">
-          <h3>動詞</h3>
+          <h3>{{ partOfSpeech1 }}</h3>
         </div>
       </div>
-      <div class="example">
+      <div v-if="example1" class="example">
         <div class="example-title">
           <p>例文</p>
         </div>
         <div class="example-token">
-          <h3>Even I can do it</h3>
+          <h3>{{ example1 }}</h3>
         </div>
       </div>
     </div>
+
+    <div class="related-info">
+      <h2 v-if="transWord2" class="trans-token">{{ transWord2 }}</h2>
+      <div v-if="partOfSpeech2" class="part-of-speech">
+        <div class="part-of-speech-title">
+          <p>品詞</p>
+        </div>
+        <div class="part-of-speech-type">
+          <h3>{{ partOfSpeech2 }}</h3>
+        </div>
+      </div>
+      <div v-if="example2" class="example">
+        <div class="example-title">
+          <p>例文</p>
+        </div>
+        <div class="example-token">
+          <h3>{{ example2 }}</h3>
+        </div>
+      </div>
+    </div>
+
     <section class="ad">
       <img src="https://placehold.jp/320x100.png" />
     </section>
@@ -88,10 +91,24 @@ export default {
     const endSeconds = (basicEnglish850Words.length * defaultSpeed);
     const startTime = new Date();
     const endTime = new Date(startTime.setSeconds(endSeconds));
-    const word = basicEnglish850Words.shift();
+
+    const wordInfo = basicEnglish850Words.shift();
+
+    const example1 = (wordInfo.ja[0].enEx) ? wordInfo.ja[0].enEx.join(' / ') : '';
+    let transWord2, partOfSpeech2, example2 = '';
+    if (wordInfo.ja[1]) {
+      if (wordInfo.ja[1].words) transWord2 = wordInfo.ja[1].words.join(' / ');
+      if (wordInfo.ja[1].wordClass) partOfSpeech2 = wordInfo.ja[1].wordClass.join(' / ');
+      if (wordInfo.ja[1].enEx) example2 = wordInfo.ja[1].enEx.join(' / ');
+    }
     return {
-      word: '',
-      transWord: '',
+      word: wordInfo.en.word,
+      transWord1: wordInfo.ja[0].words.join(' / '),
+      partOfSpeech1: wordInfo.ja[0].wordClass.join(' / '),
+      example1: example1,
+      transWord2: transWord2,
+      partOfSpeech2: partOfSpeech2,
+      example2: example2,
       words: basicEnglish850Words,
       wordDelay: (defaultSpeed * 1000),
       wordLength: basicEnglish850Words.length,
@@ -100,15 +117,25 @@ export default {
     }
   },
   mounted() {
-    console.log(this.words);
     let counter = 0;
     this.wordInterval = setInterval(() => {
+      // const wordInfo = this.words.shift();
       this.word = this.words[counter].en.word;
-      const transwords = this.words[counter].ja.map((transWord) => {
-        return transWord.words.join(' / ');
-      });
-      console.log(transwords);
-      this.transWord = transwords[0];
+      this.transWord1 = this.words[counter].ja[0].words.join(' / ');
+      this.partOfSpeech1 = this.words[counter].ja[0].wordClass.join(' / ');
+      this.example1 = (this.words[counter].ja[0].enEx) ? this.words[counter].ja[0].enEx.join(' / ') : '';
+
+      this.transWord2 = '';
+      this.partOfSpeech2 = '';
+      this.example2 = '';
+      if (this.words[counter].ja[1]) {
+        this.transWord2 = (this.words[counter].ja[1].words) ? this.transWord2 = this.words[counter].ja[1].words.join(' / ') : '';
+        this.partOfSpeech2 = (this.words[counter].ja[1].wordClass) ? this.partOfSpeech2 = this.words[counter].ja[1].wordClass.join(' / ') : '';
+        this.example2 = (this.words[counter].ja[1].enEx) ? this.example2 = this.words[counter].ja[1].enEx.join(' / ') : '';
+      }
+
+
+      // clearInterval(this.wordInterval);
       counter++;
     }, this.wordDelay);
 
@@ -130,9 +157,26 @@ export default {
 }
 
 .character-token {
+  display: block;
+  margin: 3vh;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+  font-weight: bold;
+  font-size: 80px;
   margin-bottom: 3%;
+  word-break: break-all;
+  letter-spacing: 1px;
 }
-.character-token h1 {
+.trans-token {
+  display: block;
+  margin: 3vh;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+  font-size: 24px;
+  font-weight: bold;
+  color: #526488;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
+.character-token {
   word-break: break-all;
   display: block;
   margin: 3vh;
@@ -140,14 +184,6 @@ export default {
   font-weight: bold;
   font-size: 80px;
   letter-spacing: 1px;
-}
-
-.character-token h2 {
-  font-size: 24px;
-  font-weight: bold;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
 }
 
 .related-info {

@@ -1,6 +1,25 @@
 [
   {
     "en": {
+      "word": "according to",
+      "sort": "a"
+    },
+    "ja": [
+      {
+        "words": [
+          "〇〇によれば"
+        ],
+        "wordClass": [
+          "副詞"
+        ],
+        "enEx": [
+          "According to a White House statement"
+        ]
+      }
+    ]
+  },
+  {
+    "en": {
       "word": "even",
       "sort": "e"
     },
@@ -238,25 +257,6 @@
           "動詞"
         ],
         "enEx": []
-      }
-    ]
-  },
-  {
-    "en": {
-      "word": "according to",
-      "sort": "a"
-    },
-    "ja": [
-      {
-        "words": [
-          "〇〇によれば"
-        ],
-        "wordClass": [
-          "副詞"
-        ],
-        "enEx": [
-          "According to a White House statement"
-        ]
       }
     ]
   },
