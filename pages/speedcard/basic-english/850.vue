@@ -251,6 +251,19 @@ export default {
   padding: 2vh;
 }
 
+.logo {
+  width: 10vh;
+  height: 5vh;
+  margin: 0;
+  margin-left: 1vh;
+  font-size: 22px;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 5vh;
+  color: white;
+}
+
 .player {
   font-size: 24px;
   text-align: center;

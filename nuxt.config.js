@@ -1,4 +1,13 @@
 module.exports = {
+  generate: {
+    routes: function(callback) {
+      const basicEnglish850 = require('./models/words/basic-english/850.json');
+      const routeMap = basicEnglish850.map(((word) => {
+        return `/word/basic-english/${word.id}`;
+      }));
+      callback(null, routeMap);
+    }
+  },
   /*
   ** Headers of the page
   */
