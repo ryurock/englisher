@@ -1,4 +1,13 @@
 module.exports = {
+  generate: {
+    routes: function(callback) {
+      const basicEnglish850 = require('./models/words/basic-english/850.json');
+      const routeMap = basicEnglish850.map(((word) => {
+        return `/word/basic-english/${word.id}`;
+      }));
+      callback(null, routeMap);
+    }
+  },
   /*
   ** Headers of the page
   */
@@ -10,7 +19,9 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://unpkg.com/normalize.css@8.0.0/normalize.css' },
+      { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.0.6/css/all.css' }
     ]
   },
   /*
@@ -31,7 +42,7 @@ module.exports = {
           test: /\.(js|vue)$/,
           loader: 'eslint-loader',
           exclude: /(node_modules)/
-        })
+        });
       }
     }
   }
