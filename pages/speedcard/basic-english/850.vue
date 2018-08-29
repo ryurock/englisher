@@ -225,13 +225,13 @@ export default {
 }
 
 .trans-word h2 {
-  font-size: 26px;
+  font-size: 24px;
   margin: 3vh auto;
   text-align: center;
 }
 
 .part-of-speech {
-  font-size: 18px;
+  font-size: 16px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -239,31 +239,35 @@ export default {
 }
 .part-of-speech-title {
   font-style: italic;
-  width: 7vh;
-  margin-left: 4vh;
+  width: 20%;
+  text-align: right;
+  margin-right: 2vh;
 }
+
 .part-of-speech-type {
-  width: 35vh;
+  width: 80%;
   text-align: center;
 }
 
 .example {
-  font-size: 24px;
+  font-size: 22px;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 2vh;
 }
+
 .example-title {
-  font-size: 18px;
+  font-size: 16px;
   font-style: italic;
-  width: 10vh;
-  margin-left: 4vh;
+  width: 20%;
+  text-align: right;
 }
 
 .example-text {
-  width: 35vh;
-  margin-right: 2vh;
+  width: 80%;
+  margin-right: 1vh;
+  margin-left: 3vh;
   text-align: center;
 }
 
@@ -291,15 +295,10 @@ export default {
   align-items: center;
 }
 
-@media screen and (min-width: 400px) {
-  .example-title {
-    margin-left: 7vh;
-  }
-  .example-text {
-    width: 70vh;
-  }
-  .part-of-speech-type {
-    width: 70vh;
+/* PC の場合 */
+@media screen and (min-width: 760px) {
+  .part-of-speech, .example {
+    margin-left: 20vh;
   }
 }
 
