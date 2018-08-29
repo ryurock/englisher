@@ -41,7 +41,7 @@
     </section>
     <footer class="footer">
       <div class="player">
-        <CountDownTimer
+        <SpeedCardPlayer
           v-bind:startTime='startTime'
           v-bind:endTime='endTime'
           v-bind:wordDelay='wordDelay'
@@ -60,7 +60,7 @@
           v-bind:isVoice='isVoice'
           v-on:toggleVoice='toggleVoice'
           v-on:togglePlay='togglePlay'
-         ></CountDownTimer>
+         ></SpeedCardPlayer>
       </div>
     </footer>
   </main>
@@ -70,13 +70,13 @@
 
 <script>
 import basicEnglish850Words from '~/models/words/basic-english/850.json';
-import CountDownTimer from '~/components/SpeedCard/CountDownTimer.vue';
+import SpeedCardPlayer from '~/components/SpeedCard/SpeedCardPlayer.vue';
 import swal from 'sweetalert';
 import Artyom from 'artyom.js';
 
 export default {
   components: {
-    CountDownTimer
+    SpeedCardPlayer
   },
   data() {
     const defaultSpeed = 2;

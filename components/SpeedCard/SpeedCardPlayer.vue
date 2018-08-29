@@ -125,7 +125,7 @@
 
 <script>
 export default {
-  name: 'CountDownTimer',
+  name: 'SpeedCardPlayer',
   props: [
     'startTime',
     'endTime',
