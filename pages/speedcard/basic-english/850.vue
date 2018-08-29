@@ -41,8 +41,6 @@
     </section>
     <footer class="footer">
       <div class="player">
-        <svg class="octicon octicon-triangle-right player-icon" viewBox="0 0 6 16" version="1.1" width="12" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"></path></svg>
-        <svg class="octicon octicon-mute player-icon" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"></path></svg>
         <CountDownTimer
           v-bind:startTime='startTime'
           v-bind:endTime='endTime'
@@ -58,6 +56,10 @@
             upcoming: "",
             status: {}
           }'
+          v-bind:isPlay='isPlay'
+          v-bind:isVoice='isVoice'
+          v-on:toggleVoice='toggleVoice'
+          v-on:togglePlay='togglePlay'
          ></CountDownTimer>
       </div>
     </footer>
@@ -67,8 +69,10 @@
 </template>
 
 <script>
-import basicEnglish850Words from '~/models/words/basic-english/850.json'
-import CountDownTimer from '~/components/SpeedCard/CountDownTimer.vue'
+import basicEnglish850Words from '~/models/words/basic-english/850.json';
+import CountDownTimer from '~/components/SpeedCard/CountDownTimer.vue';
+import swal from 'sweetalert';
+import Artyom from 'artyom.js';
 
 export default {
   components: {
@@ -89,17 +93,55 @@ export default {
       wordLength: basicEnglish850Words.length,
       startTime: startTime,
       endTime: endTime,
+      isPlay: true,
+      isVoice: false,
+      time: 0,
+      duration: 5000
     }
   },
   mounted() {
-    let counter = 0;
-    this.wordInterval = setInterval(() => {
-      this.word = this.words[counter].langueges.en.tokens[0];
-      this.trans = this.words[counter].langueges.ja;
+    this.counter = 0;
+    this.artyom = new Artyom();
+    swal({
+      title: "発音の自動再生しますか？",
+      icon: "warning",
+      buttons: ['再生しない', '再生する']
+    })
+    .then((isVoice) => {
+      if (isVoice) {
+        this.artyom.say(this.word);
+        this.isVoice = true;
+      } else {
+        this.isVoice = false;
+      }
 
-      // clearInterval(this.wordInterval);
-      counter++;
-    }, this.wordDelay);
+      this.loadPlay();
+    });
+  },
+  methods: {
+    toggleVoice(isVoice) {
+      this.isVoice = isVoice;
+    },
+    togglePlay(isPlay) {
+      if (isPlay == false) {
+        clearInterval(this.wordInterval);
+      } else {
+        this.loadPlay();
+      }
+      this.isPlay = isPlay;
+    },
+    loadPlay() {
+      this.wordInterval = setInterval(() => {
+        this.word = this.words[this.counter].langueges.en.tokens[0];
+        this.trans = this.words[this.counter].langueges.ja;
+
+        if (this.words.length == this.counter) clearInterval(this.wordInterval);
+        if (this.isVoice) this.artyom.say(this.word);
+        if (this.isPlay == false) clearInterval(this.wordInterval);
+
+        this.counter++;
+      }, this.wordDelay);
+    }
   }
 }
 </script>

@@ -20,8 +20,7 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://unpkg.com/normalize.css@8.0.0/normalize.css' },
-      { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.0.6/css/all.css' }
+      { rel: 'stylesheet', href: 'https://unpkg.com/normalize.css@8.0.0/normalize.css' }
     ]
   },
   /*
@@ -32,6 +31,10 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    vendor: [
+      'sweetalert',
+      'artyom.js'
+    ],
     /*
     ** Run ESLint on save
     */
@@ -46,5 +49,4 @@ module.exports = {
       }
     }
   }
-}
-
+};
