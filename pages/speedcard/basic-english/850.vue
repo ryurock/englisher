@@ -77,10 +77,6 @@
 
         <div class="countdown-timer-wrap">
           <div class="timer">
-            <div class="hour">
-              <span class="number">00</span>
-              <span class="format">:</span>
-            </div>
             <div class="min">
               <span class="number">{{ minutes }}</span>
               <span class="format">:</span>
@@ -334,7 +330,7 @@ export default {
 
 .countdown-timer-wrap {
   display: inline-block;
-  width: 192px;
+  width: 197px;
   vertical-align: top;
 }
 .timer {
