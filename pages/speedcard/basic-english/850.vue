@@ -48,7 +48,7 @@
           class="octicon octicon-x player-icon"
           viewBox="0 0 12 16"
           version="1.1"
-          width="32"
+          width="26"
           aria-hidden="true">
           <path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path>
         </svg>
@@ -225,13 +225,13 @@ export default {
 }
 
 .trans-word h2 {
-  font-size: 26px;
+  font-size: 24px;
   margin: 3vh auto;
   text-align: center;
 }
 
 .part-of-speech {
-  font-size: 18px;
+  font-size: 16px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -239,31 +239,35 @@ export default {
 }
 .part-of-speech-title {
   font-style: italic;
-  width: 7vh;
-  margin-left: 4vh;
+  width: 20%;
+  text-align: right;
+  margin-right: 2vh;
 }
+
 .part-of-speech-type {
-  width: 35vh;
+  width: 80%;
   text-align: center;
 }
 
 .example {
-  font-size: 24px;
+  font-size: 22px;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 2vh;
 }
+
 .example-title {
-  font-size: 18px;
+  font-size: 16px;
   font-style: italic;
-  width: 10vh;
-  margin-left: 4vh;
+  width: 20%;
+  text-align: right;
 }
 
 .example-text {
-  width: 35vh;
-  margin-right: 2vh;
+  width: 80%;
+  margin-right: 1vh;
+  margin-left: 3vh;
   text-align: center;
 }
 
@@ -291,15 +295,10 @@ export default {
   align-items: center;
 }
 
-@media screen and (min-width: 400px) {
-  .example-title {
-    margin-left: 7vh;
-  }
-  .example-text {
-    width: 70vh;
-  }
-  .part-of-speech-type {
-    width: 70vh;
+/* PC の場合 */
+@media screen and (min-width: 760px) {
+  .part-of-speech, .example {
+    margin-left: 20vh;
   }
 }
 
@@ -322,7 +321,6 @@ export default {
 .octicon {
   display: inline-block; /* 公式と同じ */
   fill: currentColor;    /* 公式と同じ */
-  vertical-align: text-bottom;
   height: 1.4em; /* 大きさは height で指定 */
 }
 
@@ -333,7 +331,7 @@ export default {
 
 .countdown-timer-wrap {
   display: inline-block;
-  width: 30vh;
+  width: 192px;
   vertical-align: top;
 }
 .timer {
@@ -344,28 +342,10 @@ export default {
 
 .timer-message {
   display: inline-block;
-  font-size: 2.5vh;
+  font-size: 3vh;
 }
 .hour, .min, .sec, .message {
   display: inline-block;
-}
-
-@media screen and (min-width: 320px) {
-  .countdown-timer-wrap {
-    width: 34vh;
-  }
-}
-
-@media screen and (min-width: 360px) {
-  .countdown-timer-wrap {
-    width: 37vh;
-  }
-}
-
-@media screen and (min-width: 375px) {
-  .countdown-timer-wrap {
-    width: 28vh;
-  }
 }
 
 </style>
