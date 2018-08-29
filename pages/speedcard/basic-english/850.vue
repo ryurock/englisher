@@ -25,15 +25,6 @@
         </div>
       </div>
     </section>
-    <section class="grammar">
-      <div class="grammar-container">
-        <ul>
-          <li>単語の最後 s(es,ies) をつけると複数になる。</li>
-          <li>形容詞のそれぞれを変えるにはer と est</li>
-          <li>動詞の語尾を変えるには、ing と ed</li>
-        </ul>
-      </div>
-    </section>
     <section class="ad">
       <div class="banner">
         <img src="https://placehold.jp/320x100.png" />
@@ -290,7 +281,7 @@ export default {
 
 .grammar {
   position: absolute;
-  bottom: 25vh;
+  bottom: 29vh;
   width: 100%;
 }
 
@@ -353,12 +344,28 @@ export default {
 
 .timer-message {
   display: inline-block;
+  font-size: 2.5vh;
 }
 .hour, .min, .sec, .message {
   display: inline-block;
 }
-.format {
-  vertical-align: text-bottom;
+
+@media screen and (min-width: 320px) {
+  .countdown-timer-wrap {
+    width: 34vh;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  .countdown-timer-wrap {
+    width: 37vh;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .countdown-timer-wrap {
+    width: 28vh;
+  }
 }
 
 </style>
