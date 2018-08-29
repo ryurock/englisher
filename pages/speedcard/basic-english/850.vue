@@ -111,14 +111,10 @@
 
 <script>
 import basicEnglish850Words from '~/models/words/basic-english/850.json';
-import SpeedCardPlayer from '~/components/SpeedCard/SpeedCardPlayer.vue';
 import swal from 'sweetalert';
 import Artyom from 'artyom.js';
 
 export default {
-  components: {
-    SpeedCardPlayer
-  },
   data() {
     const defaultSpeed = 2;
     const endSeconds = (basicEnglish850Words.length * defaultSpeed);
