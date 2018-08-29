@@ -48,7 +48,7 @@
           class="octicon octicon-x player-icon"
           viewBox="0 0 12 16"
           version="1.1"
-          width="32"
+          width="26"
           aria-hidden="true">
           <path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path>
         </svg>
@@ -322,7 +322,6 @@ export default {
 .octicon {
   display: inline-block; /* 公式と同じ */
   fill: currentColor;    /* 公式と同じ */
-  vertical-align: text-bottom;
   height: 1.4em; /* 大きさは height で指定 */
 }
 
@@ -333,7 +332,7 @@ export default {
 
 .countdown-timer-wrap {
   display: inline-block;
-  width: 30vh;
+  width: 192px;
   vertical-align: top;
 }
 .timer {
@@ -344,28 +343,10 @@ export default {
 
 .timer-message {
   display: inline-block;
-  font-size: 2.5vh;
+  font-size: 3vh;
 }
 .hour, .min, .sec, .message {
   display: inline-block;
-}
-
-@media screen and (min-width: 320px) {
-  .countdown-timer-wrap {
-    width: 34vh;
-  }
-}
-
-@media screen and (min-width: 360px) {
-  .countdown-timer-wrap {
-    width: 37vh;
-  }
-}
-
-@media screen and (min-width: 375px) {
-  .countdown-timer-wrap {
-    width: 28vh;
-  }
 }
 
 </style>
