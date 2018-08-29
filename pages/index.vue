@@ -120,5 +120,10 @@ export default {
   margin: auto 3vh;
 }
 
+@media screen and (min-width: 760px) {
+  .container {
+    margin: 0 30%;
+  }
+}
 </style>
 
