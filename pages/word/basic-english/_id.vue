@@ -68,12 +68,12 @@ export default {
 
 .word h1 {
   font-size: 8vh;
-  margin: 2vh auto;
+  margin: 1vh auto;
   text-align: center;
 }
 
 .trans {
-  margin-bottom: 3vh;
+  margin-bottom: 2vh;
 }
 
 .trans-word {
@@ -84,21 +84,21 @@ export default {
 }
 
 .trans-word h2 {
-  font-size: 28px;
+  font-size: 4vh;
   margin: 3vh auto;
   text-align: center;
 }
 
 .part-of-speech {
-  font-size: 18px;
+  font-size: 2.5vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 2vh;
+  margin-bottom: 1vh;
 }
 .part-of-speech-title {
   font-style: italic;
-  width: 9vh;
+  width: 13vh;
   margin-left: 4vh;
 }
 .part-of-speech-type {
@@ -107,21 +107,21 @@ export default {
 }
 
 .example {
-  font-size: 24px;
+  font-size: 4vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 2vh;
+  margin-bottom: 1vh;
 }
 .example-title {
-  font-size: 18px;
+  font-size: 2.5vh;
   font-style: italic;
-  width: 10vh;
-  margin-left: 7vh;
+  width: 13vh;
+  margin-left: 5vh;
 }
 
 .example-text {
-  width: 35vh;
+  width: 37vh;
   margin-right: 2vh;
   text-align: center;
 }
@@ -152,6 +152,7 @@ export default {
     width: 70vh;
   }
 }
+
 @media screen and (min-width: 375px) {
   .example-title {
     margin-left: 4vh;
