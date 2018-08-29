@@ -67,8 +67,8 @@ export default {
 }
 
 .word h1 {
-  font-size: 70px;
-  margin: 3vh auto;
+  font-size: 8vh;
+  margin: 2vh auto;
   text-align: center;
 }
 
@@ -98,7 +98,7 @@ export default {
 }
 .part-of-speech-title {
   font-style: italic;
-  width: 7vh;
+  width: 9vh;
   margin-left: 4vh;
 }
 .part-of-speech-type {
@@ -117,7 +117,7 @@ export default {
   font-size: 18px;
   font-style: italic;
   width: 10vh;
-  margin-left: 4vh;
+  margin-left: 7vh;
 }
 
 .example-text {
@@ -141,7 +141,7 @@ export default {
   margin-bottom: 2vh;
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 450px) {
   .example-title {
     margin-left: 7vh;
   }
@@ -152,5 +152,15 @@ export default {
     width: 70vh;
   }
 }
-
+@media screen and (min-width: 375px) {
+  .example-title {
+    margin-left: 4vh;
+  }
+  .example-text {
+    width: 70vh;
+  }
+  .part-of-speech-type {
+    width: 70vh;
+  }
+}
 </style>
