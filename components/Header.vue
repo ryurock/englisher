@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <h1 class="logo">enner</h1>
+    <h1 class="logo"><a href="/">enner</a></h1>
   </header>
 </template>
 <style>
@@ -21,5 +21,11 @@
   font-weight: normal;
   line-height: 5vh;
   color: white;
+}
+
+.logo a {
+  text-decoration: none;
+  color: white;
+  letter-spacing: -1px;
 }
 </style>

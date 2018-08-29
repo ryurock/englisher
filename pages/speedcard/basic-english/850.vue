@@ -269,6 +269,9 @@ export default {
   margin-right: 1vh;
   margin-left: 3vh;
   text-align: center;
+  font-size: 3vh;
+  line-height: 4vh;
+  letter-spacing: 0px;
 }
 
 .ad {

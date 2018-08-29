@@ -121,9 +121,13 @@ export default {
 }
 
 .example-text {
-  width: 37vh;
-  margin-right: 2vh;
+  width: 80%;
+  margin-right: 1vh;
+  margin-left: 3vh;
   text-align: center;
+  font-size: 3vh;
+  line-height: 4vh;
+  letter-spacing: 0px;
 }
 
 .ad {

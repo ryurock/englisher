@@ -17,6 +17,11 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  line-height: 1.2;
+  letter-spacing: 0.1em;
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0;
