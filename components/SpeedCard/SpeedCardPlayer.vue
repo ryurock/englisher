@@ -45,7 +45,7 @@
     <div class="countdown-timer-wrap">
       <div class="timer" v-show="statusType !== 'expired'">
         <div class="hour">
-          <span class="number">{{ hours }}</span>
+          <span class="number">00</span>
           <span class="format">{{ wordString.hours }}</span>
         </div>
         <div class="min">
@@ -67,7 +67,7 @@
 <style>
 .countdown-timer-wrap {
   display: inline-block;
-  width: 29vh;
+  width: 28vh;
   vertical-align: top;
 }
 .timer {
@@ -129,6 +129,7 @@ export default {
   props: [
     'startTime',
     'endTime',
+    'endSecond',
     'trans',
     'wordDelay',
     'wordLength',
@@ -161,12 +162,22 @@ export default {
     this.start = this.startTime.getTime();
     this.end = this.endTime.getTime();
     // Update the count down every 1 second
-    this.timerCount(this.start,this.end);
+    // this.timerCount(this.start,this.end);
     this.count = this.wordLength;
-    this.loadTimer();
+    // this.loadTimer();
     this.loadWordCount();
   },
   methods: {
+    loadTimeCount() {
+      const deleyToSecond = this.wordDelay / 1000;
+      this.timeInterval = setInterval(() => {
+        this.endSecond = this.endSecond - deleyToSecond;
+        if (this.count == 0) {
+          clearInterval(this.wordInterval);
+        }
+      }, this.wordDelay);
+
+    },
     loadWordCount() {
       this.wordInterval = setInterval(() => {
         this.count--;
@@ -193,7 +204,7 @@ export default {
       }
       this.$emit('togglePlay', play);
     },
-    timerCount(start, end) {
+    timerCountBk(start, end) {
 
         // Get todays date and time
         const now = new Date().getTime();
