@@ -220,7 +220,7 @@ export default {
 }
 
 .word h1 {
-  font-size: 9vh;
+  font-size: 8vh;
   word-break: break-all;
   margin: 3vh auto;
   text-align: center;
@@ -238,7 +238,7 @@ export default {
 }
 
 .trans-word h2 {
-  font-size: 28px;
+  font-size: 26px;
   margin: 3vh auto;
   text-align: center;
 }
@@ -348,11 +348,11 @@ export default {
   display: inline-block;
   width: 30vh;
   vertical-align: top;
-  margin-right: 1vh;
 }
 .timer {
   display: inline-block;
   width: 54%;
+  margin-right: 1vh;
 }
 
 .timer-message {
