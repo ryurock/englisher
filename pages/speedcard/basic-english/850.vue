@@ -196,78 +196,70 @@ export default {
   color: #35495e;
 }
 
-.word {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .word h1 {
-  font-size: 8vh;
-  word-break: break-all;
   margin: 3vh auto;
+  padding-top: 1vh;
+  font-size: 48px;
+  word-break: break-all;
   text-align: center;
 }
 
 .trans {
-  margin-bottom: 3vh;
-}
-
-.trans-word {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #3b8070;
+  margin-bottom: 2vh;
 }
 
 .trans-word h2 {
-  font-size: 24px;
   margin: 3vh auto;
+  font-size: 28px;
+  color: #3b8070;
   text-align: center;
 }
 
 .part-of-speech {
-  font-size: 16px;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 2vh;
+  justify-content: space-between;
+  margin-bottom: 1vh;
+  margin-top: 6vh;
 }
+
 .part-of-speech-title {
   font-style: italic;
-  width: 20%;
-  text-align: right;
-  margin-right: 2vh;
+  margin-top: auto;
+  margin-left: 10%;
 }
 
 .part-of-speech-type {
-  width: 80%;
-  text-align: center;
+  margin-right: 20%;
 }
 
 .example {
-  font-size: 22px;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 2vh;
+  justify-content: space-between;
+  margin-top: 3vh;
+  margin-bottom: 1vh;
 }
 
 .example-title {
-  font-size: 16px;
   font-style: italic;
-  width: 20%;
-  text-align: right;
+  margin-left: 10%;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .example-text {
-  width: 80%;
-  margin-right: 1vh;
-  margin-left: 3vh;
-  text-align: center;
-  font-size: 3vh;
-  line-height: 4vh;
+  width: 67%;
+  margin-right: 10%;
+  font-size: 26px;
+  line-height: 30px;
   letter-spacing: 0px;
+  text-align: right;
+}
+
+.example-text h3 {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 26px;
 }
 
 .ad {
@@ -292,13 +284,6 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-/* PC の場合 */
-@media screen and (min-width: 760px) {
-  .part-of-speech, .example {
-    margin-left: 20vh;
-  }
 }
 
 .footer {
@@ -335,16 +320,41 @@ export default {
 }
 .timer {
   display: inline-block;
-  width: 54%;
-  margin-right: 1vh;
+  margin-right: 0.3em;
 }
 
 .timer-message {
   display: inline-block;
-  font-size: 3vh;
+  font-size: 18px;
 }
 .hour, .min, .sec, .message {
   display: inline-block;
 }
 
+@media screen and (min-width: 920px) {
+  .container {
+    width: 100%;
+    margin-top: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .part-of-speech-title {
+    margin-left: 30%;
+  }
+  .part-of-speech-type {
+    margin-right: 30%;
+  }
+  .example-title {
+    margin-left: 30%;
+  }
+  .example-text {
+    width: 52%;
+    margin-right: 13%;
+  }
+  .example-text h3 {
+    text-align: center;
+  }
+
+}
 </style>

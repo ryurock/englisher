@@ -60,15 +60,10 @@ export default {
   color: #35495e;
 }
 
-.word {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .word h1 {
-  font-size: 8vh;
+  font-size: 48px;
   margin: 1vh auto;
+  word-break: break-all;
   text-align: center;
 }
 
@@ -76,58 +71,52 @@ export default {
   margin-bottom: 2vh;
 }
 
-.trans-word {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #3b8070;
-}
 
 .trans-word h2 {
-  font-size: 4vh;
   margin: 3vh auto;
+  font-size: 28px;
+  color: #3b8070;
   text-align: center;
 }
 
 .part-of-speech {
-  font-size: 2.5vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
   margin-bottom: 1vh;
 }
 .part-of-speech-title {
   font-style: italic;
-  width: 13vh;
-  margin-left: 4vh;
+  margin-left: 10%;
 }
 .part-of-speech-type {
-  width: 35vh;
-  text-align: center;
+  margin-right: 20%;
 }
 
 .example {
-  font-size: 4vh;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
+  margin-top: 3vh;
   margin-bottom: 1vh;
 }
 .example-title {
-  font-size: 2.5vh;
   font-style: italic;
-  width: 13vh;
-  margin-left: 5vh;
+  margin-left: 10%;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .example-text {
-  width: 80%;
-  margin-right: 1vh;
-  margin-left: 3vh;
-  text-align: center;
-  font-size: 3vh;
-  line-height: 4vh;
+  width: 67%;
+  margin-right: 10%;
+  text-align: right;
+}
+
+.example-text h3 {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 26px;
   letter-spacing: 0px;
+
 }
 
 .ad {
@@ -145,27 +134,25 @@ export default {
   margin-bottom: 2vh;
 }
 
-@media screen and (min-width: 450px) {
-  .example-title {
-    margin-left: 7vh;
+@media screen and (min-width: 920px) {
+  .container {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
   }
-  .example-text {
-    width: 70vh;
-  }
-  .part-of-speech-type {
-    width: 70vh;
-  }
-}
 
-@media screen and (min-width: 375px) {
-  .example-title {
-    margin-left: 4vh;
-  }
-  .example-text {
-    width: 70vh;
+  .part-of-speech-title {
+    margin-left: 20%;
   }
   .part-of-speech-type {
-    width: 70vh;
+    margin-right: 20%;
+  }
+  .example-title {
+    margin-left: 20%;
+  }
+  .example-text {
+    width: 60%;
+    margin-right: 13%;
   }
 }
 </style>
