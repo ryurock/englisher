@@ -1,5 +1,5 @@
 <template>
-  <section class="container">
+  <main class="container">
     <div>
       <h1 class="title">
         英単語を素早く覚えましょう
@@ -29,7 +29,7 @@
       <p>必要なのは覚えたいという気持ちだけです。</p>
     </section>
 
-  </section>
+  </main>
 </template>
 
 <script>
@@ -49,21 +49,19 @@ export default {
 <style>
 .container {
   color: #526488;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+  width: 90%;
+  margin: 0 auto;
   text-align: center;
 }
 
 .title {
   margin-top: 20vh;
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   display: block;
   font-weight: 300;
   font-size: 40px;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
+  text-align: justify;
 }
 
 .subtitle {
@@ -71,6 +69,8 @@ export default {
   font-size: 28px;
   word-spacing: 5px;
   padding-bottom: 15px;
+  text-align: justify;
+  letter-spacing: 1px;
 }
 
 .links {
@@ -85,6 +85,7 @@ export default {
   text-decoration: none;
   padding: 10px 30px;
   margin-bottom: 3vh;
+  font-size: 15px;
 }
 
 .button--green:hover {
@@ -118,6 +119,7 @@ export default {
 .sub-section p {
   font-size: 18px;
   margin: auto 3vh;
+  text-align: justify;
 }
 
 @media screen and (min-width: 760px) {

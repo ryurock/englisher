@@ -55,8 +55,7 @@ export default {
 <style>
 .container {
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  min-height: 5vh;
-  margin-top: 5vh;
+  margin-top: 10vh;
   color: #35495e;
 }
 
