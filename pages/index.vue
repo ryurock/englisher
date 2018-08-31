@@ -24,11 +24,6 @@
           class="button--green">ベーシック英単語一覧を見る</a>
       </div>
     </section>
-    <section class="sub-section">
-      <h3>ユーザー登録、課金は一切ありません。</h3>
-      <p>必要なのは覚えたいという気持ちだけです。</p>
-    </section>
-
   </main>
 </template>
 
@@ -61,7 +56,6 @@ export default {
   font-weight: 300;
   font-size: 40px;
   letter-spacing: 0px;
-  text-align: justify;
 }
 
 .subtitle {
@@ -123,8 +117,11 @@ export default {
 }
 
 @media screen and (min-width: 760px) {
-  .container {
-    margin: 0 30%;
+  .subtitle {
+    margin: auto 10%;
+  }
+  .sub-section p {
+    margin: auto 10%;
   }
 }
 </style>
