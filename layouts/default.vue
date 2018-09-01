@@ -4,6 +4,8 @@
     <nuxt/>
   </div>
 </template>
+<script>
+</script>
 
 <style>
 html {
@@ -29,7 +31,7 @@ body {
 
 </style>
 <script>
-import AppHeader from "~/components/Header";
+import AppHeader from "~/components/AppHeader";
 export default {
   components: {AppHeader}
 }

@@ -14,7 +14,7 @@
 .logo {
   display: inline-block;
   margin-left: 3%;
-  margin-top: 7px;
+  margin-top: 5px;
   font-size: 22px;
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-style: italic;

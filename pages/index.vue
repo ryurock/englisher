@@ -2,10 +2,10 @@
   <main class="container">
     <div>
       <h1 class="title">
-        英単語を素早く覚えましょう
+        英語スキルの向上を
       </h1>
       <h2 class="subtitle">
-        ennerはベーシック英語やスペシャルイングリッシュを元にしたシンプルな英単語、フレーズを学べます。
+        ベーシック英語やスペシャルイングリッシュを元にしたシンプルな英単語、フレーズを学べます。
       </h2>
       <div class="links">
         <nuxt-link to="/speedcard/basic-english/850/fast" class="button--green">
@@ -63,13 +63,14 @@
           class="button--green">スペシャルイングリッシュの単語一覧を見る</a>
       </div>
     </section>
-
+    <AppFooter />
   </main>
 </template>
 
 <script>
+import AppFooter from "~/components/AppFooter";
 export default {
-  components: {},
+  components: {AppFooter},
   head() {
     return {
       title: 'enner | ベーシック英単語を素早く読み流す',
