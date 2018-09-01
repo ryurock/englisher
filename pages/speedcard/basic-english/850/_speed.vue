@@ -1,4 +1,5 @@
 <template>
+  <no-ssr>
   <main class="container">
     <div class="word">
       <h1>{{ word }}</h1>
@@ -101,6 +102,7 @@
       </div>
     </footer>
   </main>
+  </no-ssr>
 </template>
 
 <script>
@@ -118,7 +120,7 @@ export default {
   async asyncData ({params}) {
     const speedMap = {
       veryfast: {
-        speakRate: 2,
+        speakRate: 2.25,
         delay: 500,
         label: '超早い'
       },
@@ -171,6 +173,13 @@ export default {
       wordLength: basicEnglish850Words.length,
       isPlay: false,
       isVoice: false
+    }
+  },
+  created() {
+    if (process.browser) {
+      window.onbeforeunload = (e) => {
+        this.speaker.cancel();
+      };
     }
   },
   mounted() {
@@ -239,10 +248,7 @@ export default {
         this.wordLength--;
       }, this.wordDelay);
     },
-    say() {
-
-    }
-  }
+  },
 }
 </script>
 
