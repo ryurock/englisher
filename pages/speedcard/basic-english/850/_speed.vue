@@ -1,5 +1,4 @@
 <template>
-<no-ssr>
   <main class="container">
     <div class="word">
       <h1>{{ word }}</h1>
@@ -75,6 +74,16 @@
           <path fill-rule="evenodd" d="M12 8.02c0 1.09-.45 2.09-1.17 2.83l-.67-.67c.55-.56.89-1.31.89-2.16 0-.85-.34-1.61-.89-2.16l.67-.67A3.99 3.99 0 0 1 12 8.02zM7.72 2.28L4 6H2c-.55 0-1 .45-1 1v2c0 .55.45 1 1 1h2l3.72 3.72c.47.47 1.28.14 1.28-.53V2.81c0-.67-.81-1-1.28-.53zm5.94.08l-.67.67a6.996 6.996 0 0 1 2.06 4.98c0 1.94-.78 3.7-2.06 4.98l.67.67A7.973 7.973 0 0 0 16 8c0-2.22-.89-4.22-2.34-5.66v.02zm-1.41 1.41l-.69.67a5.05 5.05 0 0 1 1.48 3.58c0 1.39-.56 2.66-1.48 3.56l.69.67A5.97 5.97 0 0 0 14 8.02c0-1.65-.67-3.16-1.75-4.25z"></path>
         </svg>
 
+        <div class="speed">
+          <button class="dropbtn">{{ speedLabel }}</button>
+          <div class="speed-content">
+            <nuxt-link v-if="speedKey != 'slow'" to="/speedcard/basic-english/850/slow">遅い</nuxt-link>
+            <nuxt-link v-if="speedKey != 'normal'" to="/speedcard/basic-english/850/normal">普通</nuxt-link>
+            <nuxt-link v-if="speedKey != 'fast'" to="/speedcard/basic-english/850/fast">早い</nuxt-link>
+            <nuxt-link v-if="speedKey != 'veryFast'" to="/speedcard/basic-english/850/veryfast">超早い</nuxt-link>
+          </div>
+        </div>
+
         <div class="countdown-timer-wrap">
           <div class="timer">
             <div class="min">
@@ -86,49 +95,93 @@
             </div>
           </div>
           <div class="timer-message">
-            <p>残 {{ count }}</p>
+            <p>残 {{ wordLength }}</p>
           </div>
         </div>
       </div>
     </footer>
   </main>
-</no-ssr>
-
 </template>
 
 <script>
 import basicEnglish850Words from '~/models/words/basic-english/850.json';
 import swal from 'sweetalert';
-import Artyom from 'artyom.js';
+import Speaker from '~/lib/speaker';
 
 export default {
-  data() {
-    const defaultSpeed = 2;
-    const endSeconds = (basicEnglish850Words.length * defaultSpeed);
+  validate({params}) {
+    if (params.speed) {
+      return /^(normal|fast|slow|veryfast)$/gm.test(params.speed);
+    }
+    return false;
+  },
+  async asyncData ({params}) {
+    const speedMap = {
+      veryfast: {
+        speakRate: 2,
+        delay: 500,
+        label: '超早い'
+      },
+      fast: {
+        speakRate: 1.75,
+        delay: 750,
+        label: '早い'
+      },
+      normal: {
+        speakRate: 1,
+        delay: 1000,
+        label: '普通'
+      },
+      slow: {
+        speakRate: 1,
+        delay: 2000,
+        label: '遅い'
+      }
+    };
+    let speed = speedMap.normal.speed;
+    let delay = speedMap.normal.delay;
+    if (params.speed) {
+      speed = speedMap[params.speed].speakRate;
+      delay = speedMap[params.speed].delay;
+    }
+
+    const endSeconds = (basicEnglish850Words.length * (delay / 1000));
     const startDateTime = new Date();
     const endDateTime   = new Date((startDateTime.getTime() + endSeconds * 1000));
     const left = endDateTime - startDateTime;
     const a_day = 24 * 60 * 60 * 1000;
 
     const wordInfo = basicEnglish850Words.shift();
+
     return {
+      speedKey: params.speed,
+      speedLabel: speedMap[params.speed].label,
+      speedDelay: speedMap[params.speed].delay,
+      speakRate: speedMap[params.speed].speakRate,
       words: basicEnglish850Words,
       word: wordInfo.langueges.en.tokens[0],
       trans: wordInfo.langueges.ja,
-      wordDelay: (defaultSpeed * 1000),
-      startDateTime: startDateTime,
-      endDateTime: endDateTime,
+      wordDelay: delay,
+      startTime: startDateTime.getTime(),
+      endTime: endDateTime.getTime(),
       hours: Math.floor((left % a_day) / (60 * 60 * 1000)).toString().padStart(2, "0"),
       minutes: (Math.floor((left % a_day) / (60 * 1000)) % 60).toString().padStart(2, "0"),
       seconds: (Math.floor((left % a_day) / 1000) % 60 % 60).toString().padStart(2, "0"),
-      count: basicEnglish850Words.length,
+      wordCounter: 0,
+      wordLength: basicEnglish850Words.length,
       isPlay: false,
       isVoice: false
     }
   },
   mounted() {
-    this.counter = 0;
-    this.artyom = new Artyom();
+    this.speaker = new Speaker();
+    if (!this.speaker.isSay()) {
+      this.isPlay = true;
+      this.loadPlay();
+      this.loadTimer();
+      return;
+    }
+
     swal({
       title: "発音の自動再生しますか？",
       icon: "warning",
@@ -136,7 +189,8 @@ export default {
     })
     .then((isVoice) => {
       if (isVoice) {
-        this.artyom.say(this.word);
+        this.speaker.speed(this.speakRate);
+        this.speaker.say(this.word);
         this.isVoice = true;
       } else {
         this.isVoice = false;
@@ -163,26 +217,30 @@ export default {
     },
     loadTimer() {
       this.timerInterval = setInterval(() => {
-        this.endDateTime = (this.endDateTime - 1000);
-        const left = this.endDateTime - this.startDateTime;
+        if (left == 0) clearInterval(this.timerInterval);
+        this.startTime = parseInt(this.startTime);
+        this.endTime = parseInt(this.endTime) - 1000;
+        const left = this.endTime - this.startTime;
         const a_day = 24 * 60 * 60 * 1000;
         this.hours = Math.floor((left % a_day) / (60 * 60 * 1000)).toString().padStart(2, "0");
         this.minutes = (Math.floor((left % a_day) / (60 * 1000)) % 60).toString().padStart(2, "0");
         this.seconds = (Math.floor((left % a_day) / 1000) % 60 % 60).toString().padStart(2, "0");
-
       }, 1000);
     },
     loadPlay() {
       this.wordInterval = setInterval(() => {
-        this.word = this.words[this.counter].langueges.en.tokens[0];
-        this.trans = this.words[this.counter].langueges.ja;
+        this.word = this.words[this.wordCounter].langueges.en.tokens[0];
+        this.trans = this.words[this.wordCounter].langueges.ja;
 
-        if (this.words.length == this.counter) clearInterval(this.wordInterval);
-        if (this.isVoice) this.artyom.say(this.word);
+        if (this.words.length == this.wordCounter) clearInterval(this.wordInterval);
+        if (this.isVoice) this.speaker.say(this.word);
         if (this.isPlay == false) clearInterval(this.wordInterval);
-        this.counter++;
-        this.count--;
+        this.wordCounter++;
+        this.wordLength--;
       }, this.wordDelay);
+    },
+    say() {
+
     }
   }
 }
@@ -310,6 +368,52 @@ export default {
 .player-icon {
   font-size: 3vh;
   margin-right: 2vh;
+}
+
+
+.dropbtn {
+  height: 28px;
+  background-color: #5e803b;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;/* for Safari and Chrome 対応*/
+  -moz-border-radius: 5px;/* for Firefox 対応*/
+}
+
+.speed {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 3vh;
+}
+
+.speed-content {
+  display: none;
+  position: absolute;
+  background-color: #3b8070;
+  min-width: 72px;
+  bottom: 35px;
+  left: -11px;
+  z-index: 1;
+}
+
+.speed-content a {
+  display: block;
+  padding: 12px 16px;
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+}
+
+.speed-content a:hover {background-color: #ccc}
+.speed:hover .speed-content {
+  display: block;
+}
+
+.speed:hover .dropbtn {
+  background-color: #3e8e41;
 }
 
 .countdown-timer-wrap {

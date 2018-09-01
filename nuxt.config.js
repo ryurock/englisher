@@ -20,7 +20,7 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://unpkg.com/normalize.css@8.0.0/normalize.css' }
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css' }
     ]
   },
   /*
@@ -33,7 +33,6 @@ module.exports = {
   build: {
     vendor: [
       'sweetalert',
-      'artyom.js'
     ],
     /*
     ** Run ESLint on save
