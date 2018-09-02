@@ -3,15 +3,15 @@
     <h1 class="logo"><a href="/">enner</a></h1>
   </header>
 </template>
-<style>
-.header {
+<style lang="sass">
+.header
   position: absolute;
   top: 0;
   width: 100%;
   height: 40px;
   background-color: #3b8070;
-}
-.logo {
+
+.logo
   display: inline-block;
   margin-left: 3%;
   margin-top: 5px;
@@ -20,11 +20,9 @@
   font-style: italic;
   font-weight: normal;
   color: white;
-}
 
-.logo a {
+.logo a
   text-decoration: none;
   color: white;
   letter-spacing: -1px;
-}
 </style>
