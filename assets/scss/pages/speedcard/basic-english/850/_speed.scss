@@ -1,0 +1,206 @@
+.container {
+  margin-top: 10vh;
+  color: #35495e;
+}
+
+.word {
+  h1 {
+    margin: 3vh auto;
+    padding-top: 1vh;
+    font-size: 48px;
+    word-break: break-all;
+    text-align: center;
+  }
+}
+
+.translate-section {
+  margin-bottom: 2vh;
+
+  &__word h2 {
+    margin: 3vh auto;
+    font-size: 28px;
+    color: #3b8070;
+    text-align: center;
+  }
+
+  &__part-of-speech {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1vh;
+    margin-top: 6vh;
+
+    &-title {
+      font-style: italic;
+      margin-top: auto;
+      margin-left: 10%;
+    }
+
+    &-type {
+      margin-right: 20%;
+    }
+  }
+
+  &__example {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+
+    &-title {
+      font-style: italic;
+      margin-left: 10%;
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+
+    &-text {
+      width: 67%;
+      margin-right: 10%;
+      font-size: 26px;
+      line-height: 30px;
+      letter-spacing: 0px;
+      text-align: right;
+
+      h3 {
+        font-size: 26px;
+        font-weight: 400;
+        line-height: 26px;
+      }
+    }
+  }
+}
+
+.ad-section {
+  position: absolute;
+  bottom: 10vh;
+  width: 100%;
+  &__banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  background-color: #3b8070;
+  width: 100%;
+  padding: 2vh;
+}
+
+.octicon {
+  display: inline-block; /* 公式と同じ */
+  fill: currentColor;    /* 公式と同じ */
+  height: 1.4em; /* 大きさは height で指定 */
+}
+
+.player {
+  font-size: 24px;
+  text-align: center;
+  height: 4vh;
+  line-height: 4vh;
+
+  &__icon {
+    font-size: 3vh;
+    margin-right: 2vh;
+  }
+
+  &__speed:hover &__speed-dropup-content, &__speed:hover &__speed-dropbtn {
+    display: block;
+  }
+
+  &__speed {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 3vh;
+
+    &-dropbtn {
+      height: 28px;
+      background-color: #5e803b;
+      color: white;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      -webkit-border-radius: 5px;/* for Safari and Chrome 対応*/
+      -moz-border-radius: 5px;/* for Firefox 対応*/
+    }
+
+    &-dropup-content {
+      display: none;
+      position: absolute;
+      background-color: #3b8070;
+      min-width: 72px;
+      bottom: 35px;
+      left: -11px;
+      z-index: 1;
+
+      a {
+        display: block;
+        padding: 12px 16px;
+        font-size: 16px;
+        color: white;
+        text-decoration: none;
+
+        :hover {
+          background-color: #ccc;
+        }
+      }
+    }
+  }
+
+  &__timer-section {
+    display: inline-block;
+    width: 197px;
+    vertical-align: top;
+
+    &-timer {
+      display: inline-block;
+      margin-right: 0.3em;
+
+      &-hour, &-min, &-sec {
+        display: inline-block;
+      }
+    }
+
+    &-word-counter {
+      display: inline-block;
+      font-size: 18px;
+    }
+  }
+}
+
+
+@media screen and (min-width: 920px) {
+  .container {
+    width: 100%;
+    margin-top: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .translate-section {
+    &__part-of-speech {
+      &-title {
+        margin-left: 30%;
+      }
+      &-type {
+        margin-right: 30%;
+      }
+    }
+
+    &__example {
+      &-title {
+        margin-left: 30%;
+      }
+      &-text {
+        width: 52%;
+        margin-right: 13%;
+        h3 {
+          text-align: center;
+        }
+      }
+    }
+  }
+}
