@@ -5,29 +5,25 @@
   </footer>
 </template>
 
-<style>
+<style lang="scss">
 .app-footer {
   font-size: 11px;
   width: 100%;
   height: 30px;
+
+  a {
+    color: $brown;
+  }
 }
 
-.app-footer a {
-  color: #555;
-}
-
-.privacy {
+.privacy{
   margin: 1vh;
 }
 
 .copyright {
-  color: #526488;
+  color: $text-color;
   margin: 1vh;
   text-align: center;
-}
-.copyright a {
-  color: #3b8070;
-  text-decoration: none;
 }
 </style>
 

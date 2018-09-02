@@ -4,29 +4,29 @@
     <div class="word">
       <h1>{{ word }}</h1>
     </div>
-    <section v-for="(tran, key, index) in trans" v-bind:key="index" class="trans">
-      <div class="trans-word">
+    <section v-for="(tran, key, index) in trans" v-bind:key="index" class="translate-section">
+      <div class="translate-section__word">
         <h2>{{ tran.tokens.join(' / ') }}</h2>
       </div>
-      <div class="part-of-speech">
-        <div class="part-of-speech-title">
+      <div class="translate-section__part-of-speech">
+        <div class="translate-section__part-of-speech-title">
           <p>品詞</p>
         </div>
-        <div class="part-of-speech-type">
+        <div class="translate-section__part-of-speech-type">
           <h3>{{ tran.wordClass.join(' / ') }}</h3>
         </div>
       </div>
-      <div v-if="tran.example.length > 0" class="example">
-        <div class="example-title">
+      <div v-if="tran.example.length > 0" class="translate-section__example">
+        <div class="translate-section__example-title">
           <p>例文</p>
         </div>
-        <div class="example-text">
+        <div class="translate-section__example-text">
           <h3>{{ tran.example.join(' / ') }}</h3>
         </div>
       </div>
     </section>
-    <section class="ad">
-      <div class="banner">
+    <section class="ad-section">
+      <div class="ad-section__banner">
         <img src="https://placehold.jp/320x100.png" />
       </div>
     </section>
@@ -35,7 +35,7 @@
         <svg
           v-if="isPlay == false"
           v-on:click="togglePlay(true)"
-          class="octicon octicon-triangle-right player-icon"
+          class="octicon octicon-triangle-right player__icon"
           viewBox="0 0 6 16"
           version="1.1"
           width="12"
@@ -45,7 +45,7 @@
         <svg
           v-else
           v-on:click="togglePlay(false)"
-          class="octicon octicon-x player-icon"
+          class="octicon octicon-x player__icon"
           viewBox="0 0 12 16"
           version="1.1"
           width="26"
@@ -57,7 +57,7 @@
         <svg
           v-if="isVoice == false"
           v-on:click="toggleVoice(true)"
-          class="octicon octicon-mute player-icon"
+          class="octicon octicon-mute player__icon"
           viewBox="0 0 16 16"
           version="1.1"
           width="32"
@@ -67,7 +67,7 @@
         <svg
           v-else
           v-on:click="toggleVoice(false)"
-          class="octicon octicon-unmute player-icon"
+          class="octicon octicon-unmute player__icon"
           viewBox="0 0 16 16"
           version="1.1"
           width="32"
@@ -75,9 +75,9 @@
           <path fill-rule="evenodd" d="M12 8.02c0 1.09-.45 2.09-1.17 2.83l-.67-.67c.55-.56.89-1.31.89-2.16 0-.85-.34-1.61-.89-2.16l.67-.67A3.99 3.99 0 0 1 12 8.02zM7.72 2.28L4 6H2c-.55 0-1 .45-1 1v2c0 .55.45 1 1 1h2l3.72 3.72c.47.47 1.28.14 1.28-.53V2.81c0-.67-.81-1-1.28-.53zm5.94.08l-.67.67a6.996 6.996 0 0 1 2.06 4.98c0 1.94-.78 3.7-2.06 4.98l.67.67A7.973 7.973 0 0 0 16 8c0-2.22-.89-4.22-2.34-5.66v.02zm-1.41 1.41l-.69.67a5.05 5.05 0 0 1 1.48 3.58c0 1.39-.56 2.66-1.48 3.56l.69.67A5.97 5.97 0 0 0 14 8.02c0-1.65-.67-3.16-1.75-4.25z"></path>
         </svg>
 
-        <div class="speed">
-          <button class="dropbtn">{{ speedLabel }}</button>
-          <div class="speed-content">
+        <div class="player__speed">
+          <button class="player__speed-dropbtn">{{ speedLabel }}</button>
+          <div class="player__speed-dropup-content">
             <nuxt-link v-if="speedKey != 'slow'" to="/speedcard/basic-english/850/slow">遅い</nuxt-link>
             <nuxt-link v-if="speedKey != 'normal'" to="/speedcard/basic-english/850/normal">普通</nuxt-link>
             <nuxt-link v-if="speedKey != 'fast'" to="/speedcard/basic-english/850/fast">早い</nuxt-link>
@@ -85,17 +85,17 @@
           </div>
         </div>
 
-        <div class="countdown-timer-wrap">
-          <div class="timer">
-            <div class="min">
-              <span class="number">{{ minutes }}</span>
-              <span class="format">:</span>
+        <div class="player__timer-section">
+          <div class="player__timer-section-timer">
+            <div class="player__timer-section-timer-min">
+              <span class="player__timer-section-timer-number">{{ minutes }}</span>
+              <span class="player__timer-section-timer-format">:</span>
             </div>
-            <div class="sec">
-              <span class="number">{{ seconds }}</span>
+            <div class="player__timer-section-timer-sec">
+              <span class="player__timer-section-timer-number">{{ seconds }}</span>
             </div>
           </div>
-          <div class="timer-message">
+          <div class="player__timer-section-word-counter">
             <p>残 {{ wordLength }}</p>
           </div>
         </div>
@@ -252,218 +252,6 @@ export default {
 }
 </script>
 
-<style>
-.container {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  margin-top: 10vh;
-  color: #35495e;
-}
-
-
-.word h1 {
-  margin: 3vh auto;
-  padding-top: 1vh;
-  font-size: 48px;
-  word-break: break-all;
-  text-align: center;
-}
-
-.trans {
-  margin-bottom: 2vh;
-}
-
-.trans-word h2 {
-  margin: 3vh auto;
-  font-size: 28px;
-  color: #3b8070;
-  text-align: center;
-}
-
-.part-of-speech {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 1vh;
-  margin-top: 6vh;
-}
-
-.part-of-speech-title {
-  font-style: italic;
-  margin-top: auto;
-  margin-left: 10%;
-}
-
-.part-of-speech-type {
-  margin-right: 20%;
-}
-
-.example {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 3vh;
-  margin-bottom: 1vh;
-}
-
-.example-title {
-  font-style: italic;
-  margin-left: 10%;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
-.example-text {
-  width: 67%;
-  margin-right: 10%;
-  font-size: 26px;
-  line-height: 30px;
-  letter-spacing: 0px;
-  text-align: right;
-}
-
-.example-text h3 {
-  font-size: 26px;
-  font-weight: 400;
-  line-height: 26px;
-}
-
-.ad {
-  position: absolute;
-  bottom: 10vh;
-  width: 100%;
-}
-
-.banner {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.grammar {
-  position: absolute;
-  bottom: 29vh;
-  width: 100%;
-}
-
-.grammar-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.footer {
-  position: absolute;
-  bottom: 0;
-  color: white;
-  background-color: #3b8070;
-  width: 100%;
-  padding: 2vh;
-}
-
-.player {
-  font-size: 24px;
-  text-align: center;
-  height: 4vh;
-  line-height: 4vh;
-}
-
-.octicon {
-  display: inline-block; /* 公式と同じ */
-  fill: currentColor;    /* 公式と同じ */
-  height: 1.4em; /* 大きさは height で指定 */
-}
-
-.player-icon {
-  font-size: 3vh;
-  margin-right: 2vh;
-}
-
-
-.dropbtn {
-  height: 28px;
-  background-color: #5e803b;
-  color: white;
-  font-size: 16px;
-  border: none;
-  border-radius: 5px;
-  -webkit-border-radius: 5px;/* for Safari and Chrome 対応*/
-  -moz-border-radius: 5px;/* for Firefox 対応*/
-}
-
-.speed {
-  position: relative;
-  display: inline-block;
-  vertical-align: top;
-  line-height: 3vh;
-}
-
-.speed-content {
-  display: none;
-  position: absolute;
-  background-color: #3b8070;
-  min-width: 72px;
-  bottom: 35px;
-  left: -11px;
-  z-index: 1;
-}
-
-.speed-content a {
-  display: block;
-  padding: 12px 16px;
-  font-size: 16px;
-  color: white;
-  text-decoration: none;
-}
-
-.speed-content a:hover {background-color: #ccc}
-.speed:hover .speed-content {
-  display: block;
-}
-
-.speed:hover .dropbtn {
-  background-color: #3e8e41;
-}
-
-.countdown-timer-wrap {
-  display: inline-block;
-  width: 197px;
-  vertical-align: top;
-}
-.timer {
-  display: inline-block;
-  margin-right: 0.3em;
-}
-
-.timer-message {
-  display: inline-block;
-  font-size: 18px;
-}
-.hour, .min, .sec, .message {
-  display: inline-block;
-}
-
-@media screen and (min-width: 920px) {
-  .container {
-    width: 100%;
-    margin-top: 20vh;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .part-of-speech-title {
-    margin-left: 30%;
-  }
-  .part-of-speech-type {
-    margin-right: 30%;
-  }
-  .example-title {
-    margin-left: 30%;
-  }
-  .example-text {
-    width: 52%;
-    margin-right: 13%;
-  }
-  .example-text h3 {
-    text-align: center;
-  }
-
-}
+<style lang="scss">
+@import '@/assets/scss/pages/speedcard/basic-english/850/_speed.scss';
 </style>

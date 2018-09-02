@@ -1,0 +1,62 @@
+.container {
+  color: $text-color;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.section-top {
+  &__title {
+    margin-top: 20vh;
+    font-family: $title-font-family;
+    display: block;
+    font-weight: 300;
+    font-size: 36px;
+    letter-spacing: 0px;
+  }
+
+  &__sub-title {
+    font-weight: 300;
+    font-size: 28px;
+    word-spacing: 5px;
+    padding-bottom: 15px;
+    text-align: justify;
+    letter-spacing: 3px;
+  }
+}
+
+.section {
+  margin-top: 50px;
+  h3 {
+    margin: 3vh auto;
+    font-weight: 300;
+    font-size: 28px;
+    word-spacing: 5px;
+  }
+
+  p {
+    font-size: 18px;
+    margin: auto 3vh;
+    text-align: justify;
+  }
+}
+
+.links {
+  padding-top: 15px;
+}
+
+@media screen and (min-width: 760px) {
+  .section-top {
+    &__sub-title {
+      text-align: center;
+      margin: auto 10%;
+    }
+  }
+
+  .section {
+    p {
+      text-align: center;
+      margin: auto 15%;
+    }
+  }
+}

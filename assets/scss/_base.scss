@@ -1,0 +1,60 @@
+@import "modules/base";
+
+html {
+  font-family: $default-font-family;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  line-height: 1.2;
+  letter-spacing: 0.1em;
+}
+
+a {
+  color: $green;
+  text-decoration: none;
+}
+
+.button {
+  &__green {
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid $green;
+    color: $green;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-bottom: 3vh;
+    font-size: 15px;
+  }
+
+  &__green:hover {
+    color: $white;
+    background-color: $green;
+  }
+
+  &__grey {
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid $blue-dark;
+    color: $blue-dark;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-left: 15px;
+  }
+
+  &__grey:hover {
+    color: #fff;
+    background-color: $blue-dark;
+  }
+}
