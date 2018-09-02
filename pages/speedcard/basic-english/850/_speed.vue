@@ -78,10 +78,10 @@
         <div class="player__speed">
           <button class="player__speed-dropbtn">{{ speedLabel }}</button>
           <div class="player__speed-dropup-content">
-            <nuxt-link v-if="speedKey != 'slow'" to="/speedcard/basic-english/850/slow">遅い</nuxt-link>
-            <nuxt-link v-if="speedKey != 'normal'" to="/speedcard/basic-english/850/normal">普通</nuxt-link>
-            <nuxt-link v-if="speedKey != 'fast'" to="/speedcard/basic-english/850/fast">早い</nuxt-link>
-            <nuxt-link v-if="speedKey != 'veryFast'" to="/speedcard/basic-english/850/veryfast">超早い</nuxt-link>
+            <a v-if="speedKey != 'slow'"     href="/speedcard/basic-english/850/slow">遅い</a>
+            <a v-if="speedKey != 'normal'"   href="/speedcard/basic-english/850/normal">普通</a>
+            <a v-if="speedKey != 'fast'"     href="/speedcard/basic-english/850/fast">早い</a>
+            <a v-if="speedKey != 'veryfast'" href="/speedcard/basic-english/850/veryfast">超早い</a>
           </div>
         </div>
 

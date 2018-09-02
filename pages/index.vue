@@ -33,7 +33,7 @@
         </a>
       </div>
       <div class="links">
-        <a href="/speedcard/basic-english/850/fast" class="button__green">
+        <a href="/speedcard/basic-english/850/slow" class="button__green">
         スピードカードで英単語を覚える(低速)
         </a>
       </div>
@@ -73,9 +73,9 @@ export default {
   components: {AppFooter},
   head() {
     return {
-      title: 'enner | ベーシック英単語を素早く読み流す',
+      title: 'enner | 英単語やフレーズを簡単な語句、フレーズで覚えれる学べるサイト',
       meta: [
-        { hid: 'description', name: 'description', content: 'My custom description' }
+        { hid: 'description', name: 'description', content: '英語を学習できるサイト。スピードラーニングのような聞き流しや単語やフレーズをみて覚えれる勉強方法等のコンテンツがあります' }
       ]
     }
   }
