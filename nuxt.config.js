@@ -57,7 +57,7 @@ module.exports = {
   },
   modules: [
     ['nuxt-sass-resources-loader', [
-      '@/assets/sass/_base.sass',
+      '@/assets/scss/_base.scss',
     ]],
   ],
 };
