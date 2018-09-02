@@ -8,9 +8,9 @@
         ベーシック英語やスペシャルイングリッシュを元にしたシンプルな英単語、フレーズを学べます。
       </h2>
       <div class="links">
-        <nuxt-link to="/speedcard/basic-english/850/fast" class="button--green">
+        <a href="/speedcard/basic-english/850/fast" class="button--green">
         スピードカードで英単語を覚える
-        </nuxt-link>
+        </a>
       </div>
     </div>
 
@@ -18,24 +18,24 @@
       <h3>スピードカードとは？</h3>
       <p class="text-center">英単語カードのように単語やフレーズをめくりながら黙読できる機能です。</p>
       <div class="links">
-        <nuxt-link to="/speedcard/basic-english/850/veryfast" class="button--green">
+        <a href="/speedcard/basic-english/850/veryfast" class="button--green">
         スピードカードで英単語を覚える(2倍速)
-        </nuxt-link>
+        </a>
       </div>
       <div class="links">
-        <nuxt-link to="/speedcard/basic-english/850/fast" class="button--green">
+        <a href="/speedcard/basic-english/850/fast" class="button--green">
         スピードカードで英単語を覚える(1.5倍速)
-        </nuxt-link>
+        </a>
       </div>
       <div class="links">
-        <nuxt-link to="/speedcard/basic-english/850/normal" class="button--green">
+        <a href="/speedcard/basic-english/850/normal" class="button--green">
         スピードカードで英単語を覚える(1倍速)
-        </nuxt-link>
+        </a>
       </div>
       <div class="links">
-        <nuxt-link to="/speedcard/basic-english/850/fast" class="button--green">
+        <a href="/speedcard/basic-english/850/fast" class="button--green">
         スピードカードで英単語を覚える(低速)
-        </nuxt-link>
+        </a>
       </div>
     </section>
 
