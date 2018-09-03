@@ -1,4 +1,4 @@
-const wordDict = require('../models/words/basic-english850.json');
+const wordDict = require('../models/words/basic-english/850.json');
 const pry = require('pryjs');
 const fs = require('fs');
 
@@ -923,4 +923,3 @@ reMapData = reMapData.map((v, i) => {
 });
 
 fs.writeFileSync('./models/words/basic-english/850.json', JSON.stringify(reMapData, null, '  '));
-// console.log(reMapData[1].ja);
