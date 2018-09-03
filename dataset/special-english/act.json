@@ -1,0 +1,48 @@
+{
+  "tokens": [
+    "act"
+  ],
+  "token": [],
+  "sort": null,
+  "meta": {
+    "specialEnglish": ""
+  },
+  "phrases": [],
+  "synonyms": [
+    "move",
+    "go",
+    "take",
+    "race",
+    "pull",
+    "try",
+    "continue",
+    "force",
+    "deal",
+    "play",
+    "repeat",
+    "surprise",
+    "effect",
+    "wait",
+    "keep",
+    "oppose",
+    "guard",
+    "carry",
+    "use",
+    "create",
+    "start",
+    "attack",
+    "hurry",
+    "volunteer",
+    "partner",
+    "court",
+    "offer",
+    "begin",
+    "finish",
+    "react",
+    "attempt",
+    "perform"
+  ],
+  "translations": {
+    "ja": []
+  }
+}

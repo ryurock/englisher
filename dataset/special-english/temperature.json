@@ -1,0 +1,22 @@
+{
+  "tokens": [
+    "temperature"
+  ],
+  "token": [],
+  "sort": null,
+  "meta": {
+    "specialEnglish": ""
+  },
+  "phrases": [],
+  "synonyms": [
+    "cold",
+    "hot",
+    "boil",
+    "warm",
+    "cool",
+    "heat"
+  ],
+  "translations": {
+    "ja": []
+  }
+}

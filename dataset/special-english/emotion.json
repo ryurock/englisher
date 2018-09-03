@@ -1,0 +1,21 @@
+{
+  "tokens": [
+    "emotion"
+  ],
+  "token": [],
+  "sort": null,
+  "meta": {
+    "specialEnglish": ""
+  },
+  "phrases": [],
+  "synonyms": [
+    "love",
+    "anger",
+    "fear",
+    "hate",
+    "spirit"
+  ],
+  "translations": {
+    "ja": []
+  }
+}

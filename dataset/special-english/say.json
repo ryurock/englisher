@@ -1,0 +1,30 @@
+{
+  "tokens": [
+    "say"
+  ],
+  "token": [],
+  "sort": null,
+  "meta": {
+    "specialEnglish": ""
+  },
+  "phrases": [],
+  "synonyms": [
+    "represent",
+    "supply",
+    "explain",
+    "add",
+    "note",
+    "state",
+    "answer",
+    "announce",
+    "tell",
+    "express",
+    "observe",
+    "present",
+    "give",
+    "declare"
+  ],
+  "translations": {
+    "ja": []
+  }
+}

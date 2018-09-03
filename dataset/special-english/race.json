@@ -1,0 +1,23 @@
+{
+  "tokens": [
+    "race"
+  ],
+  "token": [],
+  "sort": null,
+  "meta": {
+    "specialEnglish": ""
+  },
+  "phrases": [],
+  "synonyms": [
+    "move",
+    "go",
+    "speed",
+    "travel",
+    "charge",
+    "shoot",
+    "tear"
+  ],
+  "translations": {
+    "ja": []
+  }
+}
