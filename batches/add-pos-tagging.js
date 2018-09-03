@@ -8,13 +8,12 @@ const nlp = require('compromise');
 let reMapData = wordDict.map((dict) => {
   let data = {
     id: dict.id,
-    langueges: {
-      en: {
-        tokens: dict.langueges.en.tokens[0],
-        token: [],
-        sort: dict.langueges.en.sort,
-        meta: dict.langueges.en.meta
-      },
+    tokens: [dict.langueges.en.tokens[0]],
+    token: [],
+    sort: dict.langueges.en.sort,
+    meta: dict.langueges.en.meta,
+    phrases: [],
+    translations: {
       ja: dict.langueges.ja
     }
   };
@@ -26,13 +25,10 @@ let reMapData = wordDict.map((dict) => {
       postTags: nlp(tokens[i]).terms(0).data()[0].tags,
       bestPosTag: nlp(tokens[i]).terms(0).data()[0].bestTag
     };
-    data.langueges.en.token.push(token);
+    data.token.push(token);
   }
   return data;
 });
 
 fs.writeFileSync('./models/words/basic-english.json', JSON.stringify(reMapData, null, '  '));
 fs.writeFileSync('./models/words/basic-english.min.json', JSON.stringify(reMapData));
-
-console.log(reMapData[0].langueges.en);
-
