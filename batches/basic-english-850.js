@@ -1,4 +1,4 @@
-const wordDict = require('../models/words/basic-english/850.json');
+const wordDict = require('../models/words/basic-english850.json');
 const pry = require('pryjs');
 const fs = require('fs');
 
