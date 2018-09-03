@@ -923,4 +923,3 @@ reMapData = reMapData.map((v, i) => {
 });
 
 fs.writeFileSync('./models/words/basic-english/850.json', JSON.stringify(reMapData, null, '  '));
-// console.log(reMapData[1].ja);
