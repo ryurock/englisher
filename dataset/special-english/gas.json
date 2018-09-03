@@ -12,6 +12,10 @@
     "state"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ガス"
+      }
+    ]
   }
 }

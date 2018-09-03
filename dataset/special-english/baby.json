@@ -12,6 +12,10 @@
     "child"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "赤ちゃん"
+      }
+    ]
   }
 }

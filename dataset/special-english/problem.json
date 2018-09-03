@@ -12,6 +12,10 @@
     "job"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "問題"
+      }
+    ]
   }
 }

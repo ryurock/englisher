@@ -22,6 +22,10 @@
     "order"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "決めます"
+      }
+    ]
   }
 }

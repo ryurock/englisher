@@ -19,6 +19,10 @@
     "ignore"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "扱います"
+      }
+    ]
   }
 }

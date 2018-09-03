@@ -12,6 +12,10 @@
     "up"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "方へ"
+      }
+    ]
   }
 }

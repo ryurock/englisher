@@ -13,6 +13,10 @@
     "ballot"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "拒否"
+      }
+    ]
   }
 }

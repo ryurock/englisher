@@ -12,6 +12,10 @@
     "brief"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ショート"
+      }
+    ]
   }
 }

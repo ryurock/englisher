@@ -15,6 +15,10 @@
     "cotton"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "以下のような"
+      }
+    ]
   }
 }

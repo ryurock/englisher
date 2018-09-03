@@ -12,6 +12,10 @@
     "power"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "スキル"
+      }
+    ]
   }
 }

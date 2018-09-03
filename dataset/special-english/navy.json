@@ -12,6 +12,10 @@
     "service"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "海軍"
+      }
+    ]
   }
 }

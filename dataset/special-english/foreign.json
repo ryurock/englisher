@@ -12,6 +12,10 @@
     "international"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "外国の"
+      }
+    ]
   }
 }

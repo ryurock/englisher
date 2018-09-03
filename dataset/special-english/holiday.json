@@ -12,6 +12,10 @@
     "vacation"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "休日"
+      }
+    ]
   }
 }

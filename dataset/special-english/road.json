@@ -15,6 +15,10 @@
     "drive"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "道路"
+      }
+    ]
   }
 }

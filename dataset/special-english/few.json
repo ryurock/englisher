@@ -12,6 +12,10 @@
     "some"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "少数"
+      }
+    ]
   }
 }

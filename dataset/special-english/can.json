@@ -12,6 +12,10 @@
     "keep"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "できる"
+      }
+    ]
   }
 }

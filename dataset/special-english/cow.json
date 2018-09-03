@@ -28,6 +28,10 @@
     "face"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "牛"
+      }
+    ]
   }
 }

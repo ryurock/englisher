@@ -16,6 +16,10 @@
     "release"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "犠牲"
+      }
+    ]
   }
 }

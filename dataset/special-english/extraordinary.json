@@ -17,6 +17,10 @@
     "terrible"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "素晴らしいです"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "hide"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "埋め込む"
+      }
+    ]
   }
 }

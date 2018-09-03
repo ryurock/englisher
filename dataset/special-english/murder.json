@@ -12,6 +12,10 @@
     "hit"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "殺人"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "sickness"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "疾患"
+      }
+    ]
   }
 }

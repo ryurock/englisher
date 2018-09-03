@@ -16,6 +16,10 @@
     "travel"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ライド"
+      }
+    ]
   }
 }

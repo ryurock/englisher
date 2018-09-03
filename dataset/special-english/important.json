@@ -17,6 +17,10 @@
     "serious"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "重要"
+      }
+    ]
   }
 }

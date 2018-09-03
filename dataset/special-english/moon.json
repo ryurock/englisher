@@ -12,6 +12,10 @@
     "moon"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "月"
+      }
+    ]
   }
 }

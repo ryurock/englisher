@@ -12,6 +12,10 @@
     "yellow"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ゴールド"
+      }
+    ]
   }
 }

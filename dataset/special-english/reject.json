@@ -14,6 +14,10 @@
     "judge"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "拒絶します"
+      }
+    ]
   }
 }

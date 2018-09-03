@@ -13,6 +13,10 @@
     "combine"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ミックス"
+      }
+    ]
   }
 }

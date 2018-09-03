@@ -13,6 +13,10 @@
     "fan"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "振ります"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "improve"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "癒します"
+      }
+    ]
   }
 }

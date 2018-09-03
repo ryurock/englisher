@@ -13,6 +13,10 @@
     "provide"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "提供"
+      }
+    ]
   }
 }

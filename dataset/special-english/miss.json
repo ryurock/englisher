@@ -12,6 +12,10 @@
     "lose"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ミス"
+      }
+    ]
   }
 }

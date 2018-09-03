@@ -12,6 +12,10 @@
     "close"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "次"
+      }
+    ]
   }
 }

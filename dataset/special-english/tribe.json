@@ -16,6 +16,10 @@
     "try"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "部族"
+      }
+    ]
   }
 }

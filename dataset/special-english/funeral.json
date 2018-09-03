@@ -12,6 +12,10 @@
     "ceremony"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "葬儀"
+      }
+    ]
   }
 }

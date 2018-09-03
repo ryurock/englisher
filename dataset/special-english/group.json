@@ -21,6 +21,10 @@
     "mass"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "グループ"
+      }
+    ]
   }
 }

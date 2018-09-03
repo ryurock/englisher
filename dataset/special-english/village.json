@@ -13,6 +13,10 @@
     "television"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "村"
+      }
+    ]
   }
 }

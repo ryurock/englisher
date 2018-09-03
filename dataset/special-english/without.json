@@ -12,6 +12,10 @@
     "wash"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "無し"
+      }
+    ]
   }
 }

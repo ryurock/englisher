@@ -17,6 +17,10 @@
     "drive"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "クロス"
+      }
+    ]
   }
 }

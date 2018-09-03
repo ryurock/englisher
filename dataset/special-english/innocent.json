@@ -12,6 +12,10 @@
     "clear"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "無実の"
+      }
+    ]
   }
 }

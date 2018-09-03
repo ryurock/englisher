@@ -16,6 +16,10 @@
     "hold"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "持続する"
+      }
+    ]
   }
 }

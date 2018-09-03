@@ -12,6 +12,10 @@
     "part"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ピース"
+      }
+    ]
   }
 }

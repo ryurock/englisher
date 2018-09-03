@@ -16,6 +16,10 @@
     "property"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "方法"
+      }
+    ]
   }
 }

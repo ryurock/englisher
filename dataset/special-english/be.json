@@ -87,6 +87,10 @@
     "weigh"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "されます"
+      }
+    ]
   }
 }

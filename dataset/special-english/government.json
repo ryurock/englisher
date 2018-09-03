@@ -15,6 +15,10 @@
     "legislature"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "政府"
+      }
+    ]
   }
 }

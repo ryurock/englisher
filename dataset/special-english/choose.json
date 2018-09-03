@@ -25,6 +25,10 @@
     "limit"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "選択"
+      }
+    ]
   }
 }

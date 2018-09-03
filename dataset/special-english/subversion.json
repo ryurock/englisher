@@ -12,6 +12,10 @@
     "corruption"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "転覆"
+      }
+    ]
   }
 }

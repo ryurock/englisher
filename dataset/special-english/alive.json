@@ -13,6 +13,10 @@
     "live"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "生きています"
+      }
+    ]
   }
 }

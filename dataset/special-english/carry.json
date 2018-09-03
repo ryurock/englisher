@@ -18,6 +18,10 @@
     "fly"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "キャリー"
+      }
+    ]
   }
 }

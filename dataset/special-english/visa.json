@@ -14,6 +14,10 @@
     "aggression"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ビザ"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "arms"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "爆弾"
+      }
+    ]
   }
 }

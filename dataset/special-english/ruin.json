@@ -21,6 +21,10 @@
     "explode"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "破滅"
+      }
+    ]
   }
 }

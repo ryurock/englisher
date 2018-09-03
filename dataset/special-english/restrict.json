@@ -12,6 +12,10 @@
     "limit"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "制限します"
+      }
+    ]
   }
 }

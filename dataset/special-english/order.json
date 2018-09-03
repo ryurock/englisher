@@ -13,6 +13,10 @@
     "command"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "注文"
+      }
+    ]
   }
 }

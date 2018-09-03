@@ -17,6 +17,10 @@
     "examine"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "テスト"
+      }
+    ]
   }
 }

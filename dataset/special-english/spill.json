@@ -12,6 +12,10 @@
     "move"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "溢流"
+      }
+    ]
   }
 }

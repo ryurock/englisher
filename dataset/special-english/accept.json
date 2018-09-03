@@ -20,6 +20,10 @@
     "honor"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "受け入れます"
+      }
+    ]
   }
 }

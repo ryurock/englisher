@@ -28,6 +28,10 @@
     "order"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "会議"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "build"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "監督します"
+      }
+    ]
   }
 }

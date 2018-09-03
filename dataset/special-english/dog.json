@@ -12,6 +12,10 @@
     "flag"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "犬"
+      }
+    ]
   }
 }

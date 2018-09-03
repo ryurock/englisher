@@ -15,6 +15,10 @@
     "wood"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "トライアル"
+      }
+    ]
   }
 }

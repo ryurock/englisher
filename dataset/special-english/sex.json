@@ -12,6 +12,10 @@
     "love"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "性別"
+      }
+    ]
   }
 }

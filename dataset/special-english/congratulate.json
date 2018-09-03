@@ -12,6 +12,10 @@
     "praise"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "祝います"
+      }
+    ]
   }
 }

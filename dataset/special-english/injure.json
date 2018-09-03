@@ -24,6 +24,10 @@
     "turn"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "痛めます"
+      }
+    ]
   }
 }

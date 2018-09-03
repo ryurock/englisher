@@ -13,6 +13,10 @@
     "weapon"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ミサイル"
+      }
+    ]
   }
 }

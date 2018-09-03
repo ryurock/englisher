@@ -12,6 +12,10 @@
     "offensive"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "敵意のあります"
+      }
+    ]
   }
 }

@@ -15,6 +15,10 @@
     "level"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "等しい"
+      }
+    ]
   }
 }

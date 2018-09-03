@@ -15,6 +15,10 @@
     "keep"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "祝う"
+      }
+    ]
   }
 }

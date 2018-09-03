@@ -15,6 +15,10 @@
     "dinner"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "お食事"
+      }
+    ]
   }
 }

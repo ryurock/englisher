@@ -12,6 +12,10 @@
     "gun"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ポンプ"
+      }
+    ]
   }
 }

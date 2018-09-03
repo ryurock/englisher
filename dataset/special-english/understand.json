@@ -12,6 +12,10 @@
     "low"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "わかる"
+      }
+    ]
   }
 }

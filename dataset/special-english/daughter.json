@@ -12,6 +12,10 @@
     "girl"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "娘"
+      }
+    ]
   }
 }

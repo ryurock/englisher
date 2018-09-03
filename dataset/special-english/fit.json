@@ -12,6 +12,10 @@
     "meet"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "フィット"
+      }
+    ]
   }
 }

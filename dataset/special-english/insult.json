@@ -14,6 +14,10 @@
     "hurt"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "侮辱"
+      }
+    ]
   }
 }

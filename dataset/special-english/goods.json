@@ -17,6 +17,10 @@
     "solid"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "品"
+      }
+    ]
   }
 }

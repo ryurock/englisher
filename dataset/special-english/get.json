@@ -32,6 +32,10 @@
     "express"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "取得する"
+      }
+    ]
   }
 }

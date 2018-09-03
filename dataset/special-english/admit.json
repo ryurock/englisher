@@ -13,6 +13,10 @@
     "declare"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "認めます"
+      }
+    ]
   }
 }

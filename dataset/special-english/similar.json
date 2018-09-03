@@ -12,6 +12,10 @@
     "same"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "同様の"
+      }
+    ]
   }
 }

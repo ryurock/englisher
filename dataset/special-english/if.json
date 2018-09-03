@@ -18,6 +18,10 @@
     "cooling system"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "もし"
+      }
+    ]
   }
 }

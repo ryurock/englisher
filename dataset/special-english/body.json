@@ -15,6 +15,10 @@
     "form"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "体"
+      }
+    ]
   }
 }

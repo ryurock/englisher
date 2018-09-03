@@ -14,6 +14,10 @@
     "riot"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "冗談で"
+      }
+    ]
   }
 }

@@ -16,6 +16,10 @@
     "want"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "デマンド"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "sun"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "星"
+      }
+    ]
   }
 }

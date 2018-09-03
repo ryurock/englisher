@@ -12,6 +12,10 @@
     "seize"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ハイジャック"
+      }
+    ]
   }
 }

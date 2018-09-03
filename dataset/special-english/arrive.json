@@ -16,6 +16,10 @@
     "come"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "着きます"
+      }
+    ]
   }
 }

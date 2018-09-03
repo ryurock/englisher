@@ -12,6 +12,10 @@
     "education"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "経験"
+      }
+    ]
   }
 }

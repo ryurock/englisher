@@ -12,6 +12,10 @@
     "announce"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "宣伝します"
+      }
+    ]
   }
 }

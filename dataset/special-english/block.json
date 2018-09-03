@@ -13,6 +13,10 @@
     "bar"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ブロック"
+      }
+    ]
   }
 }

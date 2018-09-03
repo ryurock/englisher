@@ -12,6 +12,10 @@
     "interfere"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "介入"
+      }
+    ]
   }
 }

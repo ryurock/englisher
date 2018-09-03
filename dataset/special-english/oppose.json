@@ -14,6 +14,10 @@
     "debate"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "反対します"
+      }
+    ]
   }
 }

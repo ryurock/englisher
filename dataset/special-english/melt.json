@@ -14,6 +14,10 @@
     "try"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "メルト"
+      }
+    ]
   }
 }

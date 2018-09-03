@@ -12,6 +12,10 @@
     "device"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ファン"
+      }
+    ]
   }
 }

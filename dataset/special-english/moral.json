@@ -13,6 +13,10 @@
     "clean"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "道徳"
+      }
+    ]
   }
 }

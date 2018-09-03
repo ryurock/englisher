@@ -12,6 +12,10 @@
     "train"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "エンジン"
+      }
+    ]
   }
 }

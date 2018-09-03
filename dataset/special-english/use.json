@@ -23,6 +23,10 @@
     "employ"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "つかいます"
+      }
+    ]
   }
 }

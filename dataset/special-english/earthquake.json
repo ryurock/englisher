@@ -12,6 +12,10 @@
     "shock"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "地震"
+      }
+    ]
   }
 }

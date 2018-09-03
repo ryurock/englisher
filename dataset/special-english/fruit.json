@@ -12,6 +12,10 @@
     "seed"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "フルーツ"
+      }
+    ]
   }
 }

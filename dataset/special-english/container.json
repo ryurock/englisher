@@ -18,6 +18,10 @@
     "can"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "コンテナ"
+      }
+    ]
   }
 }

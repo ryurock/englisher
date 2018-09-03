@@ -12,6 +12,10 @@
     "drop"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ハング"
+      }
+    ]
   }
 }

@@ -20,6 +20,10 @@
     "humor"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "質問"
+      }
+    ]
   }
 }

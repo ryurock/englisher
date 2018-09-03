@@ -12,6 +12,10 @@
     "away"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "オフ"
+      }
+    ]
   }
 }

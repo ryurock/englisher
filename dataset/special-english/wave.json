@@ -16,6 +16,10 @@
     "motion"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "波"
+      }
+    ]
   }
 }

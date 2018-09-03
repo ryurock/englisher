@@ -20,6 +20,10 @@
     "floor"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ルーム"
+      }
+    ]
   }
 }

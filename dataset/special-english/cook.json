@@ -15,6 +15,10 @@
     "make"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "クック"
+      }
+    ]
   }
 }

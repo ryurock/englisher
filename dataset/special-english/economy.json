@@ -12,6 +12,10 @@
     "system"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "経済"
+      }
+    ]
   }
 }

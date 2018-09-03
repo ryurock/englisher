@@ -16,6 +16,10 @@
     "speed"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "急ぎます"
+      }
+    ]
   }
 }

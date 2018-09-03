@@ -12,6 +12,10 @@
     "zero"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "何も"
+      }
+    ]
   }
 }

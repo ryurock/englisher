@@ -16,6 +16,10 @@
     "import"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "平均"
+      }
+    ]
   }
 }

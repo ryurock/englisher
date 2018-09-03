@@ -16,6 +16,10 @@
     "drop"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "カット"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "object"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "除きます"
+      }
+    ]
   }
 }

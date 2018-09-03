@@ -15,6 +15,10 @@
     "message"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "主題"
+      }
+    ]
   }
 }

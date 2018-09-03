@@ -15,6 +15,10 @@
     "male"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "おとこ"
+      }
+    ]
   }
 }

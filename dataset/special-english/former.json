@@ -14,6 +14,10 @@
     "root"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "前者"
+      }
+    ]
   }
 }

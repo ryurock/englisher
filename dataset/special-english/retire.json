@@ -13,6 +13,10 @@
     "withdraw"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "引退します"
+      }
+    ]
   }
 }

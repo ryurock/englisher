@@ -12,6 +12,10 @@
     "run"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "旅行"
+      }
+    ]
   }
 }

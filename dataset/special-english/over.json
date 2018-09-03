@@ -12,6 +12,10 @@
     "complete"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "オーバー"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "denounce"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "責めます"
+      }
+    ]
   }
 }

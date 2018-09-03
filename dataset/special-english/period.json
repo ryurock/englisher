@@ -33,6 +33,10 @@
     "week"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "期間"
+      }
+    ]
   }
 }

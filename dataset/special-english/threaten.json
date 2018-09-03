@@ -13,6 +13,10 @@
     "offer"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "脅かす"
+      }
+    ]
   }
 }

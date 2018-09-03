@@ -13,6 +13,10 @@
     "work"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "占める"
+      }
+    ]
   }
 }

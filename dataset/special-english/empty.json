@@ -13,6 +13,10 @@
     "white"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "空の"
+      }
+    ]
   }
 }

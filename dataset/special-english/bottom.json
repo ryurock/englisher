@@ -14,6 +14,10 @@
     "side"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ボトム"
+      }
+    ]
   }
 }

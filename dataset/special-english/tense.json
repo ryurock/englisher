@@ -15,6 +15,10 @@
     "present"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "時制"
+      }
+    ]
   }
 }

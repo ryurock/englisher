@@ -12,6 +12,10 @@
     "expel"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "亡命"
+      }
+    ]
   }
 }

@@ -14,6 +14,10 @@
     "think"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "思い出します"
+      }
+    ]
   }
 }

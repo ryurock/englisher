@@ -12,6 +12,10 @@
     "passport"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "訪問"
+      }
+    ]
   }
 }

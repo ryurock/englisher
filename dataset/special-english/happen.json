@@ -25,6 +25,10 @@
     "result"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "起こります"
+      }
+    ]
   }
 }

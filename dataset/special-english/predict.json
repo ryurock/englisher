@@ -14,6 +14,10 @@
     "promise"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "予測します"
+      }
+    ]
   }
 }

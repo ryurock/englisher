@@ -30,6 +30,10 @@
     "clean"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "修復"
+      }
+    ]
   }
 }

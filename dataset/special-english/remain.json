@@ -16,6 +16,10 @@
     "stay"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "残ります"
+      }
+    ]
   }
 }

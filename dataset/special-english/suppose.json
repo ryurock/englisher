@@ -12,6 +12,10 @@
     "say"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "思います"
+      }
+    ]
   }
 }

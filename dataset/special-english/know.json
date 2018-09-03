@@ -12,6 +12,10 @@
     "recognize"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "知っています"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "case"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "患者"
+      }
+    ]
   }
 }

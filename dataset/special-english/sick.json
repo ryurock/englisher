@@ -13,6 +13,10 @@
     "green"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "病気"
+      }
+    ]
   }
 }

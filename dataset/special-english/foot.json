@@ -13,6 +13,10 @@
     "man"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "足"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "border"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "エッジ"
+      }
+    ]
   }
 }

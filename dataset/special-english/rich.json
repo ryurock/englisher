@@ -12,6 +12,10 @@
     "easy"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "リッチ"
+      }
+    ]
   }
 }

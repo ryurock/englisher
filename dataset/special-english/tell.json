@@ -25,6 +25,10 @@
     "declare"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "伝えます"
+      }
+    ]
   }
 }

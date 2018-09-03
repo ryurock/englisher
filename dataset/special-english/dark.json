@@ -13,6 +13,10 @@
     "light"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ダーク"
+      }
+    ]
   }
 }

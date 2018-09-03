@@ -15,6 +15,10 @@
     "discuss"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "アドバイス"
+      }
+    ]
   }
 }

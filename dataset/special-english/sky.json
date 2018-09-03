@@ -16,6 +16,10 @@
     "cloud"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "空"
+      }
+    ]
   }
 }

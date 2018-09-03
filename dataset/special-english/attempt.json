@@ -27,6 +27,10 @@
     "battle"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "試み"
+      }
+    ]
   }
 }

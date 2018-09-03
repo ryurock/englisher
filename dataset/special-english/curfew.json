@@ -13,6 +13,10 @@
     "signal"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "門限"
+      }
+    ]
   }
 }

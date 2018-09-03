@@ -13,6 +13,10 @@
     "peace"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "セキュリティ"
+      }
+    ]
   }
 }

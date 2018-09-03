@@ -13,6 +13,10 @@
     "escape"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "抵抗します"
+      }
+    ]
   }
 }

@@ -17,6 +17,10 @@
     "witness"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "発見"
+      }
+    ]
   }
 }

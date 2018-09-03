@@ -13,6 +13,10 @@
     "order"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "治めます"
+      }
+    ]
   }
 }

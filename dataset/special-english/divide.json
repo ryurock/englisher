@@ -13,6 +13,10 @@
     "separate"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "分割"
+      }
+    ]
   }
 }

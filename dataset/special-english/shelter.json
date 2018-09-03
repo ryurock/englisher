@@ -13,6 +13,10 @@
     "structure"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "シェルター"
+      }
+    ]
   }
 }

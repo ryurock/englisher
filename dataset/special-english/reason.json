@@ -13,6 +13,10 @@
     "ground"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "理由"
+      }
+    ]
   }
 }

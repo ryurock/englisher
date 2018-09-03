@@ -12,6 +12,10 @@
     "pass"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "パスポート"
+      }
+    ]
   }
 }

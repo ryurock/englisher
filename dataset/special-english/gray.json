@@ -12,6 +12,10 @@
     "neutral"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "グレー"
+      }
+    ]
   }
 }

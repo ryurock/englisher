@@ -22,6 +22,10 @@
     "work"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "影響を及ぼす"
+      }
+    ]
   }
 }

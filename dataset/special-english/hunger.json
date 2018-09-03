@@ -12,6 +12,10 @@
     "drive"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "飢え"
+      }
+    ]
   }
 }

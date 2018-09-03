@@ -18,6 +18,10 @@
     "destroy"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "敗北"
+      }
+    ]
   }
 }

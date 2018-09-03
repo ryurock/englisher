@@ -16,6 +16,10 @@
     "record"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "聴く"
+      }
+    ]
   }
 }

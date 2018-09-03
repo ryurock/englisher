@@ -18,6 +18,10 @@
     "piece"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "シェア"
+      }
+    ]
   }
 }

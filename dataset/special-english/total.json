@@ -13,6 +13,10 @@
     "whole"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "トータル"
+      }
+    ]
   }
 }

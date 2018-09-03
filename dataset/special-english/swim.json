@@ -16,6 +16,10 @@
     "dive"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "泳ぐ"
+      }
+    ]
   }
 }

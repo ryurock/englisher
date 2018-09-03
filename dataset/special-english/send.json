@@ -17,6 +17,10 @@
     "throw"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "送ります"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "drink"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "コーヒー"
+      }
+    ]
   }
 }

@@ -17,6 +17,10 @@
     "reason"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "事実"
+      }
+    ]
   }
 }

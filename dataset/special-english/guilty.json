@@ -12,6 +12,10 @@
     "criminal"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "有罪の"
+      }
+    ]
   }
 }

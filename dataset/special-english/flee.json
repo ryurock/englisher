@@ -16,6 +16,10 @@
     "fly"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "逃げます"
+      }
+    ]
   }
 }

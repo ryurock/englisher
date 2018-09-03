@@ -14,6 +14,10 @@
     "hold"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "キープ"
+      }
+    ]
   }
 }

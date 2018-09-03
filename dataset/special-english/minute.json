@@ -13,6 +13,10 @@
     "second"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "分"
+      }
+    ]
   }
 }

@@ -60,6 +60,10 @@
     "jewel"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "個人"
+      }
+    ]
   }
 }

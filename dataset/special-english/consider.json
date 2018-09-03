@@ -26,6 +26,10 @@
     "think"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "考えます"
+      }
+    ]
   }
 }

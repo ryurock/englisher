@@ -14,6 +14,10 @@
     "building"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "劇場"
+      }
+    ]
   }
 }

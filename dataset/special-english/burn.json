@@ -14,6 +14,10 @@
     "destroy"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "燃やす"
+      }
+    ]
   }
 }

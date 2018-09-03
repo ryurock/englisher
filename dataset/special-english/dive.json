@@ -14,6 +14,10 @@
     "fall"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ダイブ"
+      }
+    ]
   }
 }

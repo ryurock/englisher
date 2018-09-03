@@ -12,6 +12,10 @@
     "equipment"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "衛星"
+      }
+    ]
   }
 }

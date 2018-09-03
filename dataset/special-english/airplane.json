@@ -13,6 +13,10 @@
     "gun"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "飛行機"
+      }
+    ]
   }
 }

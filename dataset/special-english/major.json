@@ -12,6 +12,10 @@
     "star"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "主要な"
+      }
+    ]
   }
 }

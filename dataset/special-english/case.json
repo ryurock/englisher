@@ -14,6 +14,10 @@
     "example"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "場合"
+      }
+    ]
   }
 }

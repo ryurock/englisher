@@ -12,6 +12,10 @@
     "all"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "すべての"
+      }
+    ]
   }
 }

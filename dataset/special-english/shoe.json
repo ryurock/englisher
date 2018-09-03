@@ -12,6 +12,10 @@
     "pump"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "靴"
+      }
+    ]
   }
 }

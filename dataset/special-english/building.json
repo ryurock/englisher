@@ -29,6 +29,10 @@
     "lift"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "建物"
+      }
+    ]
   }
 }

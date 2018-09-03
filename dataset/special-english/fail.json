@@ -12,6 +12,10 @@
     "miss"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "失敗します"
+      }
+    ]
   }
 }

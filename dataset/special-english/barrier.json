@@ -13,6 +13,10 @@
     "dam"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "バリア"
+      }
+    ]
   }
 }

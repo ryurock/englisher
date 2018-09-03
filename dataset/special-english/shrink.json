@@ -13,6 +13,10 @@
     "fall"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "シュリンク"
+      }
+    ]
   }
 }

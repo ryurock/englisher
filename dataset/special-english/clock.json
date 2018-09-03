@@ -12,6 +12,10 @@
     "movement"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "クロック"
+      }
+    ]
   }
 }

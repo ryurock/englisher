@@ -13,6 +13,10 @@
     "beat"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "疲れました"
+      }
+    ]
   }
 }

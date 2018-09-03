@@ -12,6 +12,10 @@
     "sick"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "弱い"
+      }
+    ]
   }
 }

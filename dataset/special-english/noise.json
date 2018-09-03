@@ -15,6 +15,10 @@
     "clash"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ノイズ"
+      }
+    ]
   }
 }

@@ -20,6 +20,10 @@
     "wish"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "欲しいです"
+      }
+    ]
   }
 }

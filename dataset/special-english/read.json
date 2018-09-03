@@ -13,6 +13,10 @@
     "see"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "読む"
+      }
+    ]
   }
 }

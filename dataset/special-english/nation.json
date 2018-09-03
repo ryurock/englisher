@@ -16,6 +16,10 @@
     "country"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "国家"
+      }
+    ]
   }
 }

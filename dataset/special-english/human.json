@@ -12,6 +12,10 @@
     "weak"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "人間"
+      }
+    ]
   }
 }

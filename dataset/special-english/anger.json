@@ -12,6 +12,10 @@
     "emotion"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "怒り"
+      }
+    ]
   }
 }

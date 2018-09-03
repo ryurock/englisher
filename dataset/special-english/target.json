@@ -12,6 +12,10 @@
     "mark"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ターゲット"
+      }
+    ]
   }
 }

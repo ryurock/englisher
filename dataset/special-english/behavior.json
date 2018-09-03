@@ -12,6 +12,10 @@
     "aggression"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "動作"
+      }
+    ]
   }
 }

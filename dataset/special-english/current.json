@@ -14,6 +14,10 @@
     "new"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "現在"
+      }
+    ]
   }
 }

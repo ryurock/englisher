@@ -12,6 +12,10 @@
     "period"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "世紀"
+      }
+    ]
   }
 }

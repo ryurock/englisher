@@ -12,6 +12,10 @@
     "crisis"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "緊急"
+      }
+    ]
   }
 }

@@ -15,6 +15,10 @@
     "meet"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "囲む"
+      }
+    ]
   }
 }

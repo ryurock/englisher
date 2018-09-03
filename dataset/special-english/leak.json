@@ -12,6 +12,10 @@
     "hole"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "リーク"
+      }
+    ]
   }
 }

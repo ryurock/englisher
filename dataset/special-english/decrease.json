@@ -18,6 +18,10 @@
     "break"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "減少"
+      }
+    ]
   }
 }

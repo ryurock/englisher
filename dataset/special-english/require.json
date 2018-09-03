@@ -20,6 +20,10 @@
     "exact"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "必要とします"
+      }
+    ]
   }
 }

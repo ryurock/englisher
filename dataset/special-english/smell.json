@@ -12,6 +12,10 @@
     "wind"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "香り"
+      }
+    ]
   }
 }

@@ -15,6 +15,10 @@
     "opinion"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "アイディア"
+      }
+    ]
   }
 }

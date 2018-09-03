@@ -12,6 +12,10 @@
     "company"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "クルー"
+      }
+    ]
   }
 }

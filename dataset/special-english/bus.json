@@ -12,6 +12,10 @@
     "window"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "バス"
+      }
+    ]
   }
 }

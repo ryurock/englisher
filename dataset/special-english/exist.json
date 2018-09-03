@@ -17,6 +17,10 @@
     "flow"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "存在します"
+      }
+    ]
   }
 }

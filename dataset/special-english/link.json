@@ -16,6 +16,10 @@
     "remember"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "リンク"
+      }
+    ]
   }
 }

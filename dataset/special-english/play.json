@@ -21,6 +21,10 @@
     "compete"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "遊びます"
+      }
+    ]
   }
 }

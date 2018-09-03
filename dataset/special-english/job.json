@@ -24,6 +24,10 @@
     "position"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ジョブ"
+      }
+    ]
   }
 }

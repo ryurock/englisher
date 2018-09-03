@@ -15,6 +15,10 @@
     "appeal"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "要求"
+      }
+    ]
   }
 }

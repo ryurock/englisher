@@ -13,6 +13,10 @@
     "person"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "エンジニア"
+      }
+    ]
   }
 }

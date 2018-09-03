@@ -15,6 +15,10 @@
     "hijack"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "犯罪"
+      }
+    ]
   }
 }

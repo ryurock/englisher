@@ -12,6 +12,10 @@
     "wrong"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "偽"
+      }
+    ]
   }
 }

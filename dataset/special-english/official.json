@@ -12,6 +12,10 @@
     "man"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "公式"
+      }
+    ]
   }
 }

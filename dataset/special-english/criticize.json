@@ -18,6 +18,10 @@
     "round"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "批判します"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "ammunition"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "シェル"
+      }
+    ]
   }
 }

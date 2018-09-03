@@ -13,6 +13,10 @@
     "supply"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "フィード"
+      }
+    ]
   }
 }

@@ -16,6 +16,10 @@
     "top"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "仕上がり"
+      }
+    ]
   }
 }

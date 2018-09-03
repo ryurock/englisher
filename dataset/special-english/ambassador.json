@@ -12,6 +12,10 @@
     "diplomat"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "大使"
+      }
+    ]
   }
 }

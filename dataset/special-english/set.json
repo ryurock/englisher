@@ -18,6 +18,10 @@
     "place"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "セット"
+      }
+    ]
   }
 }

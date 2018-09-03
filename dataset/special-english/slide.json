@@ -12,6 +12,10 @@
     "submarine"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "滑り台"
+      }
+    ]
   }
 }

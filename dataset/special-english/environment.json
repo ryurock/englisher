@@ -18,6 +18,10 @@
     "situation"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "環境"
+      }
+    ]
   }
 }

@@ -19,6 +19,10 @@
     "transport"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "持って来ます"
+      }
+    ]
   }
 }

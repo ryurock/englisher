@@ -16,6 +16,10 @@
     "large"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "サイズ"
+      }
+    ]
   }
 }

@@ -16,6 +16,10 @@
     "any"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "一部"
+      }
+    ]
   }
 }

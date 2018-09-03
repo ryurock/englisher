@@ -17,6 +17,10 @@
     "heat"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "温度"
+      }
+    ]
   }
 }

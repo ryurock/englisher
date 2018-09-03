@@ -16,6 +16,10 @@
     "bad"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "悪の"
+      }
+    ]
   }
 }

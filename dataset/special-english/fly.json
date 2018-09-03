@@ -13,6 +13,10 @@
     "liquid"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "飛ぶ"
+      }
+    ]
   }
 }

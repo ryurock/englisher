@@ -12,6 +12,10 @@
     "surplus"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "エクストラ"
+      }
+    ]
   }
 }

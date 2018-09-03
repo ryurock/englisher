@@ -12,6 +12,10 @@
     "increase"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "上げます"
+      }
+    ]
   }
 }

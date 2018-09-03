@@ -12,6 +12,10 @@
     "fresh"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "クリーン"
+      }
+    ]
   }
 }

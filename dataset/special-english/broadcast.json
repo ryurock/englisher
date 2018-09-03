@@ -12,6 +12,10 @@
     "message"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "放送"
+      }
+    ]
   }
 }

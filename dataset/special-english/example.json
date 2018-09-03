@@ -13,6 +13,10 @@
     "excuse"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "例"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "enter"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "資料"
+      }
+    ]
   }
 }

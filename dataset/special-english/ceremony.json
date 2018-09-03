@@ -13,6 +13,10 @@
     "funeral"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "式"
+      }
+    ]
   }
 }

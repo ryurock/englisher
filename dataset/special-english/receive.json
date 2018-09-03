@@ -16,6 +16,10 @@
     "take"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "受け取ります"
+      }
+    ]
   }
 }

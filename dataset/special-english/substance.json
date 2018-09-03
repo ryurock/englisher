@@ -16,6 +16,10 @@
     "chemistry"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "物質"
+      }
+    ]
   }
 }

@@ -18,6 +18,10 @@
     "motion"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "映画"
+      }
+    ]
   }
 }

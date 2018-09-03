@@ -13,6 +13,10 @@
     "minute"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "時間"
+      }
+    ]
   }
 }

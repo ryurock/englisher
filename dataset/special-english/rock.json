@@ -12,6 +12,10 @@
     "stone"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "岩"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "today"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "今"
+      }
+    ]
   }
 }

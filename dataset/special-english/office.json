@@ -12,6 +12,10 @@
     "headquarters"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "オフィス"
+      }
+    ]
   }
 }

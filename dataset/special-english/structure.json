@@ -30,6 +30,10 @@
     "shelter"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "構造"
+      }
+    ]
   }
 }

@@ -15,6 +15,10 @@
     "sand"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "泥"
+      }
+    ]
   }
 }

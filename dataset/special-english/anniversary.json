@@ -12,6 +12,10 @@
     "day"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "記念日"
+      }
+    ]
   }
 }

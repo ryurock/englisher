@@ -12,6 +12,10 @@
     "propose"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ノミネート"
+      }
+    ]
   }
 }

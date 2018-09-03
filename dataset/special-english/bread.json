@@ -12,6 +12,10 @@
     "roll"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "パン"
+      }
+    ]
   }
 }

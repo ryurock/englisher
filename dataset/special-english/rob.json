@@ -14,6 +14,10 @@
     "charge"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "奪います"
+      }
+    ]
   }
 }

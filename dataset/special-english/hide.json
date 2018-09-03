@@ -16,6 +16,10 @@
     "block"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "隠す"
+      }
+    ]
   }
 }

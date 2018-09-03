@@ -12,6 +12,10 @@
     "rescue"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "セーブ"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "world"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "国際"
+      }
+    ]
   }
 }

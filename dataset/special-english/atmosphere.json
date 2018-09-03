@@ -16,6 +16,10 @@
     "condition"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "雰囲気"
+      }
+    ]
   }
 }

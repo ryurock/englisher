@@ -14,6 +14,10 @@
     "ground"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ベース"
+      }
+    ]
   }
 }

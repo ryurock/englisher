@@ -16,6 +16,10 @@
     "diet"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "議会"
+      }
+    ]
   }
 }

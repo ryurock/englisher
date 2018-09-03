@@ -12,6 +12,10 @@
     "sad"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "悲劇"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "prize"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "開いた"
+      }
+    ]
   }
 }

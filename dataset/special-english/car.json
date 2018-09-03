@@ -21,6 +21,10 @@
     "machine"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "車"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "jury"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "委員会"
+      }
+    ]
   }
 }

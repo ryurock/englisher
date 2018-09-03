@@ -12,6 +12,10 @@
     "body"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "質量"
+      }
+    ]
   }
 }

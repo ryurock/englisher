@@ -13,6 +13,10 @@
     "charge"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ペイント"
+      }
+    ]
   }
 }

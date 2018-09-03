@@ -13,6 +13,10 @@
     "treat"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "無視します"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "large"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "巨大"
+      }
+    ]
   }
 }

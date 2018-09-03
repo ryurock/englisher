@@ -13,6 +13,10 @@
     "bread"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "お金"
+      }
+    ]
   }
 }

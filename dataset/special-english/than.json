@@ -13,6 +13,10 @@
     "airplane"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "より"
+      }
+    ]
   }
 }

@@ -17,6 +17,10 @@
     "contain"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "抑えます"
+      }
+    ]
   }
 }

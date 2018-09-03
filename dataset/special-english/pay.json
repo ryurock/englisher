@@ -19,6 +19,10 @@
     "spend"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "支払う"
+      }
+    ]
   }
 }

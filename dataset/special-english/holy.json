@@ -12,6 +12,10 @@
     "place"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "聖なる"
+      }
+    ]
   }
 }

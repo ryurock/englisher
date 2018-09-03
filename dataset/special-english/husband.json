@@ -13,6 +13,10 @@
     "partner"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "夫"
+      }
+    ]
   }
 }

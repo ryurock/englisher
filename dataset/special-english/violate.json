@@ -12,6 +12,10 @@
     "community"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "犯します"
+      }
+    ]
   }
 }

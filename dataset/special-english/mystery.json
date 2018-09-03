@@ -12,6 +12,10 @@
     "secret"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "神秘"
+      }
+    ]
   }
 }

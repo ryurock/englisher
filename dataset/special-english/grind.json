@@ -12,6 +12,10 @@
     "press"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "グラインド"
+      }
+    ]
   }
 }

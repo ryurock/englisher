@@ -21,6 +21,10 @@
     "male"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "生物"
+      }
+    ]
   }
 }

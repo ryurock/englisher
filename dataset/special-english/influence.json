@@ -13,6 +13,10 @@
     "power"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "影響"
+      }
+    ]
   }
 }

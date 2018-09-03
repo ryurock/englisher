@@ -18,6 +18,10 @@
     "wife"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "女性"
+      }
+    ]
   }
 }

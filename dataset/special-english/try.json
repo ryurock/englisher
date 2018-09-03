@@ -18,6 +18,10 @@
     "struggle"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "試します"
+      }
+    ]
   }
 }

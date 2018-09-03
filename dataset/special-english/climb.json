@@ -14,6 +14,10 @@
     "ride"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "登る"
+      }
+    ]
   }
 }

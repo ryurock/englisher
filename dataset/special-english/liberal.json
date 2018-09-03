@@ -12,6 +12,10 @@
     "adult"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "リベラル"
+      }
+    ]
   }
 }

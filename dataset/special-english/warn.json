@@ -13,6 +13,10 @@
     "threaten"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "警告します"
+      }
+    ]
   }
 }

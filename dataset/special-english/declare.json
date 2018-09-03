@@ -20,6 +20,10 @@
     "suggest"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "宣言する"
+      }
+    ]
   }
 }

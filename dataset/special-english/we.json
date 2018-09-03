@@ -44,6 +44,10 @@
     "scare"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "我々"
+      }
+    ]
   }
 }

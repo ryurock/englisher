@@ -12,6 +12,10 @@
     "situation"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "事"
+      }
+    ]
   }
 }

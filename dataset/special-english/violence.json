@@ -12,6 +12,10 @@
     "break"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "暴力"
+      }
+    ]
   }
 }

@@ -18,6 +18,10 @@
     "empty"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "去ります"
+      }
+    ]
   }
 }

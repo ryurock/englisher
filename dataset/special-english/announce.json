@@ -17,6 +17,10 @@
     "advertise"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "アナウンス"
+      }
+    ]
   }
 }

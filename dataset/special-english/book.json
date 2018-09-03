@@ -12,6 +12,10 @@
     "publication"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "本"
+      }
+    ]
   }
 }

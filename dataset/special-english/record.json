@@ -21,6 +21,10 @@
     "enter"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "記録"
+      }
+    ]
   }
 }

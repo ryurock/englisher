@@ -12,6 +12,10 @@
     "ever"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "常に"
+      }
+    ]
   }
 }

@@ -15,6 +15,10 @@
     "guide"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "鉛"
+      }
+    ]
   }
 }

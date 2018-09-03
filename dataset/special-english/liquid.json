@@ -13,6 +13,10 @@
     "state"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "液体"
+      }
+    ]
   }
 }

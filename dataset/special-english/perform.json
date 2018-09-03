@@ -20,6 +20,10 @@
     "execute"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "行います"
+      }
+    ]
   }
 }

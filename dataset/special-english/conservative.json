@@ -12,6 +12,10 @@
     "right"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "保守的"
+      }
+    ]
   }
 }

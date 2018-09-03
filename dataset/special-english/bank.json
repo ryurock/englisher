@@ -12,6 +12,10 @@
     "side"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "バンク"
+      }
+    ]
   }
 }

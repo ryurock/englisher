@@ -20,6 +20,10 @@
     "piece"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "食べる"
+      }
+    ]
   }
 }

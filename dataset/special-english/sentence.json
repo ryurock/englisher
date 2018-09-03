@@ -12,6 +12,10 @@
     "question"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "文"
+      }
+    ]
   }
 }

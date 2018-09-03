@@ -13,6 +13,10 @@
     "permit"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "てみましょう"
+      }
+    ]
   }
 }

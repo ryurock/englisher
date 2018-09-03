@@ -12,6 +12,10 @@
     "grow"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "広げます"
+      }
+    ]
   }
 }

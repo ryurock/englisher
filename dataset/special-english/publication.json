@@ -17,6 +17,10 @@
     "magazine"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "出版"
+      }
+    ]
   }
 }

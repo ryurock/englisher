@@ -12,6 +12,10 @@
     "tragic"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "悲しい"
+      }
+    ]
   }
 }

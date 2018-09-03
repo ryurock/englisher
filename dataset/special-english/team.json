@@ -12,6 +12,10 @@
     "crew"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "チーム"
+      }
+    ]
   }
 }

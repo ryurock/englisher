@@ -12,6 +12,10 @@
     "measure"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "量ります"
+      }
+    ]
   }
 }

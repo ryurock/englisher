@@ -12,6 +12,10 @@
     "sailor"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "帽子"
+      }
+    ]
   }
 }

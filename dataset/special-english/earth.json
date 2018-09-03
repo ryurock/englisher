@@ -18,6 +18,10 @@
     "ground"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "地球"
+      }
+    ]
   }
 }

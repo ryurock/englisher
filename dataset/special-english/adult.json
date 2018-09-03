@@ -20,6 +20,10 @@
     "person"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "大人"
+      }
+    ]
   }
 }

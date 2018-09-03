@@ -13,6 +13,10 @@
     "convention"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "条約"
+      }
+    ]
   }
 }

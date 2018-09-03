@@ -12,6 +12,10 @@
     "publish"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "書きます"
+      }
+    ]
   }
 }

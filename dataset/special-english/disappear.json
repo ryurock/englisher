@@ -16,6 +16,10 @@
     "remove"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "姿を消す"
+      }
+    ]
   }
 }

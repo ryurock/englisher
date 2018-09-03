@@ -18,6 +18,10 @@
     "ease"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "支援する"
+      }
+    ]
   }
 }

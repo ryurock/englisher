@@ -16,6 +16,10 @@
     "touch"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "争います"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "market"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "業界"
+      }
+    ]
   }
 }

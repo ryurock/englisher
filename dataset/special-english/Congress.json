@@ -13,6 +13,10 @@
     "Senate"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "会議"
+      }
+    ]
   }
 }

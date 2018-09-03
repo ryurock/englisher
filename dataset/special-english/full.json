@@ -13,6 +13,10 @@
     "pregnant"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "いっぱい"
+      }
+    ]
   }
 }

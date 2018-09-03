@@ -12,6 +12,10 @@
     "make"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "行う"
+      }
+    ]
   }
 }

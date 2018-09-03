@@ -17,6 +17,10 @@
     "clean"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "パーフェクト"
+      }
+    ]
   }
 }

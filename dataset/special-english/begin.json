@@ -17,6 +17,10 @@
     "enter"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ベギン"
+      }
+    ]
   }
 }

@@ -17,6 +17,10 @@
     "person"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "専門"
+      }
+    ]
   }
 }

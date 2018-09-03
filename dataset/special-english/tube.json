@@ -12,6 +12,10 @@
     "pipe"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "チューブ"
+      }
+    ]
   }
 }

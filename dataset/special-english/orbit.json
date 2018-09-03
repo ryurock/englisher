@@ -12,6 +12,10 @@
     "path"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "軌道"
+      }
+    ]
   }
 }

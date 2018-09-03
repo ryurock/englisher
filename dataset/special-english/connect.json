@@ -17,6 +17,10 @@
     "ground"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "コネクト"
+      }
+    ]
   }
 }

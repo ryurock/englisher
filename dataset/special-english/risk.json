@@ -13,6 +13,10 @@
     "try"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "リスク"
+      }
+    ]
   }
 }

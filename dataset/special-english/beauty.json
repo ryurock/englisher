@@ -18,6 +18,10 @@
     "defeat"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "美しさ"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "water"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "氷"
+      }
+    ]
   }
 }

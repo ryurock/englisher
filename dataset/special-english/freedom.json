@@ -14,6 +14,10 @@
     "state"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "自由"
+      }
+    ]
   }
 }

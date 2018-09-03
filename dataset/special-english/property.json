@@ -13,6 +13,10 @@
     "wealth"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "プロパティ"
+      }
+    ]
   }
 }

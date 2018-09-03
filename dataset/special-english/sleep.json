@@ -12,6 +12,10 @@
     "rest"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "睡眠"
+      }
+    ]
   }
 }

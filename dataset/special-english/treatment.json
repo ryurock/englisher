@@ -12,6 +12,10 @@
     "direction"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "処理"
+      }
+    ]
   }
 }

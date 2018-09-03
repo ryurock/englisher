@@ -12,6 +12,10 @@
     "male"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "男の子"
+      }
+    ]
   }
 }

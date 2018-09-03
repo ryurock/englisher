@@ -58,6 +58,10 @@
     "wind"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "行きます"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "hurt"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "拷問"
+      }
+    ]
   }
 }

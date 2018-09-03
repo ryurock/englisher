@@ -12,6 +12,10 @@
     "forgive"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "恩赦"
+      }
+    ]
   }
 }

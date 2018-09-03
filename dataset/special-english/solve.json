@@ -17,6 +17,10 @@
     "understand"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "解決する"
+      }
+    ]
   }
 }

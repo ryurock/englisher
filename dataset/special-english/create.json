@@ -43,6 +43,10 @@
     "mother"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "作ります"
+      }
+    ]
   }
 }

@@ -14,6 +14,10 @@
     "criminal"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "違法"
+      }
+    ]
   }
 }

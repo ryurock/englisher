@@ -12,6 +12,10 @@
     "season"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "夏"
+      }
+    ]
   }
 }

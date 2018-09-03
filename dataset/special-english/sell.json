@@ -17,6 +17,10 @@
     "clear"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "売る"
+      }
+    ]
   }
 }

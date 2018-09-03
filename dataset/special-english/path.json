@@ -12,6 +12,10 @@
     "way"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "パス"
+      }
+    ]
   }
 }

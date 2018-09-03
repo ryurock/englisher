@@ -18,6 +18,10 @@
     "huge"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "大"
+      }
+    ]
   }
 }

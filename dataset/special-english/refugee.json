@@ -12,6 +12,10 @@
     "exile"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "難民"
+      }
+    ]
   }
 }

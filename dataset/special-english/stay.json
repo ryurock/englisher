@@ -16,6 +16,10 @@
     "stand"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "滞在"
+      }
+    ]
   }
 }

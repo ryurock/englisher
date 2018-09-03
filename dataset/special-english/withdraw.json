@@ -15,6 +15,10 @@
     "retire"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "取り下げます"
+      }
+    ]
   }
 }

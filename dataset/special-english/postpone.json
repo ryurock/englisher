@@ -16,6 +16,10 @@
     "hold"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "後回し"
+      }
+    ]
   }
 }

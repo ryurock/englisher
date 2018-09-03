@@ -18,6 +18,10 @@
     "inject"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "加えます"
+      }
+    ]
   }
 }

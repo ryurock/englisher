@@ -12,6 +12,10 @@
     "crush"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "望遠鏡"
+      }
+    ]
   }
 }

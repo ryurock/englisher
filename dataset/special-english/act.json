@@ -43,6 +43,10 @@
     "perform"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "行為"
+      }
+    ]
   }
 }

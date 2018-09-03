@@ -19,6 +19,10 @@
     "piece"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "繰り返す"
+      }
+    ]
   }
 }

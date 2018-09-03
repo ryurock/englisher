@@ -15,6 +15,10 @@
     "bite"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "創傷"
+      }
+    ]
   }
 }

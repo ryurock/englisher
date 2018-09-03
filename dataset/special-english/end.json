@@ -17,6 +17,10 @@
     "break"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "終わり"
+      }
+    ]
   }
 }

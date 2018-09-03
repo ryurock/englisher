@@ -18,6 +18,10 @@
     "steam"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "上がり"
+      }
+    ]
   }
 }

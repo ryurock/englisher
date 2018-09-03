@@ -17,6 +17,10 @@
     "declare"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "提案します"
+      }
+    ]
   }
 }

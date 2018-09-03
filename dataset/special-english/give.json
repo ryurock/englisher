@@ -13,6 +13,10 @@
     "award"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "与える"
+      }
+    ]
   }
 }

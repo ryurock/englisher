@@ -17,6 +17,10 @@
     "opposite"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ワード"
+      }
+    ]
   }
 }

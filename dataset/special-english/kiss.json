@@ -12,6 +12,10 @@
     "touch"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "キッス"
+      }
+    ]
   }
 }

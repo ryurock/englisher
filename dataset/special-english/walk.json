@@ -18,6 +18,10 @@
     "travel"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "歩く"
+      }
+    ]
   }
 }

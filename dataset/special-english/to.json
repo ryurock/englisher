@@ -12,6 +12,10 @@
     "missile"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "に"
+      }
+    ]
   }
 }

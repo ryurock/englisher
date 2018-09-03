@@ -12,6 +12,10 @@
     "meal"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ディナー"
+      }
+    ]
   }
 }

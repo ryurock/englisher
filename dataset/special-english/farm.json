@@ -13,6 +13,10 @@
     "spread"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ファーム"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "tomorrow"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "未来"
+      }
+    ]
   }
 }

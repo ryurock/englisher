@@ -12,6 +12,10 @@
     "speed"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "スロー"
+      }
+    ]
   }
 }

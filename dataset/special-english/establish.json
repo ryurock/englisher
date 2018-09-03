@@ -13,6 +13,10 @@
     "open"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "確立します"
+      }
+    ]
   }
 }

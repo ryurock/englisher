@@ -13,6 +13,10 @@
     "straight"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "形状"
+      }
+    ]
   }
 }

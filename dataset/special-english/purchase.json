@@ -16,6 +16,10 @@
     "choose"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "購入"
+      }
+    ]
   }
 }

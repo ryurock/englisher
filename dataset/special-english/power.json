@@ -16,6 +16,10 @@
     "veto"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "パワー"
+      }
+    ]
   }
 }

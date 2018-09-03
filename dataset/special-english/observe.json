@@ -16,6 +16,10 @@
     "find"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "観察する"
+      }
+    ]
   }
 }

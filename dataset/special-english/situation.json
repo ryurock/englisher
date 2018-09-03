@@ -17,6 +17,10 @@
     "picture"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "状況"
+      }
+    ]
   }
 }

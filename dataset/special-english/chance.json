@@ -16,6 +16,10 @@
     "day"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "チャンス"
+      }
+    ]
   }
 }

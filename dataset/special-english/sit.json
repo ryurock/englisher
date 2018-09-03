@@ -13,6 +13,10 @@
     "seat"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "座ります"
+      }
+    ]
   }
 }

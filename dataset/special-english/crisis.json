@@ -13,6 +13,10 @@
     "depression"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "危機"
+      }
+    ]
   }
 }

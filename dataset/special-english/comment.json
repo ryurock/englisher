@@ -12,6 +12,10 @@
     "dig"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "コメント"
+      }
+    ]
   }
 }

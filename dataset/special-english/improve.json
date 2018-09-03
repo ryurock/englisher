@@ -27,6 +27,10 @@
     "amend"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "改善します"
+      }
+    ]
   }
 }

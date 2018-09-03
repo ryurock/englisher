@@ -12,6 +12,10 @@
     "target"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "勝利"
+      }
+    ]
   }
 }

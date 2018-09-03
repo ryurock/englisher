@@ -12,6 +12,10 @@
     "peace"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "休戦"
+      }
+    ]
   }
 }

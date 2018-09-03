@@ -15,6 +15,10 @@
     "oppress"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "クラッシュ"
+      }
+    ]
   }
 }

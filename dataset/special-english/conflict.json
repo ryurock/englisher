@@ -16,6 +16,10 @@
     "revolt"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "コンフリクト"
+      }
+    ]
   }
 }

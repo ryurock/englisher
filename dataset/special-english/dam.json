@@ -12,6 +12,10 @@
     "barrier"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ダム"
+      }
+    ]
   }
 }

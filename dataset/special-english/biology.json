@@ -12,6 +12,10 @@
     "ecology"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "生物学"
+      }
+    ]
   }
 }

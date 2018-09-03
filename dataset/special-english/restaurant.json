@@ -12,6 +12,10 @@
     "building"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "レストラン"
+      }
+    ]
   }
 }

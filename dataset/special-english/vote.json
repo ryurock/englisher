@@ -14,6 +14,10 @@
     "take"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "投票"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "open"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "パブリック"
+      }
+    ]
   }
 }

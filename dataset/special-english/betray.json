@@ -13,6 +13,10 @@
     "break"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "裏切る"
+      }
+    ]
   }
 }

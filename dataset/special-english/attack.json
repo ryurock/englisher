@@ -24,6 +24,10 @@
     "surround"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "攻撃"
+      }
+    ]
   }
 }

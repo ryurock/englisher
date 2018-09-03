@@ -12,6 +12,10 @@
     "common"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ジョイント"
+      }
+    ]
   }
 }

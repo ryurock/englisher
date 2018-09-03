@@ -15,6 +15,10 @@
     "box"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ブロー"
+      }
+    ]
   }
 }

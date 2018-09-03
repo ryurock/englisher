@@ -12,6 +12,10 @@
     "withdraw"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "解除"
+      }
+    ]
   }
 }

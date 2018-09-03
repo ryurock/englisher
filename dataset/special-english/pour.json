@@ -17,6 +17,10 @@
     "run"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "注ぐ"
+      }
+    ]
   }
 }

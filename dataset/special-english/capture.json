@@ -12,6 +12,10 @@
     "represent"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "キャプチャー"
+      }
+    ]
   }
 }

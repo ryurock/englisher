@@ -16,6 +16,10 @@
     "budget"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "プログラム"
+      }
+    ]
   }
 }

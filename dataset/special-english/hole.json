@@ -12,6 +12,10 @@
     "leak"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "穴"
+      }
+    ]
   }
 }

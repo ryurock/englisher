@@ -12,6 +12,10 @@
     "treasure"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "愛"
+      }
+    ]
   }
 }

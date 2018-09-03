@@ -22,6 +22,10 @@
     "left"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ポジション"
+      }
+    ]
   }
 }

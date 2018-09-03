@@ -13,6 +13,10 @@
     "infect"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "汚染"
+      }
+    ]
   }
 }

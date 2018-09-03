@@ -12,6 +12,10 @@
     "realistic"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "リアル"
+      }
+    ]
   }
 }

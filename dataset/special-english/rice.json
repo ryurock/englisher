@@ -12,6 +12,10 @@
     "grain"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ご飯"
+      }
+    ]
   }
 }

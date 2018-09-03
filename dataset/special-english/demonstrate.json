@@ -13,6 +13,10 @@
     "present"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "証明します"
+      }
+    ]
   }
 }

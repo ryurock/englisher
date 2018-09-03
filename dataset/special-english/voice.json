@@ -12,6 +12,10 @@
     "sound"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "音声"
+      }
+    ]
   }
 }

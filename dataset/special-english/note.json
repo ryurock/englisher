@@ -16,6 +16,10 @@
     "tell"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "注意"
+      }
+    ]
   }
 }

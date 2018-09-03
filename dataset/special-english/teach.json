@@ -18,6 +18,10 @@
     "talk"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "教える"
+      }
+    ]
   }
 }

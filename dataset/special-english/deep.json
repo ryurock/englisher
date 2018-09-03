@@ -13,6 +13,10 @@
     "sound"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "深い"
+      }
+    ]
   }
 }

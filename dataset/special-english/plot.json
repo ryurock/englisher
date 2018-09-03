@@ -12,6 +12,10 @@
     "game"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "プロット"
+      }
+    ]
   }
 }

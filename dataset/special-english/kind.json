@@ -17,6 +17,10 @@
     "model"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "種類"
+      }
+    ]
   }
 }

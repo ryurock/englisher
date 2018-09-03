@@ -15,6 +15,10 @@
     "close"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "近く"
+      }
+    ]
   }
 }

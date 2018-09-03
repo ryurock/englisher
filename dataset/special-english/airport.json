@@ -12,6 +12,10 @@
     "field"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "空港"
+      }
+    ]
   }
 }

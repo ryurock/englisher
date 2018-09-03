@@ -15,6 +15,10 @@
     "tell"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "識別"
+      }
+    ]
   }
 }

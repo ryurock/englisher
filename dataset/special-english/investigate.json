@@ -17,6 +17,10 @@
     "experiment"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "調べます"
+      }
+    ]
   }
 }

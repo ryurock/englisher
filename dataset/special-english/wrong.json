@@ -12,6 +12,10 @@
     "false"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "違う"
+      }
+    ]
   }
 }

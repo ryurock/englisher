@@ -15,6 +15,10 @@
     "execute"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "罰します"
+      }
+    ]
   }
 }

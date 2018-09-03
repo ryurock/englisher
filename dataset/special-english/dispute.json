@@ -13,6 +13,10 @@
     "call"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "紛争"
+      }
+    ]
   }
 }

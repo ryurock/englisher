@@ -17,6 +17,10 @@
     "knife"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "武器"
+      }
+    ]
   }
 }

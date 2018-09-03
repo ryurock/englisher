@@ -12,6 +12,10 @@
     "office"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "本部"
+      }
+    ]
   }
 }

@@ -14,6 +14,10 @@
     "politics"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "意見"
+      }
+    ]
   }
 }

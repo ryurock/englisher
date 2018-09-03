@@ -12,6 +12,10 @@
     "harvest"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "作物"
+      }
+    ]
   }
 }

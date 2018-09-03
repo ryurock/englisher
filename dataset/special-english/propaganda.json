@@ -12,6 +12,10 @@
     "information"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "宣伝"
+      }
+    ]
   }
 }

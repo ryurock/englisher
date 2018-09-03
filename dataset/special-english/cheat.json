@@ -92,6 +92,10 @@
     "tense"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "騙します"
+      }
+    ]
   }
 }

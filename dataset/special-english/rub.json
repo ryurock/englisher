@@ -16,6 +16,10 @@
     "guide"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "こする"
+      }
+    ]
   }
 }

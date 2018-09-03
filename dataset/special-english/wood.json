@@ -13,6 +13,10 @@
     "ash"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "木材"
+      }
+    ]
   }
 }

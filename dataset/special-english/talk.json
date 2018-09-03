@@ -15,6 +15,10 @@
     "continue"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "トーク"
+      }
+    ]
   }
 }

@@ -17,6 +17,10 @@
     "wind"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "リフト"
+      }
+    ]
   }
 }

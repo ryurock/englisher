@@ -13,6 +13,10 @@
     "unite"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "加わります"
+      }
+    ]
   }
 }

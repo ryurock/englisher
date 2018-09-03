@@ -12,6 +12,10 @@
     "long"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ない限り、"
+      }
+    ]
   }
 }

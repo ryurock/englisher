@@ -12,6 +12,10 @@
     "discuss"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "交渉します"
+      }
+    ]
   }
 }

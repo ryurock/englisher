@@ -13,6 +13,10 @@
     "debt"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ローン"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "include"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "含む"
+      }
+    ]
   }
 }

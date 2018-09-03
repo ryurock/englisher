@@ -20,6 +20,10 @@
     "block"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "エリア"
+      }
+    ]
   }
 }

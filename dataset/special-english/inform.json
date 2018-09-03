@@ -33,6 +33,10 @@
     "grass"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "通知します"
+      }
+    ]
   }
 }

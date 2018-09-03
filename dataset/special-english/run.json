@@ -13,6 +13,10 @@
     "speed"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ラン"
+      }
+    ]
   }
 }

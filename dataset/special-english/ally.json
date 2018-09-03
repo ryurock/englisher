@@ -16,6 +16,10 @@
     "state"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "味方"
+      }
+    ]
   }
 }

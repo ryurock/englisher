@@ -13,6 +13,10 @@
     "burn"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "痛み"
+      }
+    ]
   }
 }

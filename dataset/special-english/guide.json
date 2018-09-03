@@ -18,6 +18,10 @@
     "command"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ガイド"
+      }
+    ]
   }
 }

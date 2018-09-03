@@ -14,6 +14,10 @@
     "wire"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "メッセージ"
+      }
+    ]
   }
 }

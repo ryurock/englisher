@@ -12,6 +12,10 @@
     "bar"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "職業"
+      }
+    ]
   }
 }

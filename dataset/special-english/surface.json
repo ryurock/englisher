@@ -17,6 +17,10 @@
     "side"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "表面"
+      }
+    ]
   }
 }

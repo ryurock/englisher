@@ -16,6 +16,10 @@
     "push"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "賞賛"
+      }
+    ]
   }
 }

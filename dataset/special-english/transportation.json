@@ -16,6 +16,10 @@
     "line"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "交通"
+      }
+    ]
   }
 }

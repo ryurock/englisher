@@ -14,6 +14,10 @@
     "use"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "廃棄物"
+      }
+    ]
   }
 }

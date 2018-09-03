@@ -22,6 +22,10 @@
     "clear"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "成功します"
+      }
+    ]
   }
 }

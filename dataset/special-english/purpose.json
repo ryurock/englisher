@@ -18,6 +18,10 @@
     "design"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "目的"
+      }
+    ]
   }
 }

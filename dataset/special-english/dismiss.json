@@ -13,6 +13,10 @@
     "reject"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "解任"
+      }
+    ]
   }
 }

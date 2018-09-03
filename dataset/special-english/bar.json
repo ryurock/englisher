@@ -12,6 +12,10 @@
     "room"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "バー"
+      }
+    ]
   }
 }

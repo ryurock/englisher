@@ -13,6 +13,10 @@
     "transport"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "車両"
+      }
+    ]
   }
 }

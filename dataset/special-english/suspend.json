@@ -12,6 +12,10 @@
     "hang"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "サスペンド"
+      }
+    ]
   }
 }

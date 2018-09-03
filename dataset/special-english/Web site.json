@@ -12,6 +12,10 @@
     "computer"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "サイト"
+      }
+    ]
   }
 }

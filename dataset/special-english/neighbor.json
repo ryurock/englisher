@@ -13,6 +13,10 @@
     "individual"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "隣人"
+      }
+    ]
   }
 }

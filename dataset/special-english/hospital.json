@@ -12,6 +12,10 @@
     "asylum"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "病院"
+      }
+    ]
   }
 }

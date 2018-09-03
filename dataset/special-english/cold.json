@@ -13,6 +13,10 @@
     "cool"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "コールド"
+      }
+    ]
   }
 }

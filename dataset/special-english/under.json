@@ -16,6 +16,10 @@
     "face"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "下"
+      }
+    ]
   }
 }

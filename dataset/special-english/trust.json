@@ -17,6 +17,10 @@
     "bank"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "信頼"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "invade"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "入る"
+      }
+    ]
   }
 }

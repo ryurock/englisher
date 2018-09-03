@@ -12,6 +12,10 @@
     "hospital"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "収容所"
+      }
+    ]
   }
 }

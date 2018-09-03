@@ -12,6 +12,10 @@
     "bill"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "鳥"
+      }
+    ]
   }
 }

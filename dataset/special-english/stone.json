@@ -12,6 +12,10 @@
     "rock"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "石"
+      }
+    ]
   }
 }

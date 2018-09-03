@@ -12,6 +12,10 @@
     "trade"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "輸出する"
+      }
+    ]
   }
 }

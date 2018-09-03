@@ -12,6 +12,10 @@
     "minor"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "子"
+      }
+    ]
   }
 }

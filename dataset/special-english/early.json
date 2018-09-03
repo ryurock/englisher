@@ -12,6 +12,10 @@
     "first"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "早いです"
+      }
+    ]
   }
 }

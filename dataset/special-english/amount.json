@@ -13,6 +13,10 @@
     "gain"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "量"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "leave"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "砂漠"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "shoot"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "注射します"
+      }
+    ]
   }
 }

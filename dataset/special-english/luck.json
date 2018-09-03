@@ -12,6 +12,10 @@
     "condition"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "運"
+      }
+    ]
   }
 }

@@ -18,6 +18,10 @@
     "fresh"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "新しい"
+      }
+    ]
   }
 }

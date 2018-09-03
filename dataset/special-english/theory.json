@@ -12,6 +12,10 @@
     "law"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "理論"
+      }
+    ]
   }
 }

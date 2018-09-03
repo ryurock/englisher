@@ -12,6 +12,10 @@
     "surprise"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "キャッチ"
+      }
+    ]
   }
 }

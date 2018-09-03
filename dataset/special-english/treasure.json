@@ -12,6 +12,10 @@
     "crime"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "宝"
+      }
+    ]
   }
 }

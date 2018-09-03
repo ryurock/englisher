@@ -18,6 +18,10 @@
     "investigate"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "検査します"
+      }
+    ]
   }
 }

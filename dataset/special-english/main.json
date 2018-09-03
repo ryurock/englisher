@@ -13,6 +13,10 @@
     "important"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "メイン"
+      }
+    ]
   }
 }

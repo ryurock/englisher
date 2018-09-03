@@ -13,6 +13,10 @@
     "flow"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "レート"
+      }
+    ]
   }
 }

@@ -14,6 +14,10 @@
     "officer"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "警察"
+      }
+    ]
   }
 }

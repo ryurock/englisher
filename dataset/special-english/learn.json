@@ -12,6 +12,10 @@
     "study"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "学びます"
+      }
+    ]
   }
 }

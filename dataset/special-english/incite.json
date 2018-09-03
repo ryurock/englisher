@@ -14,6 +14,10 @@
     "act"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "促します"
+      }
+    ]
   }
 }

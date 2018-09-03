@@ -16,6 +16,10 @@
     "spirit"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "感情"
+      }
+    ]
   }
 }

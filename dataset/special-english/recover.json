@@ -13,6 +13,10 @@
     "find"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "回復します"
+      }
+    ]
   }
 }

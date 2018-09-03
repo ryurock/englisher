@@ -12,6 +12,10 @@
     "direct"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "から"
+      }
+    ]
   }
 }

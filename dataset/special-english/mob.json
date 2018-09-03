@@ -12,6 +12,10 @@
     "crowd"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "群衆"
+      }
+    ]
   }
 }

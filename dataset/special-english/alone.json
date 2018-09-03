@@ -12,6 +12,10 @@
     "only"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "一人で"
+      }
+    ]
   }
 }

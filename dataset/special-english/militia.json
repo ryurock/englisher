@@ -12,6 +12,10 @@
     "force"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "民兵"
+      }
+    ]
   }
 }

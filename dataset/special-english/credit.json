@@ -12,6 +12,10 @@
     "memorial"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "クレジット"
+      }
+    ]
   }
 }

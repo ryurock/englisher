@@ -12,6 +12,10 @@
     "cover"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ドラッグ"
+      }
+    ]
   }
 }

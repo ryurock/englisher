@@ -12,6 +12,10 @@
     "be"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "定義"
+      }
+    ]
   }
 }

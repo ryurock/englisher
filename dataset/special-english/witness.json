@@ -12,6 +12,10 @@
     "watch"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "証人"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "off"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "先に"
+      }
+    ]
   }
 }

@@ -15,6 +15,10 @@
     "seat"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "中間"
+      }
+    ]
   }
 }

@@ -19,6 +19,10 @@
     "climb"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "増加する"
+      }
+    ]
   }
 }

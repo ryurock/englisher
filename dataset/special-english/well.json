@@ -12,6 +12,10 @@
     "good"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "良く"
+      }
+    ]
   }
 }

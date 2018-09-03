@@ -12,6 +12,10 @@
     "change"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "煮ます"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "thin"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "狭い"
+      }
+    ]
   }
 }

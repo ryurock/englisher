@@ -26,6 +26,10 @@
     "drive"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ヒット"
+      }
+    ]
   }
 }

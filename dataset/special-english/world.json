@@ -20,6 +20,10 @@
     "aid"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "世界"
+      }
+    ]
   }
 }

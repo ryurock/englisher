@@ -16,6 +16,10 @@
     "press"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "タッチ"
+      }
+    ]
   }
 }

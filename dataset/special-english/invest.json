@@ -17,6 +17,10 @@
     "spend"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "投資"
+      }
+    ]
   }
 }

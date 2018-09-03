@@ -13,6 +13,10 @@
     "catch"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "聞く"
+      }
+    ]
   }
 }

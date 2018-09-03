@@ -12,6 +12,10 @@
     "quality"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "自然"
+      }
+    ]
   }
 }

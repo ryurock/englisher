@@ -12,6 +12,10 @@
     "plenty"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "十分な"
+      }
+    ]
   }
 }

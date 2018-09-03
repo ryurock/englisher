@@ -14,6 +14,10 @@
     "repress"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "忘れる"
+      }
+    ]
   }
 }

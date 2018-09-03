@@ -18,6 +18,10 @@
     "balance"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "部"
+      }
+    ]
   }
 }

@@ -15,6 +15,10 @@
     "substance"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "フード"
+      }
+    ]
   }
 }

@@ -24,6 +24,10 @@
     "fact"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "情報"
+      }
+    ]
   }
 }

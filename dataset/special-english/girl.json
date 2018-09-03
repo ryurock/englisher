@@ -16,6 +16,10 @@
     "bird"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "女の子"
+      }
+    ]
   }
 }

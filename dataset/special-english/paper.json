@@ -12,6 +12,10 @@
     "material"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "紙"
+      }
+    ]
   }
 }

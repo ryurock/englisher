@@ -16,6 +16,10 @@
     "support"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "守る"
+      }
+    ]
   }
 }

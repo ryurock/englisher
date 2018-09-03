@@ -12,6 +12,10 @@
     "immediate"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "現在"
+      }
+    ]
   }
 }

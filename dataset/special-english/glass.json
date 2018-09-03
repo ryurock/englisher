@@ -12,6 +12,10 @@
     "solid"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ガラス"
+      }
+    ]
   }
 }

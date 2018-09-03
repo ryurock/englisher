@@ -16,6 +16,10 @@
     "ride"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ドライブ"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "criticize"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "嘆きます"
+      }
+    ]
   }
 }

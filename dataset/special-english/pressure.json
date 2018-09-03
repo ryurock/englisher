@@ -12,6 +12,10 @@
     "head"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "圧力"
+      }
+    ]
   }
 }

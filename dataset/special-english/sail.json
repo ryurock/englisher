@@ -12,6 +12,10 @@
     "travel"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "帆"
+      }
+    ]
   }
 }

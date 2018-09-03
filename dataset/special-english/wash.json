@@ -13,6 +13,10 @@
     "serve"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ウォッシュ"
+      }
+    ]
   }
 }

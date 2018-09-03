@@ -12,6 +12,10 @@
     "fear"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "心配"
+      }
+    ]
   }
 }

@@ -12,6 +12,10 @@
     "request"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "アピール"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "village"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "コミュニティ"
+      }
+    ]
   }
 }

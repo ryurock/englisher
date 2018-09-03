@@ -17,6 +17,10 @@
     "truck"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "輸送"
+      }
+    ]
   }
 }

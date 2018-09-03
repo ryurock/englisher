@@ -12,6 +12,10 @@
     "turn"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ロール"
+      }
+    ]
   }
 }

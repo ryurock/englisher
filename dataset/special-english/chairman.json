@@ -12,6 +12,10 @@
     "president"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "会長"
+      }
+    ]
   }
 }

@@ -18,6 +18,10 @@
     "enter"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "アタッチ"
+      }
+    ]
   }
 }

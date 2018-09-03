@@ -12,6 +12,10 @@
     "single"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "私"
+      }
+    ]
   }
 }

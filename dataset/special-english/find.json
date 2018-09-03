@@ -13,6 +13,10 @@
     "happen"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "見つけます"
+      }
+    ]
   }
 }

@@ -17,6 +17,10 @@
     "believe"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "考えます"
+      }
+    ]
   }
 }

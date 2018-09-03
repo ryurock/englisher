@@ -15,6 +15,10 @@
     "plan"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "設計"
+      }
+    ]
   }
 }

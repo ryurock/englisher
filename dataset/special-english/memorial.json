@@ -12,6 +12,10 @@
     "credit"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "追悼"
+      }
+    ]
   }
 }

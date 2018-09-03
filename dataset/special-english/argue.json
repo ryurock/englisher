@@ -16,6 +16,10 @@
     "present"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "論じます"
+      }
+    ]
   }
 }

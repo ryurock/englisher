@@ -13,6 +13,10 @@
     "number"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "大多数"
+      }
+    ]
   }
 }

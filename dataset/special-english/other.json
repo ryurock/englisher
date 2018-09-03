@@ -16,6 +16,10 @@
     "new"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "他の"
+      }
+    ]
   }
 }

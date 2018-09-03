@@ -16,6 +16,10 @@
     "aid"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "サポート"
+      }
+    ]
   }
 }

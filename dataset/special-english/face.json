@@ -14,6 +14,10 @@
     "man"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "面"
+      }
+    ]
   }
 }

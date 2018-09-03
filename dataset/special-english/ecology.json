@@ -12,6 +12,10 @@
     "environment"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "エコロジー"
+      }
+    ]
   }
 }

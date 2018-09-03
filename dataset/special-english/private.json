@@ -13,6 +13,10 @@
     "secret"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "プライベート"
+      }
+    ]
   }
 }

@@ -27,6 +27,10 @@
     "remains"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "オブジェクト"
+      }
+    ]
   }
 }

@@ -13,6 +13,10 @@
     "sharp"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "突然"
+      }
+    ]
   }
 }

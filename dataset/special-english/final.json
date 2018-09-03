@@ -12,6 +12,10 @@
     "last"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "最後の"
+      }
+    ]
   }
 }

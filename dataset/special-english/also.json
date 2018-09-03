@@ -12,6 +12,10 @@
     "too"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "さらに"
+      }
+    ]
   }
 }

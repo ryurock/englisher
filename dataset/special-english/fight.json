@@ -21,6 +21,10 @@
     "oppose"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "戦い"
+      }
+    ]
   }
 }

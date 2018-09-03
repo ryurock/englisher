@@ -13,6 +13,10 @@
     "march"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "地域"
+      }
+    ]
   }
 }

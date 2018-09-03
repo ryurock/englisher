@@ -12,6 +12,10 @@
     "wear"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "服"
+      }
+    ]
   }
 }

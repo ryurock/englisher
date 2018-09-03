@@ -13,6 +13,10 @@
     "severe"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "強い"
+      }
+    ]
   }
 }

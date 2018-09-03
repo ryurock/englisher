@@ -19,6 +19,10 @@
     "holiday"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "費やす"
+      }
+    ]
   }
 }

@@ -14,6 +14,10 @@
     "ammunition"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "武器"
+      }
+    ]
   }
 }

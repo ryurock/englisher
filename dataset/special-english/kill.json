@@ -27,6 +27,10 @@
     "off"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "殺します"
+      }
+    ]
   }
 }

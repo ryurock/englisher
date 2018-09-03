@@ -13,6 +13,10 @@
     "kill"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "シュート"
+      }
+    ]
   }
 }

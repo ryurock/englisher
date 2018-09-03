@@ -12,6 +12,10 @@
     "energy"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "放射線"
+      }
+    ]
   }
 }

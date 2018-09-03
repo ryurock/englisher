@@ -15,6 +15,10 @@
     "freeze"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "ブレーク"
+      }
+    ]
   }
 }

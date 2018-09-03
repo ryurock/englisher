@@ -15,6 +15,10 @@
     "curfew"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "信号"
+      }
+    ]
   }
 }

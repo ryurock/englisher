@@ -22,6 +22,10 @@
     "look"
   ],
   "translations": {
-    "ja": []
+    "ja": [
+      {
+        "text": "現れる"
+      }
+    ]
   }
 }
