@@ -1,14 +1,23 @@
 {
+  "id": 820,
   "tokens": [
     "militant"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "militant",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

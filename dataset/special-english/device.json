@@ -1,27 +1,23 @@
 {
+  "id": 363,
   "tokens": [
     "device"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "device",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "instrument",
-    "fan",
-    "trap",
-    "release",
-    "guard",
-    "support",
-    "lift",
-    "pull",
-    "light",
-    "surface",
-    "machine",
-    "drive"
-  ],
   "translations": {
     "ja": [
       {

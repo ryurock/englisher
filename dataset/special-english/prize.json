@@ -1,17 +1,25 @@
 {
+  "id": 1002,
   "tokens": [
     "prize"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "prize",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "gift",
-    "award"
-  ],
   "translations": {
     "ja": [
       {

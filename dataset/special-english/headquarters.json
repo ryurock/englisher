@@ -1,16 +1,23 @@
 {
+  "id": 612,
   "tokens": [
     "headquarters"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "headquarters",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "office"
-  ],
   "translations": {
     "ja": [
       {

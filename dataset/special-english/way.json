@@ -1,20 +1,22 @@
 {
+  "id": 1446,
   "tokens": [
     "way"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "way",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "form",
-    "fit",
-    "touch",
-    "wise",
-    "property"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,23 @@
 {
+  "id": 996,
   "tokens": [
     "press"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "press",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "push",
-    "grind",
-    "crush",
-    "touch"
-  ],
   "translations": {
     "ja": [
       {

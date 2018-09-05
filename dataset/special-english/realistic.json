@@ -1,17 +1,22 @@
 {
+  "id": 1052,
   "tokens": [
     "realistic"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "realistic",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "real",
-    "possible"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,22 +1,25 @@
 {
+  "id": 447,
   "tokens": [
     "estimate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "estimate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "set",
-    "give",
-    "judge",
-    "make",
-    "put",
-    "count",
-    "place"
-  ],
   "translations": {
     "ja": [
       {

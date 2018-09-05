@@ -1,17 +1,25 @@
 {
+  "id": 929,
   "tokens": [
     "paint"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "paint",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "create",
-    "charge"
-  ],
   "translations": {
     "ja": [
       {

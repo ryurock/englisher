@@ -1,18 +1,22 @@
 {
+  "id": 839,
   "tokens": [
     "modern"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "modern",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "late",
-    "current",
-    "new"
-  ],
   "translations": {
     "ja": [
       {

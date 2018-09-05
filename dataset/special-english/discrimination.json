@@ -1,14 +1,23 @@
 {
+  "id": 379,
   "tokens": [
     "discrimination"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "discrimination",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,22 @@
 {
+  "id": 396,
   "tokens": [
     "down"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "down",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

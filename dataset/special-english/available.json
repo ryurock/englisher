@@ -1,18 +1,22 @@
 {
+  "id": 96,
   "tokens": [
     "available"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "available",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ready",
-    "open",
-    "easy"
-  ],
   "translations": {
     "ja": [
       {

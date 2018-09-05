@@ -1,17 +1,23 @@
 {
+  "id": 471,
   "tokens": [
     "experiment"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "experiment",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "control",
-    "condition"
-  ],
   "translations": {
     "ja": [
       {

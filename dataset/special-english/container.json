@@ -1,22 +1,23 @@
 {
+  "id": 282,
   "tokens": [
     "container"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "container",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "measure",
-    "empty",
-    "case",
-    "bank",
-    "box",
-    "glass",
-    "can"
-  ],
   "translations": {
     "ja": [
       {

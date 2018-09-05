@@ -1,17 +1,25 @@
 {
+  "id": 1140,
   "tokens": [
     "search"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "search",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "seeking",
-    "hunt"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 959,
   "tokens": [
     "piece"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "piece",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "part"
-  ],
   "translations": {
     "ja": [
       {

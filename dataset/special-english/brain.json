@@ -1,16 +1,23 @@
 {
+  "id": 160,
   "tokens": [
     "brain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "brain",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "head"
-  ],
   "translations": {
     "ja": [
       {

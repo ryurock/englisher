@@ -1,20 +1,25 @@
 {
+  "id": 1056,
   "tokens": [
     "receive"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "receive",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fence",
-    "get",
-    "accept",
-    "have",
-    "take"
-  ],
   "translations": {
     "ja": [
       {

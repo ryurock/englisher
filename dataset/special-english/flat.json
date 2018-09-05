@@ -1,17 +1,23 @@
 {
+  "id": 525,
   "tokens": [
     "flat"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "flat",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "even",
-    "level"
-  ],
   "translations": {
     "ja": [
       {

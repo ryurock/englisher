@@ -1,17 +1,23 @@
 {
+  "id": 896,
   "tokens": [
     "ocean"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ocean",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "water",
-    "deep"
-  ],
   "translations": {
     "ja": [
       {

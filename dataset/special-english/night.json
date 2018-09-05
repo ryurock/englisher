@@ -1,18 +1,25 @@
 {
+  "id": 878,
   "tokens": [
     "night"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "night",
+      "postTags": [
+        "Time",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Time"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "period",
-    "dark",
-    "day"
-  ],
   "translations": {
     "ja": [
       {

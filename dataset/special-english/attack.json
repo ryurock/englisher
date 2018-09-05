@@ -1,28 +1,25 @@
 {
+  "id": 90,
   "tokens": [
     "attack"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "attack",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bomb",
-    "hit",
-    "submarine",
-    "fight",
-    "occupy",
-    "storm",
-    "strike",
-    "surprise",
-    "invade",
-    "raid",
-    "gas",
-    "struggle",
-    "surround"
-  ],
   "translations": {
     "ja": [
       {

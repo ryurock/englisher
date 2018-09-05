@@ -1,17 +1,23 @@
 {
+  "id": 762,
   "tokens": [
     "liquid"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "liquid",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fluid",
-    "state"
-  ],
   "translations": {
     "ja": [
       {

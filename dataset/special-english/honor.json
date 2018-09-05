@@ -1,17 +1,25 @@
 {
+  "id": 634,
   "tokens": [
     "honor"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "honor",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "drink",
-    "recognize"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,25 @@
 {
+  "id": 249,
   "tokens": [
     "collect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "collect",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "catch",
-    "store"
-  ],
   "translations": {
     "ja": [
       {

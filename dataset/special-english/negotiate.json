@@ -1,16 +1,25 @@
 {
+  "id": 869,
   "tokens": [
     "negotiate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "negotiate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "discuss"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,25 @@
 {
+  "id": 1160,
   "tokens": [
     "serve"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "serve",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "do",
-    "service",
-    "answer"
-  ],
   "translations": {
     "ja": [
       {

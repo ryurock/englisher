@@ -1,21 +1,25 @@
 {
+  "id": 700,
   "tokens": [
     "invest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "invest",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shelter",
-    "drop",
-    "job",
-    "place",
-    "put",
-    "spend"
-  ],
   "translations": {
     "ja": [
       {

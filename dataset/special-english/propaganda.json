@@ -1,16 +1,23 @@
 {
+  "id": 1014,
   "tokens": [
     "propaganda"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "propaganda",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "information"
-  ],
   "translations": {
     "ja": [
       {

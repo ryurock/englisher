@@ -1,16 +1,23 @@
 {
+  "id": 656,
   "tokens": [
     "ice"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ice",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "water"
-  ],
   "translations": {
     "ja": [
       {

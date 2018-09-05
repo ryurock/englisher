@@ -1,16 +1,23 @@
 {
+  "id": 521,
   "tokens": [
     "fish"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fish",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "school"
-  ],
   "translations": {
     "ja": [
       {

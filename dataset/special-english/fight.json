@@ -1,25 +1,25 @@
 {
+  "id": 509,
   "tokens": [
     "fight"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fight",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fence",
-    "battle",
-    "defend",
-    "attack",
-    "compete",
-    "war",
-    "struggle",
-    "box",
-    "settle",
-    "oppose"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,25 @@
 {
+  "id": 514,
   "tokens": [
     "find"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "find",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "chance",
-    "happen"
-  ],
   "translations": {
     "ja": [
       {

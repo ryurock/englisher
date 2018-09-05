@@ -1,16 +1,23 @@
 {
+  "id": 901,
   "tokens": [
     "office"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "office",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "headquarters"
-  ],
   "translations": {
     "ja": [
       {

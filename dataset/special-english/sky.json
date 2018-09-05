@@ -1,20 +1,23 @@
 {
+  "id": 1205,
   "tokens": [
     "sky"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sky",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "blue",
-    "atmosphere",
-    "world",
-    "earth",
-    "cloud"
-  ],
   "translations": {
     "ja": [
       {

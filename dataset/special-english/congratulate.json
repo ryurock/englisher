@@ -1,16 +1,25 @@
 {
+  "id": 274,
   "tokens": [
     "congratulate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "congratulate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "praise"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,28 +1,25 @@
 {
+  "id": 753,
   "tokens": [
     "lie"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "lie",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "intervene",
-    "point",
-    "back",
-    "rest",
-    "top",
-    "be",
-    "head",
-    "front",
-    "line",
-    "look",
-    "ride",
-    "face",
-    "command"
-  ],
   "translations": {
     "ja": [
       {

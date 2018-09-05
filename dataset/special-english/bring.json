@@ -1,23 +1,25 @@
 {
+  "id": 168,
   "tokens": [
     "bring"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bring",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tube",
-    "land",
-    "return",
-    "take",
-    "carry",
-    "get",
-    "come",
-    "transport"
-  ],
   "translations": {
     "ja": [
       {

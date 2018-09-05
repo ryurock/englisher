@@ -1,16 +1,23 @@
 {
+  "id": 1412,
   "tokens": [
     "vacation"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "vacation",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "holiday"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,25 @@
 {
+  "id": 467,
   "tokens": [
     "expand"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "expand",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "grow"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 187,
   "tokens": [
     "calm"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "calm",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

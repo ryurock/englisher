@@ -1,14 +1,22 @@
 {
+  "id": 1123,
   "tokens": [
     "rural"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rural",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

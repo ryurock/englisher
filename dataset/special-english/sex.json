@@ -1,16 +1,23 @@
 {
+  "id": 1166,
   "tokens": [
     "sex"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sex",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "love"
-  ],
   "translations": {
     "ja": [
       {

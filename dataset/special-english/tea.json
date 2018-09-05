@@ -1,16 +1,24 @@
 {
+  "id": 1315,
   "tokens": [
     "tea"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tea",
+      "postTags": [
+        "Uncountable",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "drink"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 1452,
   "tokens": [
     "weather"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "weather",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "atmosphere",
-    "wave",
-    "wind"
-  ],
   "translations": {
     "ja": [
       {

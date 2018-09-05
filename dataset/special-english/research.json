@@ -1,14 +1,23 @@
 {
+  "id": 1085,
   "tokens": [
     "research"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "research",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

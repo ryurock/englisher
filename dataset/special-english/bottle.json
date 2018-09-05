@@ -1,14 +1,23 @@
 {
+  "id": 155,
   "tokens": [
     "bottle"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bottle",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

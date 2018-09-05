@@ -1,17 +1,23 @@
 {
+  "id": 1185,
   "tokens": [
     "sick"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sick",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "light",
-    "green"
-  ],
   "translations": {
     "ja": [
       {

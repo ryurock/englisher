@@ -1,16 +1,23 @@
 {
+  "id": 328,
   "tokens": [
     "daughter"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "daughter",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "girl"
-  ],
   "translations": {
     "ja": [
       {

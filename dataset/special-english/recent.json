@@ -1,16 +1,22 @@
 {
+  "id": 1057,
   "tokens": [
     "recent"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "recent",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "new"
-  ],
   "translations": {
     "ja": [
       {

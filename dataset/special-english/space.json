@@ -1,14 +1,23 @@
 {
+  "id": 1229,
   "tokens": [
     "space"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "space",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

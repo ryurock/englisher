@@ -1,14 +1,25 @@
 {
+  "id": 562,
   "tokens": [
     "gain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "gain",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "g",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

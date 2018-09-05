@@ -1,16 +1,23 @@
 {
+  "id": 1457,
   "tokens": [
     "well"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "well",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "good"
-  ],
   "translations": {
     "ja": [
       {

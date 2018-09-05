@@ -1,18 +1,25 @@
 {
+  "id": 992,
   "tokens": [
     "predict"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "predict",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "read",
-    "call",
-    "promise"
-  ],
   "translations": {
     "ja": [
       {

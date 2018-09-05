@@ -1,22 +1,23 @@
 {
+  "id": 936,
   "tokens": [
     "part"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "part",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "point",
-    "rest",
-    "detail",
-    "member",
-    "substance",
-    "base",
-    "balance"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,24 +1,25 @@
 {
+  "id": 336,
   "tokens": [
     "declare"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "declare",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sentence",
-    "say",
-    "promise",
-    "condemn",
-    "state",
-    "advise",
-    "tell",
-    "propose",
-    "suggest"
-  ],
   "translations": {
     "ja": [
       {

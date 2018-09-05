@@ -1,17 +1,25 @@
 {
+  "id": 253,
   "tokens": [
     "combine"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "combine",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "have",
-    "unite"
-  ],
   "translations": {
     "ja": [
       {

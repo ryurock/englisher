@@ -1,16 +1,25 @@
 {
+  "id": 92,
   "tokens": [
     "attend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "attend",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "be"
-  ],
   "translations": {
     "ja": [
       {

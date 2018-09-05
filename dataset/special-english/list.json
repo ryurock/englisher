@@ -1,20 +1,25 @@
 {
+  "id": 763,
   "tokens": [
     "list"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "list",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "point",
-    "roll",
-    "bill",
-    "flag",
-    "record"
-  ],
   "translations": {
     "ja": [
       {

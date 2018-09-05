@@ -1,17 +1,23 @@
 {
+  "id": 946,
   "tokens": [
     "peace"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "peace",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "truce",
-    "order"
-  ],
   "translations": {
     "ja": [
       {

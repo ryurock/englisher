@@ -1,14 +1,24 @@
 {
+  "id": 1198,
   "tokens": [
     "sister"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sister",
+      "postTags": [
+        "Person",
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

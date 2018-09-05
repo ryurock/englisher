@@ -1,22 +1,23 @@
 {
+  "id": 853,
   "tokens": [
     "movie"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "movie",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "stretch",
-    "kick",
-    "reach",
-    "wave",
-    "change",
-    "motion"
-  ],
   "translations": {
     "ja": [
       {

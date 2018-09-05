@@ -1,18 +1,22 @@
 {
+  "id": 661,
   "tokens": [
     "illegal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "illegal",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hot",
-    "black",
-    "criminal"
-  ],
   "translations": {
     "ja": [
       {

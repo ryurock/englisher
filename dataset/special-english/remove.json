@@ -1,34 +1,25 @@
 {
+  "id": 1076,
   "tokens": [
     "remove"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "remove",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "dig",
-    "bone",
-    "drop",
-    "free",
-    "wash",
-    "cancel",
-    "throw",
-    "head",
-    "shell",
-    "stone",
-    "lift",
-    "harvest",
-    "pull",
-    "empty",
-    "seed",
-    "take",
-    "withdraw",
-    "clear",
-    "clean"
-  ],
   "translations": {
     "ja": [
       {

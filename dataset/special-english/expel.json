@@ -1,20 +1,23 @@
 {
+  "id": 469,
   "tokens": [
     "expel"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "expel",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "suspend",
-    "exile",
-    "move",
-    "bar",
-    "ban"
-  ],
   "translations": {
     "ja": [
       {

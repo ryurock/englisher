@@ -1,16 +1,23 @@
 {
+  "id": 110,
   "tokens": [
     "bank"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bank",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "side"
-  ],
   "translations": {
     "ja": [
       {

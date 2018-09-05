@@ -1,19 +1,23 @@
 {
+  "id": 357,
   "tokens": [
     "design"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "design",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "map",
-    "plot",
-    "project",
-    "plan"
-  ],
   "translations": {
     "ja": [
       {

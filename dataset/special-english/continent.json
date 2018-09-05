@@ -1,14 +1,23 @@
 {
+  "id": 283,
   "tokens": [
     "continent"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "continent",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 569,
   "tokens": [
     "gentle"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "gentle",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "g",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "soft"
-  ],
   "translations": {
     "ja": [
       {

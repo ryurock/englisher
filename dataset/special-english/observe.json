@@ -1,20 +1,25 @@
 {
+  "id": 894,
   "tokens": [
     "observe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "observe",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "spy",
-    "discover",
-    "see",
-    "sense",
-    "find"
-  ],
   "translations": {
     "ja": [
       {

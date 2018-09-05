@@ -1,17 +1,22 @@
 {
+  "id": 684,
   "tokens": [
     "insane"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "insane",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sick",
-    "wild"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,24 @@
 {
+  "id": 497,
   "tokens": [
     "father"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "father",
+      "postTags": [
+        "Person",
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "parent"
-  ],
   "translations": {
     "ja": [
       {

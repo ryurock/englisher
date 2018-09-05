@@ -1,14 +1,23 @@
 {
+  "id": 347,
   "tokens": [
     "democracy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "democracy",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

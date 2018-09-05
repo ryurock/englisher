@@ -1,16 +1,25 @@
 {
+  "id": 601,
   "tokens": [
     "hang"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hang",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "drop"
-  ],
   "translations": {
     "ja": [
       {

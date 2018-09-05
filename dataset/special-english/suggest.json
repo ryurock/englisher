@@ -1,21 +1,25 @@
 {
+  "id": 1284,
   "tokens": [
     "suggest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "suggest",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "urge",
-    "propose",
-    "move",
-    "state",
-    "advise",
-    "declare"
-  ],
   "translations": {
     "ja": [
       {

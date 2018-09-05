@@ -1,16 +1,23 @@
 {
+  "id": 175,
   "tokens": [
     "bullet"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bullet",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "missile"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 334,
   "tokens": [
     "debt"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "debt",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

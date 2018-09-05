@@ -1,14 +1,23 @@
 {
+  "id": 1342,
   "tokens": [
     "there"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "there",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

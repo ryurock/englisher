@@ -1,17 +1,23 @@
 {
+  "id": 598,
   "tokens": [
     "hair"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hair",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "down",
-    "part"
-  ],
   "translations": {
     "ja": [
       {

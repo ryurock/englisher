@@ -1,17 +1,23 @@
 {
+  "id": 133,
   "tokens": [
     "bill"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bill",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "instrument",
-    "measure"
-  ],
   "translations": {
     "ja": [
       {

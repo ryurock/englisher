@@ -1,14 +1,24 @@
 {
+  "id": 172,
   "tokens": [
     "budget"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "budget",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

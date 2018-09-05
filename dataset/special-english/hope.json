@@ -1,18 +1,25 @@
 {
+  "id": 635,
   "tokens": [
     "hope"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hope",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "desire",
-    "wish",
-    "trust"
-  ],
   "translations": {
     "ja": [
       {

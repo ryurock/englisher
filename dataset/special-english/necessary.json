@@ -1,14 +1,22 @@
 {
+  "id": 867,
   "tokens": [
     "necessary"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "necessary",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

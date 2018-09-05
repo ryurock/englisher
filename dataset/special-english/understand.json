@@ -1,16 +1,25 @@
 {
+  "id": 1400,
   "tokens": [
     "understand"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "understand",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "u",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "low"
-  ],
   "translations": {
     "ja": [
       {

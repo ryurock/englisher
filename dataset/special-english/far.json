@@ -1,17 +1,23 @@
 {
+  "id": 493,
   "tokens": [
     "far"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "far",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "distance",
-    "cold"
-  ],
   "translations": {
     "ja": [
       {

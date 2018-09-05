@@ -1,16 +1,24 @@
 {
+  "id": 1506,
   "tokens": [
     "yesterday"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "yesterday",
+      "postTags": [
+        "Noun",
+        "Date",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "y",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "day"
-  ],
   "translations": {
     "ja": [
       {

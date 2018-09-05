@@ -1,18 +1,23 @@
 {
+  "id": 487,
   "tokens": [
     "fair"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fair",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "just",
-    "reasonable",
-    "clean"
-  ],
   "translations": {
     "ja": [
       {

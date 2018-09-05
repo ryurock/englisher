@@ -1,16 +1,23 @@
 {
+  "id": 1502,
   "tokens": [
     "wrong"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wrong",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "false"
-  ],
   "translations": {
     "ja": [
       {

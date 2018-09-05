@@ -1,16 +1,24 @@
 {
+  "id": 304,
   "tokens": [
     "credit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "credit",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "memorial"
-  ],
   "translations": {
     "ja": [
       {

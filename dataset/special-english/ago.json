@@ -1,16 +1,25 @@
 {
+  "id": 27,
   "tokens": [
     "ago"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ago",
+      "postTags": [
+        "Time",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Time"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "past"
-  ],
   "translations": {
     "ja": [
       {

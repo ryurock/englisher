@@ -1,18 +1,25 @@
 {
+  "id": 792,
   "tokens": [
     "march"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "march",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "parade",
-    "process",
-    "walk"
-  ],
   "translations": {
     "ja": [
       {

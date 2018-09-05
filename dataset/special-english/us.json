@@ -1,14 +1,23 @@
 {
+  "id": 1409,
   "tokens": [
     "us"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "us",
+      "postTags": [
+        "Pronoun",
+        "Noun"
+      ],
+      "bestPosTag": "Pronoun"
+    }
+  ],
+  "sort": "u",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

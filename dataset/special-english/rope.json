@@ -1,16 +1,23 @@
 {
+  "id": 1115,
   "tokens": [
     "rope"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rope",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "line"
-  ],
   "translations": {
     "ja": [
       {

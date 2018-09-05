@@ -1,24 +1,23 @@
 {
+  "id": 1494,
   "tokens": [
     "world"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "world",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "duty",
-    "wash",
-    "service",
-    "labor",
-    "attention",
-    "job",
-    "care",
-    "project",
-    "aid"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,33 +1,25 @@
 {
+  "id": 174,
   "tokens": [
     "building"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "building",
+      "postTags": [
+        "Gerund",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "skeleton",
-    "ruin",
-    "window",
-    "school",
-    "level",
-    "house",
-    "restaurant",
-    "wall",
-    "story",
-    "hotel",
-    "room",
-    "heat",
-    "court",
-    "structure",
-    "floor",
-    "theater",
-    "center",
-    "lift"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 955,
   "tokens": [
     "persuade"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "persuade",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "work",
-    "influence",
-    "carry"
-  ],
   "translations": {
     "ja": [
       {

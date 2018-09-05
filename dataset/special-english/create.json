@@ -1,47 +1,25 @@
 {
+  "id": 302,
   "tokens": [
     "create"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "create",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bring",
-    "cut",
-    "father",
-    "do",
-    "get",
-    "beat",
-    "press",
-    "cause",
-    "work",
-    "direct",
-    "produce",
-    "organize",
-    "establish",
-    "raise",
-    "start",
-    "strike",
-    "manufacture",
-    "shell",
-    "fire",
-    "copy",
-    "piece",
-    "give",
-    "film",
-    "form",
-    "make",
-    "write",
-    "build",
-    "play",
-    "short",
-    "clear",
-    "grind",
-    "mother"
-  ],
   "translations": {
     "ja": [
       {

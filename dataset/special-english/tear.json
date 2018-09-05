@@ -1,19 +1,25 @@
 {
+  "id": 1318,
   "tokens": [
     "tear"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tear",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "pull",
-    "divide",
-    "separate",
-    "part"
-  ],
   "translations": {
     "ja": [
       {

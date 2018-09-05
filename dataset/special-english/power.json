@@ -1,20 +1,23 @@
 {
+  "id": 989,
   "tokens": [
     "power"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "power",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "control",
-    "influence",
-    "quality",
-    "interest",
-    "veto"
-  ],
   "translations": {
     "ja": [
       {

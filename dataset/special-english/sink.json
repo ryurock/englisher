@@ -1,17 +1,25 @@
 {
+  "id": 1197,
   "tokens": [
     "sink"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sink",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "drop",
-    "flag"
-  ],
   "translations": {
     "ja": [
       {

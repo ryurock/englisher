@@ -1,14 +1,23 @@
 {
+  "id": 1314,
   "tokens": [
     "tax"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tax",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,26 +1,23 @@
 {
+  "id": 19,
   "tokens": [
     "affect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "affect",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "process",
-    "influence",
-    "touch",
-    "subject",
-    "color",
-    "treat",
-    "strike",
-    "hit",
-    "trouble",
-    "change",
-    "work"
-  ],
   "translations": {
     "ja": [
       {

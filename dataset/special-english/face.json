@@ -1,18 +1,23 @@
 {
+  "id": 483,
   "tokens": [
     "face"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "face",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "human",
-    "head",
-    "man"
-  ],
   "translations": {
     "ja": [
       {

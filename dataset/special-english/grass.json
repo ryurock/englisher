@@ -1,14 +1,23 @@
 {
+  "id": 584,
   "tokens": [
     "grass"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "grass",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "g",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

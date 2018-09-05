@@ -1,17 +1,26 @@
 {
+  "id": 1153,
   "tokens": [
     "Senate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "Senate",
+      "postTags": [
+        "TitleCase",
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "S",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "legislature",
-    "Senate"
-  ],
   "translations": {
     "ja": [
       {

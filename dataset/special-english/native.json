@@ -1,14 +1,24 @@
 {
+  "id": 862,
   "tokens": [
     "native"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "native",
+      "postTags": [
+        "Actor",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

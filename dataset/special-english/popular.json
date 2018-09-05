@@ -1,17 +1,22 @@
 {
+  "id": 980,
   "tokens": [
     "popular"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "popular",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "favorite",
-    "hot"
-  ],
   "translations": {
     "ja": [
       {

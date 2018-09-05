@@ -1,16 +1,25 @@
 {
+  "id": 616,
   "tokens": [
     "heat"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "heat",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "energy"
-  ],
   "translations": {
     "ja": [
       {

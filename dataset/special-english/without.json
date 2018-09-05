@@ -1,16 +1,22 @@
 {
+  "id": 1486,
   "tokens": [
     "without"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "without",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "wash"
-  ],
   "translations": {
     "ja": [
       {

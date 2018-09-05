@@ -1,16 +1,22 @@
 {
+  "id": 2,
   "tokens": [
     "able"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "able",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "power"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,62 +1,25 @@
 {
+  "id": 851,
   "tokens": [
     "move"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "move",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "go",
-    "follow",
-    "speed",
-    "blow",
-    "hurry",
-    "spread",
-    "circle",
-    "swim",
-    "do",
-    "retire",
-    "return",
-    "rise",
-    "fall",
-    "step",
-    "walk",
-    "continue",
-    "round",
-    "wheel",
-    "back",
-    "jump",
-    "race",
-    "progress",
-    "run",
-    "come",
-    "change",
-    "career",
-    "turn",
-    "ease",
-    "repair",
-    "float",
-    "carry",
-    "automobile",
-    "slide",
-    "fly",
-    "lift",
-    "play",
-    "ride",
-    "pass",
-    "sit",
-    "travel",
-    "roll",
-    "withdraw",
-    "steam",
-    "lead",
-    "drive",
-    "push",
-    "wind"
-  ],
   "translations": {
     "ja": [
       {

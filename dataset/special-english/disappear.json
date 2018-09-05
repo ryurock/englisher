@@ -1,20 +1,25 @@
 {
+  "id": 375,
   "tokens": [
     "disappear"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "disappear",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "pass",
-    "go",
-    "fall",
-    "die",
-    "remove"
-  ],
   "translations": {
     "ja": [
       {

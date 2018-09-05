@@ -1,18 +1,25 @@
 {
+  "id": 543,
   "tokens": [
     "forget"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "forget",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "suppress",
-    "bury",
-    "repress"
-  ],
   "translations": {
     "ja": [
       {

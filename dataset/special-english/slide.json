@@ -1,16 +1,25 @@
 {
+  "id": 1208,
   "tokens": [
     "slide"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "slide",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "submarine"
-  ],
   "translations": {
     "ja": [
       {

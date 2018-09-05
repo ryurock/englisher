@@ -1,17 +1,25 @@
 {
+  "id": 186,
   "tokens": [
     "call"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "call",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "name",
-    "term"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 108,
   "tokens": [
     "ballot"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ballot",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "document"
-  ],
   "translations": {
     "ja": [
       {

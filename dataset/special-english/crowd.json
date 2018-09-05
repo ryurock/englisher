@@ -1,19 +1,23 @@
 {
+  "id": 312,
   "tokens": [
     "crowd"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "crowd",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "army",
-    "crush",
-    "press",
-    "mob"
-  ],
   "translations": {
     "ja": [
       {

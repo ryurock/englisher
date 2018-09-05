@@ -1,17 +1,22 @@
 {
+  "id": 1159,
   "tokens": [
     "serious"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "serious",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "real",
-    "solid"
-  ],
   "translations": {
     "ja": [
       {

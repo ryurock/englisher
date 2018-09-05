@@ -1,17 +1,23 @@
 {
+  "id": 247,
   "tokens": [
     "cold"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cold",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "temperature",
-    "cool"
-  ],
   "translations": {
     "ja": [
       {

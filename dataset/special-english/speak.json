@@ -1,23 +1,25 @@
 {
+  "id": 1230,
   "tokens": [
     "speak"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "speak",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shout",
-    "read",
-    "communicate",
-    "sing",
-    "swallow",
-    "present",
-    "begin",
-    "talk"
-  ],
   "translations": {
     "ja": [
       {

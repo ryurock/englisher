@@ -1,18 +1,23 @@
 {
+  "id": 218,
   "tokens": [
     "cheer"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cheer",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "crush",
-    "beat",
-    "shell"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,23 @@
 {
+  "id": 693,
   "tokens": [
     "interest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "interest",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "wonder",
-    "concern"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 1404,
   "tokens": [
     "unless"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "unless",
+      "postTags": [
+        "Condition",
+        "Adverb"
+      ],
+      "bestPosTag": "Condition"
+    }
+  ],
+  "sort": "u",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "long"
-  ],
   "translations": {
     "ja": [
       {

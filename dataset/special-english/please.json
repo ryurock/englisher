@@ -1,18 +1,22 @@
 {
+  "id": 969,
   "tokens": [
     "please"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "please",
+      "postTags": [
+        "Expression"
+      ],
+      "bestPosTag": "Expression"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "satisfy",
-    "like",
-    "transport"
-  ],
   "translations": {
     "ja": [
       {

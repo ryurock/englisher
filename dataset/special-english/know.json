@@ -1,16 +1,25 @@
 {
+  "id": 726,
   "tokens": [
     "know"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "know",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "k",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "recognize"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,20 +1,23 @@
 {
+  "id": 1386,
   "tokens": [
     "tribe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tribe",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "run",
-    "test",
-    "effort",
-    "attempt",
-    "try"
-  ],
   "translations": {
     "ja": [
       {

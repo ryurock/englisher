@@ -1,20 +1,25 @@
 {
+  "id": 346,
   "tokens": [
     "demand"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "demand",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "require",
-    "request",
-    "ask",
-    "expect",
-    "want"
-  ],
   "translations": {
     "ja": [
       {

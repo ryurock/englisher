@@ -1,16 +1,23 @@
 {
+  "id": 37,
   "tokens": [
     "alcohol"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "alcohol",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "drink"
-  ],
   "translations": {
     "ja": [
       {

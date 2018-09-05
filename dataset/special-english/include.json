@@ -1,21 +1,25 @@
 {
+  "id": 671,
   "tokens": [
     "include"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "include",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hold",
-    "have",
-    "cover",
-    "involve",
-    "contain",
-    "carry"
-  ],
   "translations": {
     "ja": [
       {

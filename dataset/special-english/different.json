@@ -1,17 +1,22 @@
 {
+  "id": 367,
   "tokens": [
     "different"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "different",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "opposite",
-    "several"
-  ],
   "translations": {
     "ja": [
       {

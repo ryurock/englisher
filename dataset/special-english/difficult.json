@@ -1,19 +1,22 @@
 {
+  "id": 368,
   "tokens": [
     "difficult"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "difficult",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tall",
-    "hard",
-    "rough",
-    "serious"
-  ],
   "translations": {
     "ja": [
       {

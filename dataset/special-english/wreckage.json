@@ -1,16 +1,23 @@
 {
+  "id": 1500,
   "tokens": [
     "wreckage"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wreckage",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "part"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 781,
   "tokens": [
     "magazine"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "magazine",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "computer",
-    "press",
-    "device"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,22 @@
 {
+  "id": 3,
   "tokens": [
     "about"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "about",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "around",
-    "some"
-  ],
   "translations": {
     "ja": [
       {

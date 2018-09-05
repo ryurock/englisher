@@ -1,29 +1,25 @@
 {
+  "id": 1324,
   "tokens": [
     "tell"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tell",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "represent",
-    "supply",
-    "say",
-    "explain",
-    "add",
-    "note",
-    "state",
-    "answer",
-    "announce",
-    "express",
-    "observe",
-    "present",
-    "give",
-    "declare"
-  ],
   "translations": {
     "ja": [
       {

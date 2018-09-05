@@ -1,17 +1,25 @@
 {
+  "id": 795,
   "tokens": [
     "marry"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "marry",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "unite",
-    "tie"
-  ],
   "translations": {
     "ja": [
       {

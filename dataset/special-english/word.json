@@ -1,21 +1,23 @@
 {
+  "id": 1492,
   "tokens": [
     "word"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "word",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "term",
-    "language",
-    "loan",
-    "head",
-    "form",
-    "opposite"
-  ],
   "translations": {
     "ja": [
       {

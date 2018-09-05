@@ -1,18 +1,22 @@
 {
+  "id": 546,
   "tokens": [
     "former"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "former",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "base",
-    "word",
-    "root"
-  ],
   "translations": {
     "ja": [
       {

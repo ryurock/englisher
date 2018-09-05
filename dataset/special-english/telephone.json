@@ -1,14 +1,23 @@
 {
+  "id": 1321,
   "tokens": [
     "telephone"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "telephone",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

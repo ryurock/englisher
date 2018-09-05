@@ -1,17 +1,23 @@
 {
+  "id": 613,
   "tokens": [
     "heal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "heal",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "better",
-    "improve"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 1109,
   "tokens": [
     "rob"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rob",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cheat",
-    "bill",
-    "charge"
-  ],
   "translations": {
     "ja": [
       {

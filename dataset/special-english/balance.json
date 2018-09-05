@@ -1,14 +1,23 @@
 {
+  "id": 105,
   "tokens": [
     "balance"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "balance",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

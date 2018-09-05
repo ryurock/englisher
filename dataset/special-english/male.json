@@ -1,16 +1,23 @@
 {
+  "id": 787,
   "tokens": [
     "male"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "male",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sex"
-  ],
   "translations": {
     "ja": [
       {

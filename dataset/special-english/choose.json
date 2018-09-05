@@ -1,29 +1,25 @@
 {
+  "id": 224,
   "tokens": [
     "choose"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "choose",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "set",
-    "elect",
-    "vote",
-    "follow",
-    "go",
-    "fix",
-    "field",
-    "propose",
-    "take",
-    "sort",
-    "define",
-    "decide",
-    "nominate",
-    "limit"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,23 @@
 {
+  "id": 880,
   "tokens": [
     "noise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "noise",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "crash",
-    "report",
-    "sound",
-    "clash"
-  ],
   "translations": {
     "ja": [
       {

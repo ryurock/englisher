@@ -1,17 +1,23 @@
 {
+  "id": 1479,
   "tokens": [
     "window"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "window",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "case",
-    "building"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,22 +1,25 @@
 {
+  "id": 309,
   "tokens": [
     "criticize"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "criticize",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "comment",
-    "attack",
-    "deplore",
-    "denounce",
-    "blame",
-    "judge",
-    "round"
-  ],
   "translations": {
     "ja": [
       {

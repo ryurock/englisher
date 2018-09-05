@@ -1,20 +1,25 @@
 {
+  "id": 540,
   "tokens": [
     "force"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "force",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "pressure",
-    "railroad",
-    "drive",
-    "act"
-  ],
   "translations": {
     "ja": [
       {

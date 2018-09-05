@@ -1,18 +1,23 @@
 {
+  "id": 883,
   "tokens": [
     "normal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "normal",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "natural",
-    "average",
-    "mean"
-  ],
   "translations": {
     "ja": [
       {

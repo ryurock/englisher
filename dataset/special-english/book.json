@@ -1,16 +1,23 @@
 {
+  "id": 150,
   "tokens": [
     "book"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "book",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "publication"
-  ],
   "translations": {
     "ja": [
       {

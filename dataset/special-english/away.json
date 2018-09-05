@@ -1,16 +1,22 @@
 {
+  "id": 101,
   "tokens": [
     "away"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "away",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "off"
-  ],
   "translations": {
     "ja": [
       {

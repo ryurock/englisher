@@ -1,19 +1,22 @@
 {
+  "id": 744,
   "tokens": [
     "left"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "left",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "near",
-    "place",
-    "position",
-    "port"
-  ],
   "translations": {
     "ja": [
       {

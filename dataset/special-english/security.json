@@ -1,17 +1,23 @@
 {
+  "id": 1145,
   "tokens": [
     "security"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "security",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shelter",
-    "peace"
-  ],
   "translations": {
     "ja": [
       {

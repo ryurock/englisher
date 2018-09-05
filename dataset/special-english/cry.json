@@ -1,18 +1,25 @@
 {
+  "id": 314,
   "tokens": [
     "cry"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cry",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shout",
-    "call",
-    "pipe"
-  ],
   "translations": {
     "ja": [
       {

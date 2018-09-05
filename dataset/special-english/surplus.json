@@ -1,21 +1,23 @@
 {
+  "id": 1295,
   "tokens": [
     "surplus"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "surplus",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "skin",
-    "ground",
-    "level",
-    "bed",
-    "face",
-    "side"
-  ],
   "translations": {
     "ja": [
       {

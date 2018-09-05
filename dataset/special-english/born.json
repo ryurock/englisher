@@ -1,14 +1,23 @@
 {
+  "id": 152,
   "tokens": [
     "born"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "born",
+      "postTags": [
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

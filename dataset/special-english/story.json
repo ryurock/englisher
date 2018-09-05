@@ -1,17 +1,23 @@
 {
+  "id": 1262,
   "tokens": [
     "story"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "story",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "substance",
-    "message"
-  ],
   "translations": {
     "ja": [
       {

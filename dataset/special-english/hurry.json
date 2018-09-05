@@ -1,20 +1,25 @@
 {
+  "id": 652,
   "tokens": [
     "hurry"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hurry",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "run",
-    "travel",
-    "move",
-    "go",
-    "speed"
-  ],
   "translations": {
     "ja": [
       {

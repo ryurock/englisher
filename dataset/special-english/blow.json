@@ -1,19 +1,25 @@
 {
+  "id": 143,
   "tokens": [
     "blow"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "blow",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fight",
-    "kick",
-    "stab",
-    "box"
-  ],
   "translations": {
     "ja": [
       {

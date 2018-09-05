@@ -1,14 +1,25 @@
 {
+  "id": 931,
   "tokens": [
     "parachute"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "parachute",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

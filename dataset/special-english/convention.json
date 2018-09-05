@@ -1,14 +1,23 @@
 {
+  "id": 286,
   "tokens": [
     "convention"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "convention",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

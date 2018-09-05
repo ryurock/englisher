@@ -1,19 +1,23 @@
 {
+  "id": 789,
   "tokens": [
     "manufacture"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "manufacture",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cat",
-    "boy",
-    "adult",
-    "male"
-  ],
   "translations": {
     "ja": [
       {

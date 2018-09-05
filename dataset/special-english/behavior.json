@@ -1,16 +1,23 @@
 {
+  "id": 123,
   "tokens": [
     "behavior"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "behavior",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "aggression"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,21 +1,25 @@
 {
+  "id": 755,
   "tokens": [
     "lift"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "lift",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "raise",
-    "prove",
-    "pump",
-    "rise",
-    "wind"
-  ],
   "translations": {
     "ja": [
       {

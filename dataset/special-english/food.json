@@ -1,19 +1,23 @@
 {
+  "id": 536,
   "tokens": [
     "food"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "food",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "feed",
-    "drink",
-    "water",
-    "substance"
-  ],
   "translations": {
     "ja": [
       {

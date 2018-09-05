@@ -1,19 +1,25 @@
 {
+  "id": 1030,
   "tokens": [
     "push"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "push",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "force",
-    "move",
-    "press",
-    "drive"
-  ],
   "translations": {
     "ja": [
       {

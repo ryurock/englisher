@@ -1,19 +1,22 @@
 {
+  "id": 633,
   "tokens": [
     "honest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "honest",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "square",
-    "direct",
-    "true",
-    "straight"
-  ],
   "translations": {
     "ja": [
       {

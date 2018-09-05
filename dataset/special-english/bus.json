@@ -1,16 +1,23 @@
 {
+  "id": 179,
   "tokens": [
     "bus"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bus",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "window"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 1190,
   "tokens": [
     "silence"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "silence",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "condition"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,25 @@
 {
+  "id": 147,
   "tokens": [
     "boil"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "boil",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "change"
-  ],
   "translations": {
     "ja": [
       {

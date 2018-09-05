@@ -1,17 +1,25 @@
 {
+  "id": 1374,
   "tokens": [
     "train"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "train",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "engine",
-    "car"
-  ],
   "translations": {
     "ja": [
       {

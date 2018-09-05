@@ -1,27 +1,22 @@
 {
+  "id": 798,
   "tokens": [
     "material"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "material",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "paper",
-    "earth",
-    "ground",
-    "rock",
-    "ammunition",
-    "stone",
-    "substance",
-    "color",
-    "waste",
-    "fill",
-    "dust",
-    "mineral"
-  ],
   "translations": {
     "ja": [
       {

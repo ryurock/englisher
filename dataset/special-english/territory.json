@@ -1,17 +1,23 @@
 {
+  "id": 1330,
   "tokens": [
     "territory"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "territory",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "community",
-    "march"
-  ],
   "translations": {
     "ja": [
       {

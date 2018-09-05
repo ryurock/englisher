@@ -1,16 +1,23 @@
 {
+  "id": 401,
   "tokens": [
     "drown"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "drown",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cover"
-  ],
   "translations": {
     "ja": [
       {

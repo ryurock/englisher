@@ -1,16 +1,23 @@
 {
+  "id": 864,
   "tokens": [
     "nature"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "nature",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "quality"
-  ],
   "translations": {
     "ja": [
       {

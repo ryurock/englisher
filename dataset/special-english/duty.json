@@ -1,19 +1,23 @@
 {
+  "id": 406,
   "tokens": [
     "duty"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "duty",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "office",
-    "work",
-    "job",
-    "part"
-  ],
   "translations": {
     "ja": [
       {

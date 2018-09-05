@@ -1,18 +1,25 @@
 {
+  "id": 424,
   "tokens": [
     "elect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "elect",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "choose",
-    "return",
-    "take"
-  ],
   "translations": {
     "ja": [
       {

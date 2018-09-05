@@ -1,17 +1,23 @@
 {
+  "id": 1168,
   "tokens": [
     "shape"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "shape",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "form",
-    "straight"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 1037,
   "tokens": [
     "radar"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "radar",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

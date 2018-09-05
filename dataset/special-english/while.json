@@ -1,17 +1,22 @@
 {
+  "id": 1467,
   "tokens": [
     "while"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "while",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "time",
-    "piece"
-  ],
   "translations": {
     "ja": [
       {

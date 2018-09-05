@@ -1,16 +1,23 @@
 {
+  "id": 603,
   "tokens": [
     "happy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "happy",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bright"
-  ],
   "translations": {
     "ja": [
       {

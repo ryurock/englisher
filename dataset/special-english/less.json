@@ -1,14 +1,23 @@
 {
+  "id": 748,
   "tokens": [
     "less"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "less",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

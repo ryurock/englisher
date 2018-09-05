@@ -1,16 +1,22 @@
 {
+  "id": 1228,
   "tokens": [
     "south"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "south",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "voice"
-  ],
   "translations": {
     "ja": [
       {

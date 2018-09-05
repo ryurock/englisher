@@ -1,19 +1,23 @@
 {
+  "id": 1438,
   "tokens": [
     "war"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "war",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "battle",
-    "fight",
-    "aggression",
-    "conflict"
-  ],
   "translations": {
     "ja": [
       {

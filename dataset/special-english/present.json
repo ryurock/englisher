@@ -1,16 +1,23 @@
 {
+  "id": 994,
   "tokens": [
     "present"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "present",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "immediate"
-  ],
   "translations": {
     "ja": [
       {

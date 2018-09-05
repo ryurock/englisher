@@ -1,26 +1,25 @@
 {
+  "id": 335,
   "tokens": [
     "decide"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "decide",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "measure",
-    "will",
-    "debate",
-    "take",
-    "choose",
-    "purpose",
-    "govern",
-    "judge",
-    "rule",
-    "try",
-    "order"
-  ],
   "translations": {
     "ja": [
       {

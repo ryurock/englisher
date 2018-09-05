@@ -1,17 +1,23 @@
 {
+  "id": 817,
   "tokens": [
     "method"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "method",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "lead",
-    "iron"
-  ],
   "translations": {
     "ja": [
       {

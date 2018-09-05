@@ -1,18 +1,23 @@
 {
+  "id": 1012,
   "tokens": [
     "project"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "project",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "labor",
-    "baby",
-    "work"
-  ],
   "translations": {
     "ja": [
       {

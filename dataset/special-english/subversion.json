@@ -1,16 +1,23 @@
 {
+  "id": 1278,
   "tokens": [
     "subversion"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "subversion",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "corruption"
-  ],
   "translations": {
     "ja": [
       {

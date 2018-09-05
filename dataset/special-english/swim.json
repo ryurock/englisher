@@ -1,20 +1,25 @@
 {
+  "id": 1305,
   "tokens": [
     "swim"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "swim",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "school",
-    "travel",
-    "move",
-    "go",
-    "dive"
-  ],
   "translations": {
     "ja": [
       {

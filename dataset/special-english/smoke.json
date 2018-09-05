@@ -1,14 +1,25 @@
 {
+  "id": 1213,
   "tokens": [
     "smoke"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "smoke",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

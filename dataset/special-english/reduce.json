@@ -1,19 +1,25 @@
 {
+  "id": 1063,
   "tokens": [
     "reduce"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "reduce",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "decrease",
-    "cut",
-    "spill",
-    "thin"
-  ],
   "translations": {
     "ja": [
       {

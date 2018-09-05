@@ -1,16 +1,23 @@
 {
+  "id": 48,
   "tokens": [
     "ambassador"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ambassador",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "diplomat"
-  ],
   "translations": {
     "ja": [
       {

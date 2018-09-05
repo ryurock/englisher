@@ -1,19 +1,25 @@
 {
+  "id": 287,
   "tokens": [
     "cook"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cook",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ready",
-    "fix",
-    "keep",
-    "make"
-  ],
   "translations": {
     "ja": [
       {

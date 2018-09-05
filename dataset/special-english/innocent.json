@@ -1,16 +1,22 @@
 {
+  "id": 683,
   "tokens": [
     "innocent"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "innocent",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "clear"
-  ],
   "translations": {
     "ja": [
       {

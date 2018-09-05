@@ -1,17 +1,25 @@
 {
+  "id": 643,
   "tokens": [
     "hour"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hour",
+      "postTags": [
+        "Duration",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "day",
-    "minute"
-  ],
   "translations": {
     "ja": [
       {

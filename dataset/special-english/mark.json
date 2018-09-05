@@ -1,14 +1,26 @@
 {
+  "id": 793,
   "tokens": [
     "mark"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mark",
+      "postTags": [
+        "MaleName",
+        "FirstName",
+        "Person",
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

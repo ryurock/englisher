@@ -1,16 +1,23 @@
 {
+  "id": 1038,
   "tokens": [
     "radiation"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "radiation",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "energy"
-  ],
   "translations": {
     "ja": [
       {

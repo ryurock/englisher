@@ -1,16 +1,22 @@
 {
+  "id": 51,
   "tokens": [
     "among"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "among",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "on"
-  ],
   "translations": {
     "ja": [
       {

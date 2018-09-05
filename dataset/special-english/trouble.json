@@ -1,17 +1,23 @@
 {
+  "id": 1390,
   "tokens": [
     "trouble"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "trouble",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "problem",
-    "matter"
-  ],
   "translations": {
     "ja": [
       {

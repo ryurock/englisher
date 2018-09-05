@@ -1,16 +1,23 @@
 {
+  "id": 310,
   "tokens": [
     "crops"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "crops",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "harvest"
-  ],
   "translations": {
     "ja": [
       {

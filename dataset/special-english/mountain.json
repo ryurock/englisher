@@ -1,17 +1,23 @@
 {
+  "id": 849,
   "tokens": [
     "mountain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mountain",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sign",
-    "wave"
-  ],
   "translations": {
     "ja": [
       {

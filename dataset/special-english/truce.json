@@ -1,16 +1,23 @@
 {
+  "id": 1391,
   "tokens": [
     "truce"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "truce",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "peace"
-  ],
   "translations": {
     "ja": [
       {

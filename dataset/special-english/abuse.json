@@ -1,17 +1,23 @@
 {
+  "id": 5,
   "tokens": [
     "abuse"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "abuse",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "step",
-    "treat"
-  ],
   "translations": {
     "ja": [
       {

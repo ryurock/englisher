@@ -1,16 +1,23 @@
 {
+  "id": 775,
   "tokens": [
     "loud"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "loud",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "big"
-  ],
   "translations": {
     "ja": [
       {

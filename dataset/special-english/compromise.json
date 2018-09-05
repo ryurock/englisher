@@ -1,14 +1,25 @@
 {
+  "id": 266,
   "tokens": [
     "compromise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "compromise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

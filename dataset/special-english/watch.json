@@ -1,18 +1,25 @@
 {
+  "id": 1443,
   "tokens": [
     "watch"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "watch",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "guard",
-    "observe",
-    "follow"
-  ],
   "translations": {
     "ja": [
       {

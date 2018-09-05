@@ -1,14 +1,25 @@
 {
+  "id": 1451,
   "tokens": [
     "wear"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wear",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

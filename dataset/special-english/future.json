@@ -1,17 +1,23 @@
 {
+  "id": 561,
   "tokens": [
     "future"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "future",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "time",
-    "tomorrow"
-  ],
   "translations": {
     "ja": [
       {

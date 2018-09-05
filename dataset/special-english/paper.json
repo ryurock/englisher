@@ -1,16 +1,24 @@
 {
+  "id": 930,
   "tokens": [
     "paper"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "paper",
+      "postTags": [
+        "Uncountable",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "material"
-  ],
   "translations": {
     "ja": [
       {

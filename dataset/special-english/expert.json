@@ -1,21 +1,22 @@
 {
+  "id": 472,
   "tokens": [
     "expert"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "expert",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "individual",
-    "star",
-    "champion",
-    "computer",
-    "guide",
-    "person"
-  ],
   "translations": {
     "ja": [
       {

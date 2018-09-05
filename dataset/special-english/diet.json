@@ -1,14 +1,23 @@
 {
+  "id": 366,
   "tokens": [
     "diet"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "diet",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

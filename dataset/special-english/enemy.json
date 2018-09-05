@@ -1,16 +1,22 @@
 {
+  "id": 433,
   "tokens": [
     "enemy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "enemy",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "force"
-  ],
   "translations": {
     "ja": [
       {

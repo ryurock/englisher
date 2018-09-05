@@ -1,21 +1,23 @@
 {
+  "id": 1294,
   "tokens": [
     "surface"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "surface",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "skin",
-    "ground",
-    "level",
-    "bed",
-    "face",
-    "side"
-  ],
   "translations": {
     "ja": [
       {

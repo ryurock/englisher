@@ -1,16 +1,23 @@
 {
+  "id": 135,
   "tokens": [
     "bird"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bird",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bill"
-  ],
   "translations": {
     "ja": [
       {

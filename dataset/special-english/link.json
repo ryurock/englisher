@@ -1,20 +1,25 @@
 {
+  "id": 761,
   "tokens": [
     "link"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "link",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "connect",
-    "mean",
-    "identify",
-    "think",
-    "remember"
-  ],
   "translations": {
     "ja": [
       {

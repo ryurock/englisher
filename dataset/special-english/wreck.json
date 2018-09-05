@@ -1,17 +1,25 @@
 {
+  "id": 1499,
   "tokens": [
     "wreck"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wreck",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "destroy",
-    "ruin"
-  ],
   "translations": {
     "ja": [
       {

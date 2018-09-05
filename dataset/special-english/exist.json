@@ -1,21 +1,25 @@
 {
+  "id": 466,
   "tokens": [
     "exist"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "exist",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "lie",
-    "threaten",
-    "be",
-    "hold",
-    "come",
-    "flow"
-  ],
   "translations": {
     "ja": [
       {

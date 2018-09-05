@@ -1,16 +1,25 @@
 {
+  "id": 786,
   "tokens": [
     "make"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "make",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "do"
-  ],
   "translations": {
     "ja": [
       {

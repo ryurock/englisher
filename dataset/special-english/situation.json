@@ -1,21 +1,23 @@
 {
+  "id": 1200,
   "tokens": [
     "situation"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "situation",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "size",
-    "thing",
-    "environment",
-    "state",
-    "prison",
-    "picture"
-  ],
   "translations": {
     "ja": [
       {

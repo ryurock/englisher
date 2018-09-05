@@ -1,17 +1,23 @@
 {
+  "id": 1009,
   "tokens": [
     "profit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "profit",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "share",
-    "part"
-  ],
   "translations": {
     "ja": [
       {

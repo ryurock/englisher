@@ -1,16 +1,23 @@
 {
+  "id": 1101,
   "tokens": [
     "rich"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rich",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "easy"
-  ],
   "translations": {
     "ja": [
       {

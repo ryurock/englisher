@@ -1,17 +1,23 @@
 {
+  "id": 1041,
   "tokens": [
     "railroad"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "railroad",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tube",
-    "line"
-  ],
   "translations": {
     "ja": [
       {

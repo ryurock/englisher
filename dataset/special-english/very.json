@@ -1,16 +1,22 @@
 {
+  "id": 1419,
   "tokens": [
     "very"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "very",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "real"
-  ],
   "translations": {
     "ja": [
       {

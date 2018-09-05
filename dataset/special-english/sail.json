@@ -1,16 +1,25 @@
 {
+  "id": 1128,
   "tokens": [
     "sail"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sail",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "travel"
-  ],
   "translations": {
     "ja": [
       {

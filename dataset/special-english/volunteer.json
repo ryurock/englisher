@@ -1,14 +1,23 @@
 {
+  "id": 1431,
   "tokens": [
     "volunteer"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "volunteer",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

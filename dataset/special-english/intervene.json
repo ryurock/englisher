@@ -1,16 +1,23 @@
 {
+  "id": 697,
   "tokens": [
     "intervene"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "intervene",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "interfere"
-  ],
   "translations": {
     "ja": [
       {

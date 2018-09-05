@@ -1,18 +1,23 @@
 {
+  "id": 892,
   "tokens": [
     "obey"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "obey",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "mind",
-    "follow",
-    "listen"
-  ],
   "translations": {
     "ja": [
       {

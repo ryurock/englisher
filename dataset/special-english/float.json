@@ -1,19 +1,24 @@
 {
+  "id": 527,
   "tokens": [
     "float"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "float",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "blow",
-    "move",
-    "travel",
-    "go"
-  ],
   "translations": {
     "ja": [
       {

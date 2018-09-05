@@ -1,14 +1,25 @@
 {
+  "id": 1175,
   "tokens": [
     "shine"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "shine",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

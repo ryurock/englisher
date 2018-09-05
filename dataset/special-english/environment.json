@@ -1,22 +1,23 @@
 {
+  "id": 441,
   "tokens": [
     "environment"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "environment",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "field",
-    "ecology",
-    "street",
-    "area",
-    "orbit",
-    "home",
-    "situation"
-  ],
   "translations": {
     "ja": [
       {

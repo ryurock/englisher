@@ -1,16 +1,22 @@
 {
+  "id": 898,
   "tokens": [
     "off"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "off",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "away"
-  ],
   "translations": {
     "ja": [
       {

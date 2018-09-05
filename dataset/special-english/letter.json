@@ -1,18 +1,23 @@
 {
+  "id": 750,
   "tokens": [
     "letter"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "letter",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "document",
-    "mail",
-    "line"
-  ],
   "translations": {
     "ja": [
       {

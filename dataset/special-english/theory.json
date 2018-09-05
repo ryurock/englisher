@@ -1,16 +1,23 @@
 {
+  "id": 1341,
   "tokens": [
     "theory"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "theory",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "law"
-  ],
   "translations": {
     "ja": [
       {

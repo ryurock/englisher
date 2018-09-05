@@ -1,16 +1,23 @@
 {
+  "id": 451,
   "tokens": [
     "event"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "event",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "act"
-  ],
   "translations": {
     "ja": [
       {

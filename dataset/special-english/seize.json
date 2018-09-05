@@ -1,20 +1,25 @@
 {
+  "id": 1150,
   "tokens": [
     "seize"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "seize",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "capture",
-    "arrest",
-    "take",
-    "get",
-    "catch"
-  ],
   "translations": {
     "ja": [
       {

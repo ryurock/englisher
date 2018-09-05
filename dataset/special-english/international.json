@@ -1,17 +1,23 @@
 {
+  "id": 695,
   "tokens": [
     "international"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "international",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "foreign",
-    "world"
-  ],
   "translations": {
     "ja": [
       {

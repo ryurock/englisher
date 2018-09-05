@@ -1,16 +1,25 @@
 {
+  "id": 1288,
   "tokens": [
     "supervise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "supervise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "build"
-  ],
   "translations": {
     "ja": [
       {

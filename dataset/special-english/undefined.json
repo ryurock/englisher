@@ -1,14 +1,24 @@
 {
+  "id": 1398,
   "tokens": [
     "undefined"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "undefined",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "u",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

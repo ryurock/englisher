@@ -1,17 +1,25 @@
 {
+  "id": 702,
   "tokens": [
     "invite"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "invite",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fire",
-    "raise"
-  ],
   "translations": {
     "ja": [
       {

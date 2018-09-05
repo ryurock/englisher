@@ -1,19 +1,25 @@
 {
+  "id": 651,
   "tokens": [
     "hunt"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hunt",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "capture",
-    "run",
-    "catch",
-    "drive"
-  ],
   "translations": {
     "ja": [
       {

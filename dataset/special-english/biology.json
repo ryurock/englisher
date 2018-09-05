@@ -1,16 +1,22 @@
 {
+  "id": 134,
   "tokens": [
     "biology"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "biology",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ecology"
-  ],
   "translations": {
     "ja": [
       {

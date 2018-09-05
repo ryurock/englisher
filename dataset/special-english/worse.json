@@ -1,14 +1,23 @@
 {
+  "id": 1496,
   "tokens": [
     "worse"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "worse",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

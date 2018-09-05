@@ -1,20 +1,23 @@
 {
+  "id": 1276,
   "tokens": [
     "substance"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "substance",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "material",
-    "fluid",
-    "part",
-    "matter",
-    "chemistry"
-  ],
   "translations": {
     "ja": [
       {

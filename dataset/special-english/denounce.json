@@ -1,17 +1,23 @@
 {
+  "id": 349,
   "tokens": [
     "denounce"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "denounce",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "criticize",
-    "condemn"
-  ],
   "translations": {
     "ja": [
       {

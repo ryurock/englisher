@@ -1,16 +1,25 @@
 {
+  "id": 1212,
   "tokens": [
     "smell"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "smell",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "wind"
-  ],
   "translations": {
     "ja": [
       {

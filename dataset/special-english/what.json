@@ -1,14 +1,22 @@
 {
+  "id": 1460,
   "tokens": [
     "what"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "what",
+      "postTags": [
+        "QuestionWord"
+      ],
+      "bestPosTag": "QuestionWord"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

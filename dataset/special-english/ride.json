@@ -1,20 +1,25 @@
 {
+  "id": 1102,
   "tokens": [
     "ride"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ride",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "extend",
-    "sit",
-    "move",
-    "go",
-    "travel"
-  ],
   "translations": {
     "ja": [
       {

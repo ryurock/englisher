@@ -1,16 +1,23 @@
 {
+  "id": 1487,
   "tokens": [
     "witness"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "witness",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "watch"
-  ],
   "translations": {
     "ja": [
       {

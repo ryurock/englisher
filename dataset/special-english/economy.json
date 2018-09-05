@@ -1,16 +1,23 @@
 {
+  "id": 417,
   "tokens": [
     "economy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "economy",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "system"
-  ],
   "translations": {
     "ja": [
       {

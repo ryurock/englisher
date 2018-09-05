@@ -1,14 +1,23 @@
 {
+  "id": 532,
   "tokens": [
     "fluid"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fluid",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

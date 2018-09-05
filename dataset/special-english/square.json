@@ -1,14 +1,23 @@
 {
+  "id": 1242,
   "tokens": [
     "square"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "square",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

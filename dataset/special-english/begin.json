@@ -1,21 +1,25 @@
 {
+  "id": 122,
   "tokens": [
     "begin"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "begin",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "start",
-    "attack",
-    "get",
-    "fall",
-    "launch",
-    "enter"
-  ],
   "translations": {
     "ja": [
       {

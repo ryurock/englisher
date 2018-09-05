@@ -1,18 +1,23 @@
 {
+  "id": 454,
   "tokens": [
     "evidence"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "evidence",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "information",
-    "lead",
-    "sign"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,21 +1,25 @@
 {
+  "id": 311,
   "tokens": [
     "cross"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cross",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bridge",
-    "pass",
-    "take",
-    "walk",
-    "cover",
-    "drive"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,22 @@
 {
+  "id": 904,
   "tokens": [
     "often"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "often",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

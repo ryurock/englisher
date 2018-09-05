@@ -1,16 +1,22 @@
 {
+  "id": 910,
   "tokens": [
     "open"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "open",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "prize"
-  ],
   "translations": {
     "ja": [
       {

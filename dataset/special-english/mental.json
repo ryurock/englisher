@@ -1,16 +1,22 @@
 {
+  "id": 814,
   "tokens": [
     "mental"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mental",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "moral"
-  ],
   "translations": {
     "ja": [
       {

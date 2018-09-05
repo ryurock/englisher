@@ -1,17 +1,22 @@
 {
+  "id": 1416,
   "tokens": [
     "vegetable"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "vegetable",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "produce",
-    "green"
-  ],
   "translations": {
     "ja": [
       {

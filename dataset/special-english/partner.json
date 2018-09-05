@@ -1,18 +1,23 @@
 {
+  "id": 937,
   "tokens": [
     "partner"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "partner",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "mate",
-    "wife",
-    "husband"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,25 @@
 {
+  "id": 1244,
   "tokens": [
     "stand"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "stand",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rise",
-    "rest"
-  ],
   "translations": {
     "ja": [
       {

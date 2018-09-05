@@ -1,19 +1,23 @@
 {
+  "id": 1345,
   "tokens": [
     "thick"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "thick",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "heavy",
-    "wide",
-    "fat",
-    "deep"
-  ],
   "translations": {
     "ja": [
       {

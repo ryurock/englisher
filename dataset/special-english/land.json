@@ -1,14 +1,23 @@
 {
+  "id": 732,
   "tokens": [
     "land"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "land",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,22 @@
 {
+  "id": 923,
   "tokens": [
     "out"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "out",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "expel",
-    "remove"
-  ],
   "translations": {
     "ja": [
       {

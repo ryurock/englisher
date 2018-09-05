@@ -1,32 +1,23 @@
 {
+  "id": 300,
   "tokens": [
     "cow"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cow",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "paper",
-    "line",
-    "spread",
-    "bank",
-    "bread",
-    "ice",
-    "surround",
-    "wash",
-    "paint",
-    "hold",
-    "steel",
-    "grass",
-    "surface",
-    "recover",
-    "oil",
-    "dust",
-    "face"
-  ],
   "translations": {
     "ja": [
       {

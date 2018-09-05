@@ -1,14 +1,23 @@
 {
+  "id": 1430,
   "tokens": [
     "volcano"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "volcano",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 958,
   "tokens": [
     "picture"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "picture",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

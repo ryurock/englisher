@@ -1,16 +1,25 @@
 {
+  "id": 148,
   "tokens": [
     "bomb"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bomb",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "arms"
-  ],
   "translations": {
     "ja": [
       {

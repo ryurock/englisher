@@ -1,17 +1,23 @@
 {
+  "id": 642,
   "tokens": [
     "hotel"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hotel",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "building",
-    "court"
-  ],
   "translations": {
     "ja": [
       {

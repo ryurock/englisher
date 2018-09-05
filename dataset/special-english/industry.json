@@ -1,16 +1,23 @@
 {
+  "id": 675,
   "tokens": [
     "industry"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "industry",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "market"
-  ],
   "translations": {
     "ja": [
       {

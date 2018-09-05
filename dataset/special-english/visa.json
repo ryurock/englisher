@@ -1,18 +1,25 @@
 {
+  "id": 1427,
   "tokens": [
     "visa"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "visa",
+      "postTags": [
+        "Organization",
+        "Singular",
+        "Noun",
+        "ProperNoun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "force",
-    "riot",
-    "aggression"
-  ],
   "translations": {
     "ja": [
       {

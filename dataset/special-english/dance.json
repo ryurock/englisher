@@ -1,17 +1,25 @@
 {
+  "id": 324,
   "tokens": [
     "dance"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dance",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "step"
-  ],
   "translations": {
     "ja": [
       {

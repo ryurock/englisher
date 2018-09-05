@@ -1,14 +1,24 @@
 {
+  "id": 583,
   "tokens": [
     "grain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "grain",
+      "postTags": [
+        "Unit",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Unit"
+    }
+  ],
+  "sort": "g",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

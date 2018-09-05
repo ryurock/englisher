@@ -1,14 +1,23 @@
 {
+  "id": 1392,
   "tokens": [
     "truck"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "truck",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

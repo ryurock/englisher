@@ -1,16 +1,23 @@
 {
+  "id": 322,
   "tokens": [
     "dam"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dam",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "barrier"
-  ],
   "translations": {
     "ja": [
       {

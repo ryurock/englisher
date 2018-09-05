@@ -1,14 +1,22 @@
 {
+  "id": 1091,
   "tokens": [
     "responsible"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "responsible",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

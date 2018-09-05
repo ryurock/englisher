@@ -1,14 +1,23 @@
 {
+  "id": 621,
   "tokens": [
     "hero"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hero",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

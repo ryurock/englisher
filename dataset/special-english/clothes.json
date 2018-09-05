@@ -1,16 +1,23 @@
 {
+  "id": 241,
   "tokens": [
     "clothes"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "clothes",
+      "postTags": [
+        "Plural",
+        "Noun"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "wear"
-  ],
   "translations": {
     "ja": [
       {

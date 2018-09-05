@@ -1,14 +1,23 @@
 {
+  "id": 736,
   "tokens": [
     "late"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "late",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,23 +1,25 @@
 {
+  "id": 523,
   "tokens": [
     "fix"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fix",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "repair",
-    "point",
-    "fill",
-    "doctor",
-    "better",
-    "improve",
-    "amend",
-    "piece"
-  ],
   "translations": {
     "ja": [
       {

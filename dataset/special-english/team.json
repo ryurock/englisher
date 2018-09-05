@@ -1,16 +1,23 @@
 {
+  "id": 1317,
   "tokens": [
     "team"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "team",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "crew"
-  ],
   "translations": {
     "ja": [
       {

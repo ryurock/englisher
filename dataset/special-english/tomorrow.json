@@ -1,16 +1,24 @@
 {
+  "id": 1360,
   "tokens": [
     "tomorrow"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tomorrow",
+      "postTags": [
+        "Noun",
+        "Date",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "day"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,25 @@
 {
+  "id": 28,
   "tokens": [
     "agree"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "agree",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "support",
-    "settle",
-    "hold"
-  ],
   "translations": {
     "ja": [
       {

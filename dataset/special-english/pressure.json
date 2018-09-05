@@ -1,16 +1,23 @@
 {
+  "id": 997,
   "tokens": [
     "pressure"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pressure",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "head"
-  ],
   "translations": {
     "ja": [
       {

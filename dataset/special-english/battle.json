@@ -1,18 +1,23 @@
 {
+  "id": 114,
   "tokens": [
     "battle"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "battle",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fight",
-    "war",
-    "conflict"
-  ],
   "translations": {
     "ja": [
       {

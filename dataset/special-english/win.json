@@ -1,18 +1,25 @@
 {
+  "id": 1477,
   "tokens": [
     "win"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "win",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "compete",
-    "take",
-    "carry"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,24 @@
 {
+  "id": 759,
   "tokens": [
     "limit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "limit",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,22 @@
 {
+  "id": 816,
   "tokens": [
     "metal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "metal",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "lead",
-    "iron"
-  ],
   "translations": {
     "ja": [
       {

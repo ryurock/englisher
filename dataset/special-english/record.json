@@ -1,25 +1,25 @@
 {
+  "id": 1060,
   "tokens": [
     "record"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "record",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "film",
-    "mark",
-    "book",
-    "take",
-    "document",
-    "shoot",
-    "save",
-    "register",
-    "keep",
-    "enter"
-  ],
   "translations": {
     "ja": [
       {

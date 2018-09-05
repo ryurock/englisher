@@ -1,16 +1,23 @@
 {
+  "id": 842,
   "tokens": [
     "moon"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "moon",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "moon"
-  ],
   "translations": {
     "ja": [
       {

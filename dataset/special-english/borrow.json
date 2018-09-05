@@ -1,16 +1,25 @@
 {
+  "id": 153,
   "tokens": [
     "borrow"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "borrow",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "get"
-  ],
   "translations": {
     "ja": [
       {

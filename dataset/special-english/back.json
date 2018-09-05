@@ -1,17 +1,22 @@
 {
+  "id": 103,
   "tokens": [
     "back"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "back",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "body",
-    "small"
-  ],
   "translations": {
     "ja": [
       {

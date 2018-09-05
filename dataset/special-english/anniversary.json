@@ -1,16 +1,23 @@
 {
+  "id": 60,
   "tokens": [
     "anniversary"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "anniversary",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "day"
-  ],
   "translations": {
     "ja": [
       {

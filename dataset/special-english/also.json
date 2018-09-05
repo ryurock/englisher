@@ -1,16 +1,22 @@
 {
+  "id": 45,
   "tokens": [
     "also"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "also",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "too"
-  ],
   "translations": {
     "ja": [
       {

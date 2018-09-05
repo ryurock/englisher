@@ -1,14 +1,25 @@
 {
+  "id": 1361,
   "tokens": [
     "tonight"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tonight",
+      "postTags": [
+        "Time",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Time"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

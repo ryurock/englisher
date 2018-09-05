@@ -1,17 +1,25 @@
 {
+  "id": 372,
   "tokens": [
     "direct"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "direct",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "straight",
-    "through"
-  ],
   "translations": {
     "ja": [
       {

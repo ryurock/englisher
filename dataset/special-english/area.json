@@ -1,24 +1,23 @@
 {
+  "id": 71,
   "tokens": [
     "area"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "area",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "danger",
-    "middle",
-    "open",
-    "repair",
-    "center",
-    "country",
-    "space",
-    "clear",
-    "block"
-  ],
   "translations": {
     "ja": [
       {

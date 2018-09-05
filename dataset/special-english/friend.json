@@ -1,20 +1,23 @@
 {
+  "id": 552,
   "tokens": [
     "friend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "friend",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "individual",
-    "mate",
-    "brother",
-    "light",
-    "person"
-  ],
   "translations": {
     "ja": [
       {

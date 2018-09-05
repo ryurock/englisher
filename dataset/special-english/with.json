@@ -1,14 +1,22 @@
 {
+  "id": 1484,
   "tokens": [
     "with"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "with",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

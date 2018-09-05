@@ -1,20 +1,25 @@
 {
+  "id": 1367,
   "tokens": [
     "touch"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "touch",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "feel",
-    "hit",
-    "strike",
-    "kiss",
-    "press"
-  ],
   "translations": {
     "ja": [
       {

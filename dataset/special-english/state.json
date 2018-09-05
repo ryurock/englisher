@@ -1,17 +1,25 @@
 {
+  "id": 1248,
   "tokens": [
     "state"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "state",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "land",
-    "country"
-  ],
   "translations": {
     "ja": [
       {

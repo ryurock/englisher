@@ -1,21 +1,23 @@
 {
+  "id": 1450,
   "tokens": [
     "weapon"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "weapon",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "arms",
-    "instrument",
-    "missile",
-    "steel",
-    "gun",
-    "knife"
-  ],
   "translations": {
     "ja": [
       {

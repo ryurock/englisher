@@ -1,21 +1,22 @@
 {
+  "id": 480,
   "tokens": [
     "extraordinary"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "extraordinary",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "some",
-    "special",
-    "wonderful",
-    "great",
-    "rare",
-    "terrible"
-  ],
   "translations": {
     "ja": [
       {

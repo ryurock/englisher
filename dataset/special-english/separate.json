@@ -1,19 +1,22 @@
 {
+  "id": 1157,
   "tokens": [
     "separate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "separate",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "single",
-    "individual",
-    "other",
-    "independent"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 360,
   "tokens": [
     "detail"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "detail",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "point",
-    "respect",
-    "fact"
-  ],
   "translations": {
     "ja": [
       {

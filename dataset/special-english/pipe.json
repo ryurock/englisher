@@ -1,16 +1,23 @@
 {
+  "id": 962,
   "tokens": [
     "pipe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pipe",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tube"
-  ],
   "translations": {
     "ja": [
       {

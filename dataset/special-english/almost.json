@@ -1,18 +1,22 @@
 {
+  "id": 41,
   "tokens": [
     "almost"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "almost",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "about",
-    "most",
-    "near"
-  ],
   "translations": {
     "ja": [
       {

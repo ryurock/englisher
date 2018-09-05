@@ -1,17 +1,25 @@
 {
+  "id": 1092,
   "tokens": [
     "rest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rest",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "part",
-    "balance"
-  ],
   "translations": {
     "ja": [
       {

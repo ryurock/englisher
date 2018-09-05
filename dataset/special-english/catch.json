@@ -1,16 +1,25 @@
 {
+  "id": 204,
   "tokens": [
     "catch"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "catch",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "surprise"
-  ],
   "translations": {
     "ja": [
       {

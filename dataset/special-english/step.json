@@ -1,17 +1,24 @@
 {
+  "id": 1255,
   "tokens": [
     "step"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "step",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "measure",
-    "guard"
-  ],
   "translations": {
     "ja": [
       {

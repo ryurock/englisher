@@ -1,16 +1,23 @@
 {
+  "id": 391,
   "tokens": [
     "dog"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dog",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "flag"
-  ],
   "translations": {
     "ja": [
       {

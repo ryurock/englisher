@@ -1,17 +1,23 @@
 {
+  "id": 811,
   "tokens": [
     "member"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "member",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sister",
-    "brother"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,22 @@
 {
+  "id": 416,
   "tokens": [
     "ecology"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ecology",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "environment"
-  ],
   "translations": {
     "ja": [
       {

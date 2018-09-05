@@ -1,16 +1,25 @@
 {
+  "id": 470,
   "tokens": [
     "experience"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "experience",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "education"
-  ],
   "translations": {
     "ja": [
       {

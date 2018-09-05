@@ -1,16 +1,25 @@
 {
+  "id": 1503,
   "tokens": [
     "year"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "year",
+      "postTags": [
+        "Duration",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "y",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "period"
-  ],
   "translations": {
     "ja": [
       {

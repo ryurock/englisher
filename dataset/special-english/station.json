@@ -1,17 +1,23 @@
 {
+  "id": 1249,
   "tokens": [
     "station"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "station",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "land",
-    "country"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 474,
   "tokens": [
     "explode"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "explode",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

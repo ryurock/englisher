@@ -1,14 +1,23 @@
 {
+  "id": 1086,
   "tokens": [
     "resign"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "resign",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

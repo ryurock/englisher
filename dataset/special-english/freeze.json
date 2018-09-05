@@ -1,14 +1,25 @@
 {
+  "id": 550,
   "tokens": [
     "freeze"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "freeze",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

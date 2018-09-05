@@ -1,16 +1,25 @@
 {
+  "id": 1240,
   "tokens": [
     "spring"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "spring",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "season"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 903,
   "tokens": [
     "official"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "official",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "man"
-  ],
   "translations": {
     "ja": [
       {

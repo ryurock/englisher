@@ -1,18 +1,23 @@
 {
+  "id": 975,
   "tokens": [
     "police"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "police",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "force",
-    "law",
-    "officer"
-  ],
   "translations": {
     "ja": [
       {

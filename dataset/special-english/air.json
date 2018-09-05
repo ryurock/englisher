@@ -1,17 +1,23 @@
 {
+  "id": 33,
   "tokens": [
     "air"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "air",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "gas",
-    "wind"
-  ],
   "translations": {
     "ja": [
       {

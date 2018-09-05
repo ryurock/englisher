@@ -1,14 +1,23 @@
 {
+  "id": 219,
   "tokens": [
     "chemicals"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "chemicals",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

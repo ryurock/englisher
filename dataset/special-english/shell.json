@@ -1,16 +1,23 @@
 {
+  "id": 1173,
   "tokens": [
     "shell"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "shell",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ammunition"
-  ],
   "translations": {
     "ja": [
       {

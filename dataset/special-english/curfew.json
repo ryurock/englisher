@@ -1,17 +1,23 @@
 {
+  "id": 317,
   "tokens": [
     "curfew"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "curfew",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sign",
-    "signal"
-  ],
   "translations": {
     "ja": [
       {

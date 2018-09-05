@@ -1,16 +1,22 @@
 {
+  "id": 512,
   "tokens": [
     "final"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "final",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "last"
-  ],
   "translations": {
     "ja": [
       {

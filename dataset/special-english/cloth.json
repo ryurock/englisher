@@ -1,18 +1,23 @@
 {
+  "id": 240,
   "tokens": [
     "cloth"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cloth",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hair",
-    "cotton",
-    "material"
-  ],
   "translations": {
     "ja": [
       {

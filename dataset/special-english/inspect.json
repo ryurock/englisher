@@ -1,18 +1,23 @@
 {
+  "id": 686,
   "tokens": [
     "inspect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "inspect",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "case",
-    "see",
-    "examine"
-  ],
   "translations": {
     "ja": [
       {

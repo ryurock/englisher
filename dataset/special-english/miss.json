@@ -1,16 +1,25 @@
 {
+  "id": 831,
   "tokens": [
     "miss"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "miss",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "lose"
-  ],
   "translations": {
     "ja": [
       {

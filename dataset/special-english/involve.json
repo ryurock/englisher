@@ -1,18 +1,25 @@
 {
+  "id": 703,
   "tokens": [
     "involve"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "involve",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "touch",
-    "affect",
-    "concern"
-  ],
   "translations": {
     "ja": [
       {

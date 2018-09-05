@@ -1,14 +1,23 @@
 {
+  "id": 425,
   "tokens": [
     "electricity"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "electricity",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

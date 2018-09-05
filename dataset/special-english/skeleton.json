@@ -1,17 +1,23 @@
 {
+  "id": 1202,
   "tokens": [
     "skeleton"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "skeleton",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "building",
-    "ship"
-  ],
   "translations": {
     "ja": [
       {

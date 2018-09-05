@@ -1,14 +1,22 @@
 {
+  "id": 127,
   "tokens": [
     "below"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "below",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

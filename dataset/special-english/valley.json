@@ -1,16 +1,23 @@
 {
+  "id": 1414,
   "tokens": [
     "valley"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "valley",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "depression"
-  ],
   "translations": {
     "ja": [
       {

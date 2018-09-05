@@ -1,17 +1,23 @@
 {
+  "id": 494,
   "tokens": [
     "farm"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "farm",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "work",
-    "spread"
-  ],
   "translations": {
     "ja": [
       {

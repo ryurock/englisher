@@ -1,25 +1,25 @@
 {
+  "id": 285,
   "tokens": [
     "control"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "control",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "deal",
-    "point",
-    "direct",
-    "head",
-    "govern",
-    "hold",
-    "care",
-    "rule",
-    "guide",
-    "command"
-  ],
   "translations": {
     "ja": [
       {

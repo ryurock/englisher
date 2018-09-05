@@ -1,17 +1,23 @@
 {
+  "id": 848,
   "tokens": [
     "motion"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "motion",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sign",
-    "wave"
-  ],
   "translations": {
     "ja": [
       {

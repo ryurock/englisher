@@ -1,19 +1,22 @@
 {
+  "id": 124,
   "tokens": [
     "behind"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "behind",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "body",
-    "seat",
-    "bottom",
-    "can"
-  ],
   "translations": {
     "ja": [
       {

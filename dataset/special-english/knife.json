@@ -1,16 +1,23 @@
 {
+  "id": 725,
   "tokens": [
     "knife"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "knife",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "k",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "point"
-  ],
   "translations": {
     "ja": [
       {

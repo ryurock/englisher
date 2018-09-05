@@ -1,16 +1,23 @@
 {
+  "id": 718,
   "tokens": [
     "justice"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "justice",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "j",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "right"
-  ],
   "translations": {
     "ja": [
       {

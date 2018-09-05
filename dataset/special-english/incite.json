@@ -1,18 +1,25 @@
 {
+  "id": 670,
   "tokens": [
     "incite"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "incite",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "raise",
-    "move",
-    "act"
-  ],
   "translations": {
     "ja": [
       {

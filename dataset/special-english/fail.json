@@ -1,16 +1,25 @@
 {
+  "id": 486,
   "tokens": [
     "fail"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fail",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "miss"
-  ],
   "translations": {
     "ja": [
       {

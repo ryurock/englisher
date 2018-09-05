@@ -1,16 +1,23 @@
 {
+  "id": 1382,
   "tokens": [
     "treatment"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "treatment",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "direction"
-  ],
   "translations": {
     "ja": [
       {

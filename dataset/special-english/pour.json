@@ -1,21 +1,25 @@
 {
+  "id": 987,
   "tokens": [
     "pour"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pour",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "feed",
-    "drop",
-    "spill",
-    "move",
-    "flow",
-    "run"
-  ],
   "translations": {
     "ja": [
       {

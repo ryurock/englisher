@@ -1,20 +1,25 @@
 {
+  "id": 526,
   "tokens": [
     "flee"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "flee",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "escape",
-    "run",
-    "break",
-    "desert",
-    "fly"
-  ],
   "translations": {
     "ja": [
       {

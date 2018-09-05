@@ -1,18 +1,23 @@
 {
+  "id": 1214,
   "tokens": [
     "smooth"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "smooth",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "even",
-    "fine",
-    "fast"
-  ],
   "translations": {
     "ja": [
       {

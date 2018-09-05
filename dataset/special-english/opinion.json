@@ -1,18 +1,23 @@
 {
+  "id": 912,
   "tokens": [
     "opinion"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "opinion",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "mind",
-    "idea",
-    "politics"
-  ],
   "translations": {
     "ja": [
       {

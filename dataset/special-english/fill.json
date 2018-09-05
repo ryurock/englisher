@@ -1,21 +1,25 @@
 {
+  "id": 510,
   "tokens": [
     "fill"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fill",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "load",
-    "flood",
-    "charge",
-    "complete",
-    "line",
-    "change"
-  ],
   "translations": {
     "ja": [
       {

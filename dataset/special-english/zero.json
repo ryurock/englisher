@@ -1,14 +1,24 @@
 {
+  "id": 1510,
   "tokens": [
     "zero"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "zero",
+      "postTags": [
+        "Cardinal",
+        "Value",
+        "TextValue"
+      ],
+      "bestPosTag": "Value"
+    }
+  ],
+  "sort": "z",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

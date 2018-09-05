@@ -1,14 +1,23 @@
 {
+  "id": 991,
   "tokens": [
     "pray"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pray",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

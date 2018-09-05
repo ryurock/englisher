@@ -1,16 +1,22 @@
 {
+  "id": 1368,
   "tokens": [
     "toward"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "toward",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "up"
-  ],
   "translations": {
     "ja": [
       {

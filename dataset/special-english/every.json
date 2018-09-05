@@ -1,16 +1,22 @@
 {
+  "id": 453,
   "tokens": [
     "every"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "every",
+      "postTags": [
+        "Determiner"
+      ],
+      "bestPosTag": "Determiner"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "all"
-  ],
   "translations": {
     "ja": [
       {

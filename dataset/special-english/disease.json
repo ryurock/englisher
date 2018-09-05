@@ -1,17 +1,23 @@
 {
+  "id": 381,
   "tokens": [
     "disease"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "disease",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sign",
-    "sickness"
-  ],
   "translations": {
     "ja": [
       {

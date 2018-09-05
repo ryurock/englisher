@@ -1,18 +1,23 @@
 {
+  "id": 1338,
   "tokens": [
     "theater"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "theater",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "house",
-    "circle",
-    "building"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 850,
   "tokens": [
     "mourn"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mourn",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "volcano"
-  ],
   "translations": {
     "ja": [
       {

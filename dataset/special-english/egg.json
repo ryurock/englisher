@@ -1,14 +1,23 @@
 {
+  "id": 422,
   "tokens": [
     "egg"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "egg",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

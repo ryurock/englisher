@@ -1,16 +1,23 @@
 {
+  "id": 418,
   "tokens": [
     "edge"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "edge",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "border"
-  ],
   "translations": {
     "ja": [
       {

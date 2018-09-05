@@ -1,23 +1,23 @@
 {
+  "id": 589,
   "tokens": [
     "ground"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ground",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "g",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "world",
-    "earth",
-    "floor",
-    "field",
-    "forest",
-    "object",
-    "land",
-    "island"
-  ],
   "translations": {
     "ja": [
       {

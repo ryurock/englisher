@@ -1,17 +1,25 @@
 {
+  "id": 1053,
   "tokens": [
     "reason"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "reason",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "why",
-    "ground"
-  ],
   "translations": {
     "ja": [
       {

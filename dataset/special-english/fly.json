@@ -1,17 +1,23 @@
 {
+  "id": 533,
   "tokens": [
     "fly"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fly",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "substance",
-    "liquid"
-  ],
   "translations": {
     "ja": [
       {

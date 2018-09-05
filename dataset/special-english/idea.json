@@ -1,19 +1,23 @@
 {
+  "id": 657,
   "tokens": [
     "idea"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "idea",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "program",
-    "plan",
-    "substance",
-    "opinion"
-  ],
   "translations": {
     "ja": [
       {

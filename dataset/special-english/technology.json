@@ -1,16 +1,22 @@
 {
+  "id": 1320,
   "tokens": [
     "technology"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "technology",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "profession"
-  ],
   "translations": {
     "ja": [
       {

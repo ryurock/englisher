@@ -1,21 +1,25 @@
 {
+  "id": 69,
   "tokens": [
     "approve"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "approve",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "confirm",
-    "clear",
-    "back",
-    "pass",
-    "visa",
-    "support"
-  ],
   "translations": {
     "ja": [
       {

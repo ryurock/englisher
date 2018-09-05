@@ -1,14 +1,23 @@
 {
+  "id": 1127,
   "tokens": [
     "safe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "safe",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

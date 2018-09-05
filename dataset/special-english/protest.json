@@ -1,16 +1,25 @@
 {
+  "id": 1018,
   "tokens": [
     "protest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "protest",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "kick"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,25 @@
 {
+  "id": 544,
   "tokens": [
     "forgive"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "forgive",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "free",
-    "pardon",
-    "excuse"
-  ],
   "translations": {
     "ja": [
       {

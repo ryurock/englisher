@@ -1,19 +1,22 @@
 {
+  "id": 942,
   "tokens": [
     "past"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "past",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "yesterday",
-    "old",
-    "time",
-    "history"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 606,
   "tokens": [
     "harvest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "harvest",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cut",
-    "gather",
-    "collect"
-  ],
   "translations": {
     "ja": [
       {

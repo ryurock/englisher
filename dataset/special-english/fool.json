@@ -1,16 +1,23 @@
 {
+  "id": 537,
   "tokens": [
     "fool"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fool",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "simple"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,25 @@
 {
+  "id": 769,
   "tokens": [
     "loan"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "loan",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "point",
-    "debt"
-  ],
   "translations": {
     "ja": [
       {

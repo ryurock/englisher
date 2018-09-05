@@ -1,19 +1,25 @@
 {
+  "id": 207,
   "tokens": [
     "celebrate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "celebrate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "mark",
-    "observe",
-    "mourn",
-    "keep"
-  ],
   "translations": {
     "ja": [
       {

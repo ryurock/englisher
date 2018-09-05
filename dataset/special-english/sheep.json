@@ -1,14 +1,23 @@
 {
+  "id": 1172,
   "tokens": [
     "sheep"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sheep",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

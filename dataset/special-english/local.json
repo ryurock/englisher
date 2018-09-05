@@ -1,14 +1,22 @@
 {
+  "id": 770,
   "tokens": [
     "local"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "local",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

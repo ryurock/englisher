@@ -1,16 +1,23 @@
 {
+  "id": 250,
   "tokens": [
     "college"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "college",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "body"
-  ],
   "translations": {
     "ja": [
       {

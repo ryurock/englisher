@@ -1,16 +1,25 @@
 {
+  "id": 1211,
   "tokens": [
     "smash"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "smash",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hit"
-  ],
   "translations": {
     "ja": [
       {

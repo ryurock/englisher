@@ -1,19 +1,25 @@
 {
+  "id": 1268,
   "tokens": [
     "strike"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "strike",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "down",
-    "touch",
-    "hit",
-    "beat"
-  ],
   "translations": {
     "ja": [
       {

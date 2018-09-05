@@ -1,16 +1,23 @@
 {
+  "id": 943,
   "tokens": [
     "path"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "path",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "way"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 1283,
   "tokens": [
     "sugar"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sugar",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

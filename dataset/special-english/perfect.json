@@ -1,21 +1,22 @@
 {
+  "id": 949,
   "tokens": [
     "perfect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "perfect",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "down",
-    "cold",
-    "complete",
-    "exact",
-    "clear",
-    "clean"
-  ],
   "translations": {
     "ja": [
       {

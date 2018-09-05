@@ -1,14 +1,23 @@
 {
+  "id": 922,
   "tokens": [
     "oust"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "oust",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,22 @@
 {
+  "id": 11,
   "tokens": [
     "activist"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "activist",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,23 @@
 {
+  "id": 188,
   "tokens": [
     "camera"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "camera",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "stop",
-    "magazine"
-  ],
   "translations": {
     "ja": [
       {

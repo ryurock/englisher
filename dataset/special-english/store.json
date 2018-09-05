@@ -1,14 +1,25 @@
 {
+  "id": 1260,
   "tokens": [
     "store"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "store",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

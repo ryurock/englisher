@@ -1,18 +1,23 @@
 {
+  "id": 1436,
   "tokens": [
     "wall"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wall",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "door",
-    "building",
-    "room"
-  ],
   "translations": {
     "ja": [
       {

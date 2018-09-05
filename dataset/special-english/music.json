@@ -1,18 +1,23 @@
 {
+  "id": 856,
   "tokens": [
     "music"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "music",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "line",
-    "air",
-    "piece"
-  ],
   "translations": {
     "ja": [
       {

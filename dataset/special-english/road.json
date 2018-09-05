@@ -1,19 +1,23 @@
 {
+  "id": 1108,
   "tokens": [
     "road"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "road",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "way",
-    "circle",
-    "line",
-    "drive"
-  ],
   "translations": {
     "ja": [
       {

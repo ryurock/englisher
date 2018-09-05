@@ -1,31 +1,25 @@
 {
+  "id": 91,
   "tokens": [
     "attempt"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "attempt",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "share",
-    "pass",
-    "go",
-    "best",
-    "offer",
-    "test",
-    "play",
-    "run",
-    "part",
-    "stab",
-    "struggle",
-    "effort",
-    "seeking",
-    "try",
-    "trial",
-    "battle"
-  ],
   "translations": {
     "ja": [
       {

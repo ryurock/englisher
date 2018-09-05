@@ -1,18 +1,23 @@
 {
+  "id": 891,
   "tokens": [
     "number"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "number",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "minority",
-    "majority",
-    "amount"
-  ],
   "translations": {
     "ja": [
       {

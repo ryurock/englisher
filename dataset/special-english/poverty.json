@@ -1,17 +1,23 @@
 {
+  "id": 988,
   "tokens": [
     "poverty"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "poverty",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "want",
-    "need"
-  ],
   "translations": {
     "ja": [
       {

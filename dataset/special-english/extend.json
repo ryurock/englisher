@@ -1,18 +1,25 @@
 {
+  "id": 478,
   "tokens": [
     "extend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "extend",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "stretch",
-    "increase",
-    "expand"
-  ],
   "translations": {
     "ja": [
       {

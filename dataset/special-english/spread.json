@@ -1,17 +1,25 @@
 {
+  "id": 1239,
   "tokens": [
     "spread"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "spread",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "deploy",
-    "export"
-  ],
   "translations": {
     "ja": [
       {

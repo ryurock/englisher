@@ -1,14 +1,23 @@
 {
+  "id": 938,
   "tokens": [
     "party"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "party",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

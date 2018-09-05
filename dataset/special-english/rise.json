@@ -1,22 +1,25 @@
 {
+  "id": 1105,
   "tokens": [
     "rise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rocket",
-    "move",
-    "go",
-    "travel",
-    "lift",
-    "climb",
-    "steam"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,20 +1,23 @@
 {
+  "id": 1010,
   "tokens": [
     "program"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "program",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "idea",
-    "design",
-    "project",
-    "plan",
-    "budget"
-  ],
   "translations": {
     "ja": [
       {

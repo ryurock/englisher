@@ -1,17 +1,23 @@
 {
+  "id": 34,
   "tokens": [
     "airplane"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "airplane",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "gas",
-    "gun"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 50,
   "tokens": [
     "ammunition"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ammunition",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shell",
-    "arms",
-    "round"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,23 @@
 {
+  "id": 306,
   "tokens": [
     "crime"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "crime",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "attack",
-    "attempt",
-    "treason",
-    "hijack"
-  ],
   "translations": {
     "ja": [
       {

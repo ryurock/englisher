@@ -1,16 +1,22 @@
 {
+  "id": 560,
   "tokens": [
     "funeral"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "funeral",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ceremony"
-  ],
   "translations": {
     "ja": [
       {

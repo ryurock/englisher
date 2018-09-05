@@ -1,14 +1,22 @@
 {
+  "id": 445,
   "tokens": [
     "especially"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "especially",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

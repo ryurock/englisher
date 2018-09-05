@@ -1,14 +1,25 @@
 {
+  "id": 461,
   "tokens": [
     "exchange"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "exchange",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

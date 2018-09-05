@@ -1,18 +1,23 @@
 {
+  "id": 688,
   "tokens": [
     "instrument"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "instrument",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "device",
-    "engine",
-    "weapon"
-  ],
   "translations": {
     "ja": [
       {

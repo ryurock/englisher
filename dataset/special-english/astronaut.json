@@ -1,14 +1,23 @@
 {
+  "id": 84,
   "tokens": [
     "astronaut"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "astronaut",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

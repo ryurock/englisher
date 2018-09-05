@@ -1,19 +1,23 @@
 {
+  "id": 200,
   "tokens": [
     "careful"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "careful",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sure",
-    "close",
-    "minute",
-    "narrow"
-  ],
   "translations": {
     "ja": [
       {

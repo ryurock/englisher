@@ -1,16 +1,23 @@
 {
+  "id": 1285,
   "tokens": [
     "suicide"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "suicide",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "kill"
-  ],
   "translations": {
     "ja": [
       {

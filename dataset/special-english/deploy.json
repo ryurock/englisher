@@ -1,17 +1,23 @@
 {
+  "id": 353,
   "tokens": [
     "deploy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "deploy",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "position",
-    "play"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,22 @@
 {
+  "id": 1054,
   "tokens": [
     "reasonable"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "reasonable",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fair",
-    "just",
-    "sound",
-    "intelligent"
-  ],
   "translations": {
     "ja": [
       {

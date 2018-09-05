@@ -1,18 +1,25 @@
 {
+  "id": 173,
   "tokens": [
     "build"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "build",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "raise",
-    "create",
-    "make"
-  ],
   "translations": {
     "ja": [
       {

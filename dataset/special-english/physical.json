@@ -1,64 +1,22 @@
 {
+  "id": 956,
   "tokens": [
     "physical"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "physical",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "terror",
-    "suspect",
-    "male",
-    "sort",
-    "adult",
-    "baby",
-    "native",
-    "machine",
-    "creature",
-    "ethnic",
-    "man",
-    "have",
-    "witness",
-    "cause",
-    "engineer",
-    "ancient",
-    "friend",
-    "double",
-    "modern",
-    "self",
-    "best",
-    "neutral",
-    "face",
-    "hope",
-    "individual",
-    "sport",
-    "subject",
-    "expert",
-    "equal",
-    "simple",
-    "life",
-    "neighbor",
-    "child",
-    "case",
-    "straight",
-    "dissident",
-    "party",
-    "slave",
-    "partner",
-    "shape",
-    "victim",
-    "candidate",
-    "innocent",
-    "people",
-    "female",
-    "form",
-    "actor",
-    "build",
-    "jewel"
-  ],
   "translations": {
     "ja": [
       {

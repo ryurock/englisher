@@ -1,16 +1,25 @@
 {
+  "id": 1235,
   "tokens": [
     "spill"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "spill",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move"
-  ],
   "translations": {
     "ja": [
       {

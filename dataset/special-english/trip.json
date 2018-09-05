@@ -1,16 +1,23 @@
 {
+  "id": 1388,
   "tokens": [
     "trip"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "trip",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "run"
-  ],
   "translations": {
     "ja": [
       {

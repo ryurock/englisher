@@ -1,17 +1,22 @@
 {
+  "id": 7,
   "tokens": [
     "accident"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "accident",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "crash",
-    "wreck"
-  ],
   "translations": {
     "ja": [
       {

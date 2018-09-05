@@ -1,14 +1,23 @@
 {
+  "id": 376,
   "tokens": [
     "disarm"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "disarm",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,22 @@
 {
+  "id": 1471,
   "tokens": [
     "why"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "why",
+      "postTags": [
+        "QuestionWord"
+      ],
+      "bestPosTag": "QuestionWord"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "reason",
-    "ground"
-  ],
   "translations": {
     "ja": [
       {

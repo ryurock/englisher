@@ -1,17 +1,23 @@
 {
+  "id": 308,
   "tokens": [
     "crisis"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "crisis",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "situation",
-    "depression"
-  ],
   "translations": {
     "ja": [
       {

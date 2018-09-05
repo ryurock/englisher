@@ -1,16 +1,24 @@
 {
+  "id": 1428,
   "tokens": [
     "visit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "visit",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "passport"
-  ],
   "translations": {
     "ja": [
       {

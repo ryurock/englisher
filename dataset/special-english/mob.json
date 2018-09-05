@@ -1,16 +1,23 @@
 {
+  "id": 836,
   "tokens": [
     "mob"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mob",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "crowd"
-  ],
   "translations": {
     "ja": [
       {

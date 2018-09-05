@@ -1,18 +1,25 @@
 {
+  "id": 239,
   "tokens": [
     "close"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "close",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "next",
-    "immediate",
-    "distance"
-  ],
   "translations": {
     "ja": [
       {

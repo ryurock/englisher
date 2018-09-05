@@ -1,14 +1,22 @@
 {
+  "id": 505,
   "tokens": [
     "fertile"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fertile",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

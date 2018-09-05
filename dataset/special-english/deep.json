@@ -1,17 +1,23 @@
 {
+  "id": 338,
   "tokens": [
     "deep"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "deep",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "heavy",
-    "sound"
-  ],
   "translations": {
     "ja": [
       {

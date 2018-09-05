@@ -1,26 +1,24 @@
 {
+  "id": 953,
   "tokens": [
     "permit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "permit",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "give",
-    "pass",
-    "accept",
-    "suffer",
-    "trust",
-    "support",
-    "include",
-    "stand",
-    "let",
-    "clear",
-    "admit"
-  ],
   "translations": {
     "ja": [
       {

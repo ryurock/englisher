@@ -1,18 +1,25 @@
 {
+  "id": 1066,
   "tokens": [
     "refuse"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "refuse",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "regret",
-    "react",
-    "reject"
-  ],
   "translations": {
     "ja": [
       {

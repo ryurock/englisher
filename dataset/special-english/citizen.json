@@ -1,18 +1,23 @@
 {
+  "id": 226,
   "tokens": [
     "citizen"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "citizen",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "civilian",
-    "people",
-    "subject"
-  ],
   "translations": {
     "ja": [
       {

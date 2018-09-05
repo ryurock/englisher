@@ -1,16 +1,23 @@
 {
+  "id": 1188,
   "tokens": [
     "sign"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sign",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "mark"
-  ],
   "translations": {
     "ja": [
       {

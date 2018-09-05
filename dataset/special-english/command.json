@@ -1,18 +1,25 @@
 {
+  "id": 255,
   "tokens": [
     "command"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "command",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "direction",
-    "charge",
-    "order"
-  ],
   "translations": {
     "ja": [
       {

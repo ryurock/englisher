@@ -1,18 +1,25 @@
 {
+  "id": 810,
   "tokens": [
     "melt"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "melt",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "run",
-    "bleed",
-    "try"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,22 @@
 {
+  "id": 1103,
   "tokens": [
     "right"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "right",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "claim",
-    "floor"
-  ],
   "translations": {
     "ja": [
       {

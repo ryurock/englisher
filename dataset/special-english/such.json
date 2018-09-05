@@ -1,16 +1,22 @@
 {
+  "id": 1280,
   "tokens": [
     "such"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "such",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "much"
-  ],
   "translations": {
     "ja": [
       {

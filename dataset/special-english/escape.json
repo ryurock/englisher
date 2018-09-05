@@ -1,19 +1,23 @@
 {
+  "id": 444,
   "tokens": [
     "escape"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "escape",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fly",
-    "shake",
-    "break",
-    "flee"
-  ],
   "translations": {
     "ja": [
       {

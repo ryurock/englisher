@@ -1,16 +1,23 @@
 {
+  "id": 935,
   "tokens": [
     "parliament"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "parliament",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "legislature"
-  ],
   "translations": {
     "ja": [
       {

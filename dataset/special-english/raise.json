@@ -1,16 +1,25 @@
 {
+  "id": 1043,
   "tokens": [
     "raise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "raise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "increase"
-  ],
   "translations": {
     "ja": [
       {

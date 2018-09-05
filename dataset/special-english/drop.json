@@ -1,18 +1,25 @@
 {
+  "id": 400,
   "tokens": [
     "drop"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "drop",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "hang",
-    "sink"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,24 +1,23 @@
 {
+  "id": 104,
   "tokens": [
     "bad"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bad",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hard",
-    "severe",
-    "sad",
-    "quality",
-    "rubber",
-    "poor",
-    "worse",
-    "evil",
-    "terrible"
-  ],
   "translations": {
     "ja": [
       {

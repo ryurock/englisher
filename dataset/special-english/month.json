@@ -1,18 +1,25 @@
 {
+  "id": 841,
   "tokens": [
     "month"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "month",
+      "postTags": [
+        "Duration",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "week",
-    "period",
-    "date"
-  ],
   "translations": {
     "ja": [
       {

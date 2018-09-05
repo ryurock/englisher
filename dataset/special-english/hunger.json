@@ -1,16 +1,23 @@
 {
+  "id": 650,
   "tokens": [
     "hunger"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hunger",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "drive"
-  ],
   "translations": {
     "ja": [
       {

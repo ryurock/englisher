@@ -1,14 +1,23 @@
 {
+  "id": 1307,
   "tokens": [
     "system"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "system",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

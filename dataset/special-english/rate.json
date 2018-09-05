@@ -1,17 +1,25 @@
 {
+  "id": 1046,
   "tokens": [
     "rate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "speed",
-    "flow"
-  ],
   "translations": {
     "ja": [
       {

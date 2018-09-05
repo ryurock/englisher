@@ -1,18 +1,23 @@
 {
+  "id": 157,
   "tokens": [
     "box"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "box",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "container",
-    "flat",
-    "base"
-  ],
   "translations": {
     "ja": [
       {

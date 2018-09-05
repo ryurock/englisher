@@ -1,16 +1,22 @@
 {
+  "id": 43,
   "tokens": [
     "along"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "along",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "on"
-  ],
   "translations": {
     "ja": [
       {

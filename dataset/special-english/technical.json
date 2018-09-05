@@ -1,14 +1,22 @@
 {
+  "id": 1319,
   "tokens": [
     "technical"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "technical",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

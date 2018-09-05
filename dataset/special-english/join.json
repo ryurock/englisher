@@ -1,17 +1,25 @@
 {
+  "id": 711,
   "tokens": [
     "join"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "join",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "j",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "organize",
-    "unite"
-  ],
   "translations": {
     "ja": [
       {

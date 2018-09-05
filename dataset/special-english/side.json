@@ -1,16 +1,25 @@
 {
+  "id": 1187,
   "tokens": [
     "side"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "side",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "part"
-  ],
   "translations": {
     "ja": [
       {

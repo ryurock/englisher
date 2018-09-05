@@ -1,20 +1,23 @@
 {
+  "id": 12,
   "tokens": [
     "actor"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "actor",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "heavy",
-    "star",
-    "extra",
-    "plant",
-    "lead"
-  ],
   "translations": {
     "ja": [
       {

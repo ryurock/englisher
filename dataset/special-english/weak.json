@@ -1,16 +1,23 @@
 {
+  "id": 1448,
   "tokens": [
     "weak"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "weak",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sick"
-  ],
   "translations": {
     "ja": [
       {

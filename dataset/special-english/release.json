@@ -1,16 +1,25 @@
 {
+  "id": 1071,
   "tokens": [
     "release"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "release",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "withdraw"
-  ],
   "translations": {
     "ja": [
       {

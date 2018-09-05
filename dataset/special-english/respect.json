@@ -1,17 +1,23 @@
 {
+  "id": 1090,
   "tokens": [
     "respect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "respect",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "point",
-    "detail"
-  ],
   "translations": {
     "ja": [
       {

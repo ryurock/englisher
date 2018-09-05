@@ -1,18 +1,22 @@
 {
+  "id": 934,
   "tokens": [
     "parent"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "parent",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "family",
-    "father",
-    "mother"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 1231,
   "tokens": [
     "special"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "special",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

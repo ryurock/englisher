@@ -1,17 +1,25 @@
 {
+  "id": 382,
   "tokens": [
     "dismiss"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dismiss",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ignore",
-    "reject"
-  ],
   "translations": {
     "ja": [
       {

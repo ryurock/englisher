@@ -1,14 +1,25 @@
 {
+  "id": 1155,
   "tokens": [
     "sense"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sense",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

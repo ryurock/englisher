@@ -1,26 +1,23 @@
 {
+  "id": 1279,
   "tokens": [
     "succeed"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "succeed",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "win",
-    "pass",
-    "run",
-    "hit",
-    "reach",
-    "attempt",
-    "work",
-    "try",
-    "act",
-    "arrive",
-    "clear"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 858,
   "tokens": [
     "mystery"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mystery",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "secret"
-  ],
   "translations": {
     "ja": [
       {

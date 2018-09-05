@@ -1,17 +1,23 @@
 {
+  "id": 558,
   "tokens": [
     "full"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "full",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "heavy",
-    "pregnant"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,25 @@
 {
+  "id": 177,
   "tokens": [
     "burst"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "burst",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "blow",
-    "separate",
-    "break",
-    "split"
-  ],
   "translations": {
     "ja": [
       {

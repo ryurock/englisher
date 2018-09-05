@@ -1,24 +1,23 @@
 {
+  "id": 1032,
   "tokens": [
     "quality"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "quality",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "q",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "atmosphere",
-    "ease",
-    "worth",
-    "bad",
-    "nature",
-    "power",
-    "air",
-    "good",
-    "humor"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,25 @@
 {
+  "id": 192,
   "tokens": [
     "cancel"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cancel",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

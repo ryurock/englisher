@@ -1,18 +1,25 @@
 {
+  "id": 464,
   "tokens": [
     "exercise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "exercise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "set",
-    "stretch",
-    "effort"
-  ],
   "translations": {
     "ja": [
       {

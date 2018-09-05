@@ -1,16 +1,23 @@
 {
+  "id": 771,
   "tokens": [
     "lonely"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "lonely",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "alone"
-  ],
   "translations": {
     "ja": [
       {

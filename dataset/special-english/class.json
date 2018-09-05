@@ -1,17 +1,23 @@
 {
+  "id": 232,
   "tokens": [
     "class"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "class",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "family",
-    "sex"
-  ],
   "translations": {
     "ja": [
       {

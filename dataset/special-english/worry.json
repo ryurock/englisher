@@ -1,16 +1,25 @@
 {
+  "id": 1495,
   "tokens": [
     "worry"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "worry",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fear"
-  ],
   "translations": {
     "ja": [
       {

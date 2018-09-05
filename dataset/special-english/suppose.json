@@ -1,16 +1,25 @@
 {
+  "id": 1291,
   "tokens": [
     "suppose"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "suppose",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "say"
-  ],
   "translations": {
     "ja": [
       {

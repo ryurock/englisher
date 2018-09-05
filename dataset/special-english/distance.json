@@ -1,23 +1,23 @@
 {
+  "id": 385,
   "tokens": [
     "distance"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "distance",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "close",
-    "way",
-    "far",
-    "minute",
-    "hour",
-    "remove",
-    "near",
-    "piece"
-  ],
   "translations": {
     "ja": [
       {

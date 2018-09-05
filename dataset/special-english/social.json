@@ -1,14 +1,23 @@
 {
+  "id": 1217,
   "tokens": [
     "social"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "social",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

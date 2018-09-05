@@ -1,19 +1,25 @@
 {
+  "id": 358,
   "tokens": [
     "desire"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "desire",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "want",
-    "urge",
-    "wish",
-    "dream"
-  ],
   "translations": {
     "ja": [
       {

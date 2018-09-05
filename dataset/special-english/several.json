@@ -1,19 +1,22 @@
 {
+  "id": 1164,
   "tokens": [
     "several"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "several",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "set",
-    "place",
-    "put",
-    "position"
-  ],
   "translations": {
     "ja": [
       {

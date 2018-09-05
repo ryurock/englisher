@@ -1,18 +1,23 @@
 {
+  "id": 475,
   "tokens": [
     "explore"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "explore",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "search",
-    "research",
-    "investigate"
-  ],
   "translations": {
     "ja": [
       {

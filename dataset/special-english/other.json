@@ -1,20 +1,22 @@
 {
+  "id": 920,
   "tokens": [
     "other"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "other",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "different",
-    "separate",
-    "opposite",
-    "another",
-    "new"
-  ],
   "translations": {
     "ja": [
       {

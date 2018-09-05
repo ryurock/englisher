@@ -1,14 +1,22 @@
 {
+  "id": 1003,
   "tokens": [
     "probably"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "probably",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,22 @@
 {
+  "id": 1340,
   "tokens": [
     "then"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "then",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "so"
-  ],
   "translations": {
     "ja": [
       {

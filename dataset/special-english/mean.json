@@ -1,20 +1,23 @@
 {
+  "id": 804,
   "tokens": [
     "mean"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mean",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "get",
-    "represent",
-    "drive",
-    "aim",
-    "import"
-  ],
   "translations": {
     "ja": [
       {

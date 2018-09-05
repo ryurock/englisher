@@ -1,24 +1,25 @@
 {
+  "id": 415,
   "tokens": [
     "eat"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "eat",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "feed",
-    "pig",
-    "down",
-    "have",
-    "fill",
-    "take",
-    "finish",
-    "swallow",
-    "piece"
-  ],
   "translations": {
     "ja": [
       {

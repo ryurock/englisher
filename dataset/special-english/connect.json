@@ -1,21 +1,23 @@
 {
+  "id": 276,
   "tokens": [
     "connect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "connect",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bridge",
-    "join",
-    "attach",
-    "link",
-    "tie",
-    "ground"
-  ],
   "translations": {
     "ja": [
       {

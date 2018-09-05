@@ -1,14 +1,25 @@
 {
+  "id": 1272,
   "tokens": [
     "study"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "study",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

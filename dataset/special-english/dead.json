@@ -1,18 +1,23 @@
 {
+  "id": 330,
   "tokens": [
     "dead"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dead",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cold",
-    "late",
-    "life"
-  ],
   "translations": {
     "ja": [
       {

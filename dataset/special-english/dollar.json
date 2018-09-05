@@ -1,14 +1,23 @@
 {
+  "id": 392,
   "tokens": [
     "dollar"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dollar",
+      "postTags": [
+        "Currency",
+        "Adjective"
+      ],
+      "bestPosTag": "Currency"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

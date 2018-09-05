@@ -1,34 +1,23 @@
 {
+  "id": 1270,
   "tokens": [
     "structure"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "structure",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "foot",
-    "level",
-    "sail",
-    "hill",
-    "body",
-    "story",
-    "base",
-    "area",
-    "building",
-    "door",
-    "sign",
-    "balance",
-    "guide",
-    "bridge",
-    "memorial",
-    "floor",
-    "cross",
-    "complex",
-    "shelter"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 1449,
   "tokens": [
     "wealth"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wealth",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

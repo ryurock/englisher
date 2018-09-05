@@ -1,14 +1,23 @@
 {
+  "id": 1511,
   "tokens": [
     "zoo"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "zoo",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "z",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

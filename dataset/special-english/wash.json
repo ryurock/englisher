@@ -1,17 +1,25 @@
 {
+  "id": 1441,
   "tokens": [
     "wash"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wash",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "process",
-    "serve"
-  ],
   "translations": {
     "ja": [
       {

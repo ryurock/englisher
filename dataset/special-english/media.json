@@ -1,17 +1,23 @@
 {
+  "id": 807,
   "tokens": [
     "media"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "media",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "average",
-    "moderate"
-  ],
   "translations": {
     "ja": [
       {

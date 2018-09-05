@@ -1,21 +1,25 @@
 {
+  "id": 432,
   "tokens": [
     "end"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "end",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "go",
-    "close",
-    "disappear",
-    "finish",
-    "stop",
-    "break"
-  ],
   "translations": {
     "ja": [
       {

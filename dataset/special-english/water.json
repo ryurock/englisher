@@ -1,18 +1,23 @@
 {
+  "id": 1444,
   "tokens": [
     "water"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "water",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ice",
-    "liquid",
-    "tear"
-  ],
   "translations": {
     "ja": [
       {

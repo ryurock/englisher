@@ -1,17 +1,25 @@
 {
+  "id": 1354,
   "tokens": [
     "tie"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tie",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fix",
-    "rope"
-  ],
   "translations": {
     "ja": [
       {

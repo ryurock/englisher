@@ -1,17 +1,25 @@
 {
+  "id": 129,
   "tokens": [
     "betray"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "betray",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "discover",
-    "break"
-  ],
   "translations": {
     "ja": [
       {

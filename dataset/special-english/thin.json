@@ -1,19 +1,23 @@
 {
+  "id": 1346,
   "tokens": [
     "thin"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "thin",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fine",
-    "flat",
-    "light",
-    "narrow"
-  ],
   "translations": {
     "ja": [
       {

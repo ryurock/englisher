@@ -1,14 +1,23 @@
 {
+  "id": 977,
   "tokens": [
     "politics"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "politics",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

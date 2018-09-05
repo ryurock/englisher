@@ -1,17 +1,22 @@
 {
+  "id": 717,
   "tokens": [
     "just"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "just",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "j",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "but",
-    "only"
-  ],
   "translations": {
     "ja": [
       {

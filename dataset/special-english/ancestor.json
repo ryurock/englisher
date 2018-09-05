@@ -1,17 +1,23 @@
 {
+  "id": 55,
   "tokens": [
     "ancestor"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ancestor",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "father",
-    "root"
-  ],
   "translations": {
     "ja": [
       {

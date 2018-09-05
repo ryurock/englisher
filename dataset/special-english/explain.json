@@ -1,17 +1,25 @@
 {
+  "id": 473,
   "tokens": [
     "explain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "explain",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "comment",
-    "inform"
-  ],
   "translations": {
     "ja": [
       {

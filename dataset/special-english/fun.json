@@ -1,14 +1,23 @@
 {
+  "id": 559,
   "tokens": [
     "fun"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fun",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

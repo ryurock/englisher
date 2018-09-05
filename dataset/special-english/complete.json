@@ -1,23 +1,22 @@
 {
+  "id": 264,
   "tokens": [
     "complete"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "complete",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "all",
-    "good",
-    "total",
-    "full",
-    "dead",
-    "sound",
-    "clean",
-    "whole"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 26,
   "tokens": [
     "aggression"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "aggression",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,25 @@
 {
+  "id": 1011,
   "tokens": [
     "progress"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "progress",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

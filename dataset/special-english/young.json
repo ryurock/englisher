@@ -1,20 +1,23 @@
 {
+  "id": 1509,
   "tokens": [
     "young"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "young",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "y",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "little",
-    "new",
-    "early",
-    "age",
-    "small"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,25 @@
 {
+  "id": 359,
   "tokens": [
     "destroy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "destroy",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "kill",
-    "end",
-    "level"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,23 +1,25 @@
 {
+  "id": 468,
   "tokens": [
     "expect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "expect",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "trust",
-    "believe",
-    "suppose",
-    "imagine",
-    "judge",
-    "wait",
-    "look",
-    "think"
-  ],
   "translations": {
     "ja": [
       {

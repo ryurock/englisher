@@ -1,14 +1,23 @@
 {
+  "id": 772,
   "tokens": [
     "long"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "long",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

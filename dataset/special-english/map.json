@@ -1,14 +1,23 @@
 {
+  "id": 791,
   "tokens": [
     "map"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "map",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

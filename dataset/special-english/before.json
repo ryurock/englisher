@@ -1,14 +1,22 @@
 {
+  "id": 121,
   "tokens": [
     "before"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "before",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

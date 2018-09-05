@@ -1,14 +1,23 @@
 {
+  "id": 1119,
   "tokens": [
     "rubber"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rubber",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

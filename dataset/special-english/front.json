@@ -1,16 +1,23 @@
 {
+  "id": 555,
   "tokens": [
     "front"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "front",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "first"
-  ],
   "translations": {
     "ja": [
       {

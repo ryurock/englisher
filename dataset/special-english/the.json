@@ -1,14 +1,22 @@
 {
+  "id": 1337,
   "tokens": [
     "the"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "the",
+      "postTags": [
+        "Determiner"
+      ],
+      "bestPosTag": "Determiner"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

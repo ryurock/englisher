@@ -1,16 +1,22 @@
 {
+  "id": 752,
   "tokens": [
     "liberal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "liberal",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "adult"
-  ],
   "translations": {
     "ja": [
       {

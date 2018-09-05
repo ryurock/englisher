@@ -1,20 +1,23 @@
 {
+  "id": 213,
   "tokens": [
     "chance"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "chance",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "throw",
-    "room",
-    "street",
-    "say",
-    "day"
-  ],
   "translations": {
     "ja": [
       {

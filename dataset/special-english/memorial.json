@@ -1,16 +1,23 @@
 {
+  "id": 812,
   "tokens": [
     "memorial"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "memorial",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "credit"
-  ],
   "translations": {
     "ja": [
       {

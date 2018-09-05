@@ -1,16 +1,23 @@
 {
+  "id": 1380,
   "tokens": [
     "treasure"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "treasure",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "crime"
-  ],
   "translations": {
     "ja": [
       {

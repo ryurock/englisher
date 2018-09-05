@@ -1,18 +1,23 @@
 {
+  "id": 641,
   "tokens": [
     "hot"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hot",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "temperature",
-    "white",
-    "warm"
-  ],
   "translations": {
     "ja": [
       {

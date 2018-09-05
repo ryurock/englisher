@@ -1,14 +1,23 @@
 {
+  "id": 1371,
   "tokens": [
     "tradition"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tradition",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

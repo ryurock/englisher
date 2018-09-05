@@ -1,16 +1,23 @@
 {
+  "id": 269,
   "tokens": [
     "condemn"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "condemn",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "denounce"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,25 @@
 {
+  "id": 1148,
   "tokens": [
     "seeking"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "seeking",
+      "postTags": [
+        "Gerund",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "attempt",
-    "try",
-    "effort"
-  ],
   "translations": {
     "ja": [
       {

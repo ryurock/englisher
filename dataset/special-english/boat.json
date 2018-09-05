@@ -1,14 +1,23 @@
 {
+  "id": 145,
   "tokens": [
     "boat"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "boat",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

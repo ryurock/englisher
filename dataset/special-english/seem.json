@@ -1,26 +1,25 @@
 {
+  "id": 1149,
   "tokens": [
     "seem"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "seem",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "feel",
-    "jump",
-    "appear",
-    "cut",
-    "make",
-    "sound",
-    "be",
-    "rise",
-    "lift",
-    "shine",
-    "look"
-  ],
   "translations": {
     "ja": [
       {

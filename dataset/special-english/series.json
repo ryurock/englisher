@@ -1,18 +1,23 @@
 {
+  "id": 1158,
   "tokens": [
     "series"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "series",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "line",
-    "order",
-    "train"
-  ],
   "translations": {
     "ja": [
       {

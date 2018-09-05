@@ -1,16 +1,23 @@
 {
+  "id": 76,
   "tokens": [
     "arrest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "arrest",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "seize"
-  ],
   "translations": {
     "ja": [
       {

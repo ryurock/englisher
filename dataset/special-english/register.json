@@ -1,14 +1,23 @@
 {
+  "id": 1067,
   "tokens": [
     "register"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "register",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

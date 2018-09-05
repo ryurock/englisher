@@ -1,20 +1,23 @@
 {
+  "id": 429,
   "tokens": [
     "emotion"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "emotion",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "love",
-    "anger",
-    "fear",
-    "hate",
-    "spirit"
-  ],
   "translations": {
     "ja": [
       {

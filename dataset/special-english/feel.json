@@ -1,24 +1,25 @@
 {
+  "id": 502,
   "tokens": [
     "feel"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "feel",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "regret",
-    "anger",
-    "suffer",
-    "congratulate",
-    "shine",
-    "burn",
-    "hold",
-    "die",
-    "experience"
-  ],
   "translations": {
     "ja": [
       {

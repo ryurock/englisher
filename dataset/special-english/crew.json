@@ -1,16 +1,23 @@
 {
+  "id": 305,
   "tokens": [
     "crew"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "crew",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "company"
-  ],
   "translations": {
     "ja": [
       {

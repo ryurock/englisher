@@ -1,20 +1,25 @@
 {
+  "id": 964,
   "tokens": [
     "plan"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "plan",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "idea",
-    "design",
-    "project",
-    "program",
-    "budget"
-  ],
   "translations": {
     "ja": [
       {

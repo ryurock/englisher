@@ -1,20 +1,22 @@
 {
+  "id": 838,
   "tokens": [
     "moderate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "moderate",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fair",
-    "average",
-    "conservative",
-    "reasonable",
-    "small"
-  ],
   "translations": {
     "ja": [
       {

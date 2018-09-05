@@ -1,14 +1,22 @@
 {
+  "id": 970,
   "tokens": [
     "plenty"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "plenty",
+      "postTags": [
+        "Determiner"
+      ],
+      "bestPosTag": "Determiner"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

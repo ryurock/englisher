@@ -1,16 +1,34 @@
 {
+  "id": 1453,
   "tokens": [
     "Web site"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "Web",
+      "postTags": [
+        "TitleCase",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    },
+    {
+      "text": "site",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "W",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "computer"
-  ],
   "translations": {
     "ja": [
       {

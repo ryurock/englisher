@@ -1,21 +1,25 @@
 {
+  "id": 409,
   "tokens": [
     "earn"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "earn",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "profit",
-    "pay",
-    "make",
-    "get",
-    "gain",
-    "clear"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,20 +1,25 @@
 {
+  "id": 1282,
   "tokens": [
     "suffer"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "suffer",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "collapse",
-    "get",
-    "receive",
-    "experience",
-    "have"
-  ],
   "translations": {
     "ja": [
       {

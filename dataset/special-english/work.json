@@ -1,24 +1,25 @@
 {
+  "id": 1493,
   "tokens": [
     "work"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "work",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "duty",
-    "wash",
-    "service",
-    "labor",
-    "attention",
-    "job",
-    "care",
-    "project",
-    "aid"
-  ],
   "translations": {
     "ja": [
       {

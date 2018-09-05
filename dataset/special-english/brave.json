@@ -1,16 +1,23 @@
 {
+  "id": 161,
   "tokens": [
     "brave"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "brave",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "game"
-  ],
   "translations": {
     "ja": [
       {

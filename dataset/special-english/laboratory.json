@@ -1,16 +1,23 @@
 {
+  "id": 729,
   "tokens": [
     "laboratory"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "laboratory",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "work"
-  ],
   "translations": {
     "ja": [
       {

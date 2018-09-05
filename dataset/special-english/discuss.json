@@ -1,18 +1,25 @@
 {
+  "id": 380,
   "tokens": [
     "discuss"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "discuss",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "deal",
-    "cover",
-    "treat"
-  ],
   "translations": {
     "ja": [
       {

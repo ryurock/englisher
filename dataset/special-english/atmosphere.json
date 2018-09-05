@@ -1,20 +1,23 @@
 {
+  "id": 88,
   "tokens": [
     "atmosphere"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "atmosphere",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "look",
-    "feel",
-    "smell",
-    "spirit",
-    "condition"
-  ],
   "translations": {
     "ja": [
       {

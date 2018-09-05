@@ -1,16 +1,23 @@
 {
+  "id": 35,
   "tokens": [
     "airport"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "airport",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "field"
-  ],
   "translations": {
     "ja": [
       {

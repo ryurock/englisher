@@ -1,14 +1,23 @@
 {
+  "id": 189,
   "tokens": [
     "camp"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "camp",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

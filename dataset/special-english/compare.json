@@ -1,17 +1,25 @@
 {
+  "id": 262,
   "tokens": [
     "compare"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "compare",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "study",
-    "examine"
-  ],
   "translations": {
     "ja": [
       {

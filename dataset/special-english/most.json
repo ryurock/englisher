@@ -1,14 +1,22 @@
 {
+  "id": 846,
   "tokens": [
     "most"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "most",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

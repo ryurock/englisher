@@ -1,32 +1,23 @@
 {
+  "id": 270,
   "tokens": [
     "condition"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "condition",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "atmosphere",
-    "dark",
-    "state",
-    "health",
-    "climate",
-    "place",
-    "repair",
-    "danger",
-    "way",
-    "demand",
-    "situation",
-    "control",
-    "need",
-    "light",
-    "silence",
-    "position",
-    "order"
-  ],
   "translations": {
     "ja": [
       {

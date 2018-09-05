@@ -1,21 +1,25 @@
 {
+  "id": 378,
   "tokens": [
     "discover"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "discover",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "catch",
-    "see",
-    "hear",
-    "learn",
-    "find",
-    "witness"
-  ],
   "translations": {
     "ja": [
       {

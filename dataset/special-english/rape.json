@@ -1,17 +1,23 @@
 {
+  "id": 1044,
   "tokens": [
     "rape"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rape",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "violate",
-    "attack"
-  ],
   "translations": {
     "ja": [
       {

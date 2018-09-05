@@ -1,18 +1,22 @@
 {
+  "id": 491,
   "tokens": [
     "famous"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "famous",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tribe",
-    "parent",
-    "child"
-  ],
   "translations": {
     "ja": [
       {

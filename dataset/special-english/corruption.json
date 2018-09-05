@@ -1,14 +1,23 @@
 {
+  "id": 293,
   "tokens": [
     "corruption"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "corruption",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

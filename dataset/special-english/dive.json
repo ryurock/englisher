@@ -1,18 +1,25 @@
 {
+  "id": 386,
   "tokens": [
     "dive"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dive",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "jump",
-    "parachute",
-    "fall"
-  ],
   "translations": {
     "ja": [
       {

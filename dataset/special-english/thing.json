@@ -1,16 +1,23 @@
 {
+  "id": 1347,
   "tokens": [
     "thing"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "thing",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "situation"
-  ],
   "translations": {
     "ja": [
       {

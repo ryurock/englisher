@@ -1,22 +1,23 @@
 {
+  "id": 1292,
   "tokens": [
     "suppress"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "suppress",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "control",
-    "still",
-    "repress",
-    "moderate",
-    "hold",
-    "contain",
-    "silence"
-  ],
   "translations": {
     "ja": [
       {

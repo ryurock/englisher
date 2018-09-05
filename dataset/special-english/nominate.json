@@ -1,16 +1,25 @@
 {
+  "id": 881,
   "tokens": [
     "nominate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "nominate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "propose"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 411,
   "tokens": [
     "earthquake"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "earthquake",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shock"
-  ],
   "translations": {
     "ja": [
       {

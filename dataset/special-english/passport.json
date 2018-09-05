@@ -1,16 +1,23 @@
 {
+  "id": 941,
   "tokens": [
     "passport"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "passport",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "pass"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,23 @@
 {
+  "id": 78,
   "tokens": [
     "art"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "art",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "treasure",
-    "dance"
-  ],
   "translations": {
     "ja": [
       {

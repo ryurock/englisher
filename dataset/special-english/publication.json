@@ -1,21 +1,23 @@
 {
+  "id": 1022,
   "tokens": [
     "publication"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "publication",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "art",
-    "spread",
-    "book",
-    "read",
-    "work",
-    "magazine"
-  ],
   "translations": {
     "ja": [
       {

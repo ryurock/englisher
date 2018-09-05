@@ -1,14 +1,23 @@
 {
+  "id": 403,
   "tokens": [
     "dry"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dry",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,25 @@
 {
+  "id": 1476,
   "tokens": [
     "willing"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "willing",
+      "postTags": [
+        "Gerund",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ready",
-    "happy"
-  ],
   "translations": {
     "ja": [
       {

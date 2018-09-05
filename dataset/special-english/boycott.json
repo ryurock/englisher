@@ -1,14 +1,23 @@
 {
+  "id": 159,
   "tokens": [
     "boycott"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "boycott",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,25 @@
 {
+  "id": 488,
   "tokens": [
     "fall"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fall",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "travel",
-    "move",
-    "go"
-  ],
   "translations": {
     "ja": [
       {

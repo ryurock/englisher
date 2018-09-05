@@ -1,14 +1,23 @@
 {
+  "id": 193,
   "tokens": [
     "cancer"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cancer",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

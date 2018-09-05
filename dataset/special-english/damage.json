@@ -1,23 +1,25 @@
 {
+  "id": 323,
   "tokens": [
     "damage"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "damage",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "total",
-    "injure",
-    "burn",
-    "hurt",
-    "break",
-    "eat",
-    "change",
-    "smash"
-  ],
   "translations": {
     "ja": [
       {

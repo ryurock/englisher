@@ -1,17 +1,25 @@
 {
+  "id": 1079,
   "tokens": [
     "report"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "report",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "inform",
-    "describe"
-  ],
   "translations": {
     "ja": [
       {

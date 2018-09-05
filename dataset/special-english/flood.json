@@ -1,16 +1,25 @@
 {
+  "id": 528,
   "tokens": [
     "flood"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "flood",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fill"
-  ],
   "translations": {
     "ja": [
       {

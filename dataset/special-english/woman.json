@@ -1,22 +1,24 @@
 {
+  "id": 1488,
   "tokens": [
     "woman"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "woman",
+      "postTags": [
+        "Person",
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "girl",
-    "beauty",
-    "female",
-    "miss",
-    "adult",
-    "cat",
-    "wife"
-  ],
   "translations": {
     "ja": [
       {

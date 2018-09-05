@@ -1,14 +1,23 @@
 {
+  "id": 1250,
   "tokens": [
     "statue"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "statue",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

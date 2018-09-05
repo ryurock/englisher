@@ -1,14 +1,22 @@
 {
+  "id": 636,
   "tokens": [
     "horrible"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "horrible",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

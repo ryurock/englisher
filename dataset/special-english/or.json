@@ -1,14 +1,22 @@
 {
+  "id": 916,
   "tokens": [
     "or"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "or",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

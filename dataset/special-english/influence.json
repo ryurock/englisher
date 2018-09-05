@@ -1,17 +1,25 @@
 {
+  "id": 678,
   "tokens": [
     "influence"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "influence",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "force",
-    "power"
-  ],
   "translations": {
     "ja": [
       {

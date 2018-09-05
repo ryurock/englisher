@@ -1,21 +1,23 @@
 {
+  "id": 580,
   "tokens": [
     "goods"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "goods",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "g",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "quality",
-    "best",
-    "better",
-    "hot",
-    "great",
-    "solid"
-  ],
   "translations": {
     "ja": [
       {

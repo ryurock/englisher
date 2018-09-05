@@ -1,18 +1,23 @@
 {
+  "id": 1389,
   "tokens": [
     "troops"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "troops",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "horse",
-    "force",
-    "hostile"
-  ],
   "translations": {
     "ja": [
       {

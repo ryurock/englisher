@@ -1,23 +1,23 @@
 {
+  "id": 1017,
   "tokens": [
     "protect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "protect",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fence",
-    "wall",
-    "guard",
-    "hold",
-    "defend",
-    "cover",
-    "surround",
-    "keep"
-  ],
   "translations": {
     "ja": [
       {

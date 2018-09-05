@@ -1,16 +1,25 @@
 {
+  "id": 281,
   "tokens": [
     "contain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "contain",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "include"
-  ],
   "translations": {
     "ja": [
       {

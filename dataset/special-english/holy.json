@@ -1,16 +1,22 @@
 {
+  "id": 631,
   "tokens": [
     "holy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "holy",
+      "postTags": [
+        "Expression"
+      ],
+      "bestPosTag": "Expression"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "place"
-  ],
   "translations": {
     "ja": [
       {

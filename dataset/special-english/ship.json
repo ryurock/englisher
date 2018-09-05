@@ -1,19 +1,23 @@
 {
+  "id": 1176,
   "tokens": [
     "ship"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ship",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "skeleton",
-    "wreck",
-    "top",
-    "hold"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 1007,
   "tokens": [
     "profession"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "profession",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bar"
-  ],
   "translations": {
     "ja": [
       {

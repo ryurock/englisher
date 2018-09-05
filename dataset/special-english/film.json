@@ -1,19 +1,23 @@
 {
+  "id": 511,
   "tokens": [
     "film"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "film",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "show",
-    "movie",
-    "picture",
-    "credit"
-  ],
   "translations": {
     "ja": [
       {

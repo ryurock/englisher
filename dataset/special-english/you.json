@@ -1,14 +1,23 @@
 {
+  "id": 1508,
   "tokens": [
     "you"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "you",
+      "postTags": [
+        "Pronoun",
+        "Noun"
+      ],
+      "bestPosTag": "Pronoun"
+    }
+  ],
+  "sort": "y",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

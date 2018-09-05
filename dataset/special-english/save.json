@@ -1,16 +1,25 @@
 {
+  "id": 1135,
   "tokens": [
     "save"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "save",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rescue"
-  ],
   "translations": {
     "ja": [
       {

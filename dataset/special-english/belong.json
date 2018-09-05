@@ -1,16 +1,25 @@
 {
+  "id": 126,
   "tokens": [
     "belong"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "belong",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "be"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,25 @@
 {
+  "id": 776,
   "tokens": [
     "love"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "love",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "treasure"
-  ],
   "translations": {
     "ja": [
       {

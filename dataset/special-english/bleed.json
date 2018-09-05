@@ -1,18 +1,25 @@
 {
+  "id": 139,
   "tokens": [
     "bleed"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bleed",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "expel",
-    "flow",
-    "release"
-  ],
   "translations": {
     "ja": [
       {

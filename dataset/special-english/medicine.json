@@ -1,14 +1,23 @@
 {
+  "id": 808,
   "tokens": [
     "medicine"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "medicine",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

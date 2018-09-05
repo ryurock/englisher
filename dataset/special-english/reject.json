@@ -1,18 +1,25 @@
 {
+  "id": 1069,
   "tokens": [
     "reject"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "reject",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "dismiss",
-    "ignore",
-    "judge"
-  ],
   "translations": {
     "ja": [
       {

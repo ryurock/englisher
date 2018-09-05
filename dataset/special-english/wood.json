@@ -1,17 +1,23 @@
 {
+  "id": 1491,
   "tokens": [
     "wood"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wood",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "deal",
-    "ash"
-  ],
   "translations": {
     "ja": [
       {

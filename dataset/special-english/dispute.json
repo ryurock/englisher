@@ -1,17 +1,25 @@
 {
+  "id": 383,
   "tokens": [
     "dispute"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dispute",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "question",
-    "call"
-  ],
   "translations": {
     "ja": [
       {

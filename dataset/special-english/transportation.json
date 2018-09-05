@@ -1,20 +1,23 @@
 {
+  "id": 1376,
   "tokens": [
     "transportation"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "transportation",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bridge",
-    "field",
-    "way",
-    "base",
-    "line"
-  ],
   "translations": {
     "ja": [
       {

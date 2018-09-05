@@ -1,16 +1,23 @@
 {
+  "id": 481,
   "tokens": [
     "extreme"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "extreme",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "intense"
-  ],
   "translations": {
     "ja": [
       {

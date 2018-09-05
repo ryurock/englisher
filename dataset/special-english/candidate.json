@@ -1,14 +1,25 @@
 {
+  "id": 194,
   "tokens": [
     "candidate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "candidate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

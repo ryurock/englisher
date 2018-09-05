@@ -1,16 +1,25 @@
 {
+  "id": 17,
   "tokens": [
     "advertise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "advertise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "announce"
-  ],
   "translations": {
     "ja": [
       {

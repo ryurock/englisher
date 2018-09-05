@@ -1,24 +1,25 @@
 {
+  "id": 868,
   "tokens": [
     "need"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "need",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "govern",
-    "claim",
-    "require",
-    "involve",
-    "cost",
-    "take",
-    "demand",
-    "ask",
-    "exact"
-  ],
   "translations": {
     "ja": [
       {

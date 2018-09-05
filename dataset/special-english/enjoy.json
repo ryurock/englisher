@@ -1,16 +1,25 @@
 {
+  "id": 438,
   "tokens": [
     "enjoy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "enjoy",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "like"
-  ],
   "translations": {
     "ja": [
       {

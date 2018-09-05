@@ -1,16 +1,23 @@
 {
+  "id": 1209,
   "tokens": [
     "slow"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "slow",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "speed"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,22 @@
 {
+  "id": 450,
   "tokens": [
     "even"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "even",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "still",
-    "yet"
-  ],
   "translations": {
     "ja": [
       {

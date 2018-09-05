@@ -1,18 +1,23 @@
 {
+  "id": 549,
   "tokens": [
     "freedom"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "freedom",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "free",
-    "play",
-    "state"
-  ],
   "translations": {
     "ja": [
       {

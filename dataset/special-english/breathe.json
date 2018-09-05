@@ -1,14 +1,23 @@
 {
+  "id": 164,
   "tokens": [
     "breathe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "breathe",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

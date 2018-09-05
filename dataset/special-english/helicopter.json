@@ -1,14 +1,23 @@
 {
+  "id": 618,
   "tokens": [
     "helicopter"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "helicopter",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

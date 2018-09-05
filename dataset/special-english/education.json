@@ -1,16 +1,23 @@
 {
+  "id": 419,
   "tokens": [
     "education"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "education",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "class"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 1137,
   "tokens": [
     "school"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "school",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

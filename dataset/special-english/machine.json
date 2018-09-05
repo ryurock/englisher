@@ -1,18 +1,23 @@
 {
+  "id": 780,
   "tokens": [
     "machine"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "machine",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "computer",
-    "press",
-    "device"
-  ],
   "translations": {
     "ja": [
       {

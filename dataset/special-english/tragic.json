@@ -1,16 +1,22 @@
 {
+  "id": 1373,
   "tokens": [
     "tragic"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tragic",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sad"
-  ],
   "translations": {
     "ja": [
       {

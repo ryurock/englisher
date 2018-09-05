@@ -1,16 +1,22 @@
 {
+  "id": 914,
   "tokens": [
     "opposite"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "opposite",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "other"
-  ],
   "translations": {
     "ja": [
       {

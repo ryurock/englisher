@@ -1,18 +1,23 @@
 {
+  "id": 73,
   "tokens": [
     "arms"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "arms",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bomb",
-    "weapon",
-    "ammunition"
-  ],
   "translations": {
     "ja": [
       {

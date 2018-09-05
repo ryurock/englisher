@@ -1,18 +1,23 @@
 {
+  "id": 361,
   "tokens": [
     "detain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "detain",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "keep",
-    "jail",
-    "trap"
-  ],
   "translations": {
     "ja": [
       {

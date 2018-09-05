@@ -1,16 +1,25 @@
 {
+  "id": 800,
   "tokens": [
     "matter"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "matter",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "science"
-  ],
   "translations": {
     "ja": [
       {

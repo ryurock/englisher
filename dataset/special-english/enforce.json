@@ -1,17 +1,25 @@
 {
+  "id": 435,
   "tokens": [
     "enforce"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "enforce",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "execute",
-    "run"
-  ],
   "translations": {
     "ja": [
       {

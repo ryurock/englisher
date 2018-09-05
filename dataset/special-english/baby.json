@@ -1,16 +1,23 @@
 {
+  "id": 102,
   "tokens": [
     "baby"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "baby",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "child"
-  ],
   "translations": {
     "ja": [
       {

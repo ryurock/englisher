@@ -1,16 +1,24 @@
 {
+  "id": 655,
   "tokens": [
     "I"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "I",
+      "postTags": [
+        "Pronoun",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "I",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "single"
-  ],
   "translations": {
     "ja": [
       {

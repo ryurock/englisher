@@ -1,25 +1,25 @@
 {
+  "id": 1120,
   "tokens": [
     "ruin"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ruin",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rape",
-    "violate",
-    "wreck",
-    "destroy",
-    "waste",
-    "get",
-    "fire",
-    "burn",
-    "break",
-    "explode"
-  ],
   "translations": {
     "ja": [
       {

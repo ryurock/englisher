@@ -1,17 +1,23 @@
 {
+  "id": 1462,
   "tokens": [
     "wheel"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wheel",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "machine",
-    "balance"
-  ],
   "translations": {
     "ja": [
       {

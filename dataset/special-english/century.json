@@ -1,16 +1,25 @@
 {
+  "id": 209,
   "tokens": [
     "century"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "century",
+      "postTags": [
+        "Duration",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "period"
-  ],
   "translations": {
     "ja": [
       {

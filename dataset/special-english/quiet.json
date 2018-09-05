@@ -1,14 +1,23 @@
 {
+  "id": 1035,
   "tokens": [
     "quiet"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "quiet",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "q",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

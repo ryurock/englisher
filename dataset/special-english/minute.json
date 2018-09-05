@@ -1,17 +1,25 @@
 {
+  "id": 830,
   "tokens": [
     "minute"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "minute",
+      "postTags": [
+        "Duration",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hour",
-    "second"
-  ],
   "translations": {
     "ja": [
       {

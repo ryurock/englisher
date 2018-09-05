@@ -1,14 +1,22 @@
 {
+  "id": 925,
   "tokens": [
     "overthrow"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "overthrow",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

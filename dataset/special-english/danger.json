@@ -1,16 +1,23 @@
 {
+  "id": 325,
   "tokens": [
     "danger"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "danger",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "condition"
-  ],
   "translations": {
     "ja": [
       {

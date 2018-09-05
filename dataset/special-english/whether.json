@@ -1,18 +1,22 @@
 {
+  "id": 1465,
   "tokens": [
     "whether"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "whether",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "atmosphere",
-    "wave",
-    "wind"
-  ],
   "translations": {
     "ja": [
       {

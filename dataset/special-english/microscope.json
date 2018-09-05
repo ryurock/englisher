@@ -1,16 +1,23 @@
 {
+  "id": 818,
   "tokens": [
     "microscope"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "microscope",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "system"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,25 @@
 {
+  "id": 833,
   "tokens": [
     "missing"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "missing",
+      "postTags": [
+        "Gerund",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 933,
   "tokens": [
     "pardon"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pardon",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "forgive"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,22 @@
 {
+  "id": 985,
   "tokens": [
     "possible"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "possible",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "have"
-  ],
   "translations": {
     "ja": [
       {

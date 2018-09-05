@@ -1,16 +1,23 @@
 {
+  "id": 974,
   "tokens": [
     "poison"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "poison",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "substance"
-  ],
   "translations": {
     "ja": [
       {

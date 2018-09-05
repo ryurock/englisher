@@ -1,17 +1,25 @@
 {
+  "id": 1167,
   "tokens": [
     "shake"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "shake",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "fan"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,23 @@
 {
+  "id": 913,
   "tokens": [
     "oppose"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "oppose",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fence",
-    "argue",
-    "debate"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,25 @@
 {
+  "id": 355,
   "tokens": [
     "describe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "describe",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "represent"
-  ],
   "translations": {
     "ja": [
       {

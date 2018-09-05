@@ -1,24 +1,23 @@
 {
+  "id": 1113,
   "tokens": [
     "room"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "room",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "wall",
-    "bar",
-    "area",
-    "building",
-    "door",
-    "can",
-    "study",
-    "court",
-    "floor"
-  ],
   "translations": {
     "ja": [
       {

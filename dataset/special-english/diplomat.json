@@ -1,18 +1,23 @@
 {
+  "id": 371,
   "tokens": [
     "diplomat"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "diplomat",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ambassador",
-    "minister",
-    "official"
-  ],
   "translations": {
     "ja": [
       {

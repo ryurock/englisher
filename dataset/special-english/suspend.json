@@ -1,16 +1,23 @@
 {
+  "id": 1301,
   "tokens": [
     "suspend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "suspend",
+      "postTags": [
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hang"
-  ],
   "translations": {
     "ja": [
       {

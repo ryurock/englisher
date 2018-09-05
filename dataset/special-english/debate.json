@@ -1,16 +1,25 @@
 {
+  "id": 333,
   "tokens": [
     "debate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "debate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "word"
-  ],
   "translations": {
     "ja": [
       {

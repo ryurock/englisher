@@ -1,19 +1,22 @@
 {
+  "id": 1385,
   "tokens": [
     "trial"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "trial",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "forest",
-    "coffee",
-    "ash",
-    "wood"
-  ],
   "translations": {
     "ja": [
       {

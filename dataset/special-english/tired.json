@@ -1,17 +1,23 @@
 {
+  "id": 1356,
   "tokens": [
     "tired"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tired",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "dead",
-    "beat"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,23 @@
 {
+  "id": 1174,
   "tokens": [
     "shelter"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "shelter",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "asylum",
-    "structure"
-  ],
   "translations": {
     "ja": [
       {

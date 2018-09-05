@@ -1,14 +1,22 @@
 {
+  "id": 1505,
   "tokens": [
     "yes"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "yes",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "y",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

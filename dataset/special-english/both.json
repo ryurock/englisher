@@ -1,16 +1,22 @@
 {
+  "id": 154,
   "tokens": [
     "both"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "both",
+      "postTags": [
+        "Determiner"
+      ],
+      "bestPosTag": "Determiner"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "some"
-  ],
   "translations": {
     "ja": [
       {

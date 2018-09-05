@@ -1,24 +1,25 @@
 {
+  "id": 205,
   "tokens": [
     "cause"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cause",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "force",
-    "move",
-    "influence",
-    "shape",
-    "make",
-    "do",
-    "effect",
-    "incite",
-    "create"
-  ],
   "translations": {
     "ja": [
       {

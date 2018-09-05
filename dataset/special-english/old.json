@@ -1,18 +1,23 @@
 {
+  "id": 906,
   "tokens": [
     "old"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "old",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ancient",
-    "gray",
-    "age"
-  ],
   "translations": {
     "ja": [
       {

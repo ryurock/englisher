@@ -1,20 +1,25 @@
 {
+  "id": 1290,
   "tokens": [
     "support"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "support",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "help",
-    "back",
-    "second",
-    "assist",
-    "aid"
-  ],
   "translations": {
     "ja": [
       {

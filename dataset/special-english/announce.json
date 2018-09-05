@@ -1,21 +1,25 @@
 {
+  "id": 61,
   "tokens": [
     "announce"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "announce",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "report",
-    "sound",
-    "cry",
-    "denounce",
-    "inform",
-    "advertise"
-  ],
   "translations": {
     "ja": [
       {

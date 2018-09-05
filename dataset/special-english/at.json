@@ -1,14 +1,22 @@
 {
+  "id": 87,
   "tokens": [
     "at"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "at",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

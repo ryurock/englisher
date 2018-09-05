@@ -1,16 +1,22 @@
 {
+  "id": 99,
   "tokens": [
     "awake"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "awake",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "up"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,23 @@
 {
+  "id": 806,
   "tokens": [
     "meat"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "meat",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cut",
-    "bird",
-    "food",
-    "game"
-  ],
   "translations": {
     "ja": [
       {

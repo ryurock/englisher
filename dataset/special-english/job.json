@@ -1,28 +1,23 @@
 {
+  "id": 710,
   "tokens": [
     "job"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "job",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "j",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "office",
-    "profession",
-    "trade",
-    "sport",
-    "business",
-    "game",
-    "situation",
-    "line",
-    "land",
-    "career",
-    "work",
-    "place",
-    "position"
-  ],
   "translations": {
     "ja": [
       {

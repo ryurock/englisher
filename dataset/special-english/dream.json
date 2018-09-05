@@ -1,14 +1,25 @@
 {
+  "id": 397,
   "tokens": [
     "dream"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dream",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

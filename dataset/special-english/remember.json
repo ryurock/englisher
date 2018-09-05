@@ -1,18 +1,25 @@
 {
+  "id": 1075,
   "tokens": [
     "remember"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "remember",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "recognize",
-    "know",
-    "think"
-  ],
   "translations": {
     "ja": [
       {

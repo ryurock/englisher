@@ -1,14 +1,23 @@
 {
+  "id": 921,
   "tokens": [
     "our"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "our",
+      "postTags": [
+        "Possessive",
+        "Noun"
+      ],
+      "bestPosTag": "Noun"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

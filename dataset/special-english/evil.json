@@ -1,20 +1,23 @@
 {
+  "id": 455,
   "tokens": [
     "evil"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "evil",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "offensive",
-    "black",
-    "dark",
-    "wrong",
-    "bad"
-  ],
   "translations": {
     "ja": [
       {

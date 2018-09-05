@@ -1,19 +1,24 @@
 {
+  "id": 788,
   "tokens": [
     "man"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "man",
+      "postTags": [
+        "Person",
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cat",
-    "boy",
-    "adult",
-    "male"
-  ],
   "translations": {
     "ja": [
       {

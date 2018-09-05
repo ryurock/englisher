@@ -1,20 +1,25 @@
 {
+  "id": 1445,
   "tokens": [
     "wave"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wave",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "roll",
-    "movement",
-    "rise",
-    "lift",
-    "motion"
-  ],
   "translations": {
     "ja": [
       {

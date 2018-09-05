@@ -1,18 +1,23 @@
 {
+  "id": 766,
   "tokens": [
     "little"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "little",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "size",
-    "minute",
-    "small"
-  ],
   "translations": {
     "ja": [
       {

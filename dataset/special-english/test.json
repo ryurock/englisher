@@ -1,21 +1,25 @@
 {
+  "id": 1333,
   "tokens": [
     "test"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "test",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "control",
-    "float",
-    "prove",
-    "try",
-    "judge",
-    "examine"
-  ],
   "translations": {
     "ja": [
       {

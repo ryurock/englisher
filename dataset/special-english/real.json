@@ -1,16 +1,23 @@
 {
+  "id": 1051,
   "tokens": [
     "real"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "real",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "realistic"
-  ],
   "translations": {
     "ja": [
       {

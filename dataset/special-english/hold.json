@@ -1,18 +1,25 @@
 {
+  "id": 628,
   "tokens": [
     "hold"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hold",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "distance",
-    "continue",
-    "keep"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 74,
   "tokens": [
     "army"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "army",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "service"
-  ],
   "translations": {
     "ja": [
       {

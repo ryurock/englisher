@@ -1,16 +1,23 @@
 {
+  "id": 1088,
   "tokens": [
     "resolution"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "resolution",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "document"
-  ],
   "translations": {
     "ja": [
       {

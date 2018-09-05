@@ -1,16 +1,25 @@
 {
+  "id": 1133,
   "tokens": [
     "satellite"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "satellite",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "equipment"
-  ],
   "translations": {
     "ja": [
       {

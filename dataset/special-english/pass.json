@@ -1,18 +1,25 @@
 {
+  "id": 939,
   "tokens": [
     "pass"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pass",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "travel",
-    "move",
-    "go"
-  ],
   "translations": {
     "ja": [
       {

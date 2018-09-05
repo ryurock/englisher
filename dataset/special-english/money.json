@@ -1,17 +1,23 @@
 {
+  "id": 840,
   "tokens": [
     "money"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "money",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sugar",
-    "bread"
-  ],
   "translations": {
     "ja": [
       {

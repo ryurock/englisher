@@ -1,14 +1,24 @@
 {
+  "id": 802,
   "tokens": [
     "mayor"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "mayor",
+      "postTags": [
+        "Honorific",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

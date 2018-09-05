@@ -1,17 +1,23 @@
 {
+  "id": 112,
   "tokens": [
     "barrier"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "barrier",
+      "postTags": [
+        "Comparative",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparative"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fence",
-    "dam"
-  ],
   "translations": {
     "ja": [
       {

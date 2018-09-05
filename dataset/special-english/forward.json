@@ -1,14 +1,23 @@
 {
+  "id": 547,
   "tokens": [
     "forward"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "forward",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

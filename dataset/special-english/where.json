@@ -1,14 +1,22 @@
 {
+  "id": 1464,
   "tokens": [
     "where"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "where",
+      "postTags": [
+        "QuestionWord"
+      ],
+      "bestPosTag": "QuestionWord"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

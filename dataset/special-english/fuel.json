@@ -1,18 +1,23 @@
 {
+  "id": 557,
   "tokens": [
     "fuel"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fuel",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fire",
-    "gas",
-    "substance"
-  ],
   "translations": {
     "ja": [
       {

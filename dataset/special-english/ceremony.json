@@ -1,17 +1,23 @@
 {
+  "id": 210,
   "tokens": [
     "ceremony"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ceremony",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "exercise",
-    "funeral"
-  ],
   "translations": {
     "ja": [
       {

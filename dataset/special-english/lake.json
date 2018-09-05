@@ -1,17 +1,23 @@
 {
+  "id": 731,
   "tokens": [
     "lake"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "lake",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "floor",
-    "water"
-  ],
   "translations": {
     "ja": [
       {

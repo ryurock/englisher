@@ -1,16 +1,33 @@
 {
+  "id": 32,
   "tokens": [
     "air force"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "air",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    },
+    {
+      "text": "force",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "service"
-  ],
   "translations": {
     "ja": [
       {

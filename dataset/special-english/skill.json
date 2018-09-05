@@ -1,16 +1,23 @@
 {
+  "id": 1203,
   "tokens": [
     "skill"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "skill",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "power"
-  ],
   "translations": {
     "ja": [
       {

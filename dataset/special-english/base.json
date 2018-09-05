@@ -1,18 +1,25 @@
 {
+  "id": 113,
   "tokens": [
     "base"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "base",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "establish",
-    "build",
-    "ground"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,22 @@
 {
+  "id": 1001,
   "tokens": [
     "private"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "private",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "close",
-    "secret"
-  ],
   "translations": {
     "ja": [
       {

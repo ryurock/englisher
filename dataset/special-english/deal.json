@@ -1,18 +1,25 @@
 {
+  "id": 332,
   "tokens": [
     "deal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "deal",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cover",
-    "treat",
-    "discuss"
-  ],
   "translations": {
     "ja": [
       {

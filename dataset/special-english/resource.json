@@ -1,17 +1,23 @@
 {
+  "id": 1089,
   "tokens": [
     "resource"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "resource",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "support",
-    "keep"
-  ],
   "translations": {
     "ja": [
       {

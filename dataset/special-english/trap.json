@@ -1,16 +1,24 @@
 {
+  "id": 1377,
   "tokens": [
     "trap"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "trap",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "device"
-  ],
   "translations": {
     "ja": [
       {

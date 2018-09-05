@@ -1,31 +1,23 @@
 {
+  "id": 893,
   "tokens": [
     "object"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "object",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "wall",
-    "soil",
-    "head",
-    "earth",
-    "property",
-    "film",
-    "ground",
-    "ice",
-    "moon",
-    "vehicle",
-    "part",
-    "catch",
-    "land",
-    "neighbor",
-    "whole",
-    "remains"
-  ],
   "translations": {
     "ja": [
       {

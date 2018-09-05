@@ -1,16 +1,25 @@
 {
+  "id": 440,
   "tokens": [
     "enter"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "enter",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "invade"
-  ],
   "translations": {
     "ja": [
       {

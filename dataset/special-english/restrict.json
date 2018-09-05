@@ -1,16 +1,25 @@
 {
+  "id": 1095,
   "tokens": [
     "restrict"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "restrict",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "limit"
-  ],
   "translations": {
     "ja": [
       {

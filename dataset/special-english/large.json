@@ -1,22 +1,23 @@
 {
+  "id": 734,
   "tokens": [
     "large"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "large",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "big",
-    "great",
-    "size",
-    "wide",
-    "double",
-    "deep",
-    "huge"
-  ],
   "translations": {
     "ja": [
       {

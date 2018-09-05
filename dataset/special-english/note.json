@@ -1,20 +1,25 @@
 {
+  "id": 886,
   "tokens": [
     "note"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "note",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "comment",
-    "say",
-    "state",
-    "observe",
-    "tell"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,18 +1,25 @@
 {
+  "id": 809,
   "tokens": [
     "meet"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "meet",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "gather",
-    "cross",
-    "see"
-  ],
   "translations": {
     "ja": [
       {

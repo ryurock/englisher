@@ -1,18 +1,22 @@
 {
+  "id": 156,
   "tokens": [
     "bottom"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bottom",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "face",
-    "base",
-    "side"
-  ],
   "translations": {
     "ja": [
       {

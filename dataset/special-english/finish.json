@@ -1,20 +1,25 @@
 {
+  "id": 516,
   "tokens": [
     "finish"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "finish",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "close",
-    "end",
-    "complete",
-    "execute",
-    "top"
-  ],
   "translations": {
     "ja": [
       {

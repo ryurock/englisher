@@ -1,16 +1,25 @@
 {
+  "id": 1454,
   "tokens": [
     "week"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "week",
+      "postTags": [
+        "Duration",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "period"
-  ],
   "translations": {
     "ja": [
       {

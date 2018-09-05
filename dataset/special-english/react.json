@@ -1,25 +1,23 @@
 {
+  "id": 1048,
   "tokens": [
     "react"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "react",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "accept",
-    "resist",
-    "wonder",
-    "treat",
-    "reject",
-    "answer",
-    "refuse",
-    "explode",
-    "act"
-  ],
   "translations": {
     "ja": [
       {

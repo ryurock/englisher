@@ -1,28 +1,24 @@
 {
+  "id": 680,
   "tokens": [
     "information"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "information",
+      "postTags": [
+        "Uncountable",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "intelligence",
-    "evidence",
-    "message",
-    "material",
-    "secret",
-    "program",
-    "ammunition",
-    "report",
-    "news",
-    "substance",
-    "word",
-    "propaganda",
-    "fact"
-  ],
   "translations": {
     "ja": [
       {

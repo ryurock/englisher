@@ -1,23 +1,25 @@
 {
+  "id": 945,
   "tokens": [
     "pay"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pay",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "repair",
-    "give",
-    "return",
-    "charge",
-    "buy",
-    "foot",
-    "drop",
-    "spend"
-  ],
   "translations": {
     "ja": [
       {

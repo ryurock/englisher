@@ -1,17 +1,22 @@
 {
+  "id": 1257,
   "tokens": [
     "still"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "still",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "however",
-    "yet"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,24 +1,23 @@
 {
+  "id": 727,
   "tokens": [
     "knowledge"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "knowledge",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "k",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "process",
-    "mind",
-    "brain",
-    "information",
-    "structure",
-    "head",
-    "power",
-    "place",
-    "history"
-  ],
   "translations": {
     "ja": [
       {

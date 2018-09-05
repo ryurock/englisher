@@ -1,17 +1,22 @@
 {
+  "id": 790,
   "tokens": [
     "many"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "many",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "some",
-    "more"
-  ],
   "translations": {
     "ja": [
       {

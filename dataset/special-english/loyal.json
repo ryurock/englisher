@@ -1,14 +1,23 @@
 {
+  "id": 778,
   "tokens": [
     "loyal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "loyal",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,25 @@
 {
+  "id": 1207,
   "tokens": [
     "sleep"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sleep",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rest"
-  ],
   "translations": {
     "ja": [
       {

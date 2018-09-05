@@ -1,19 +1,23 @@
 {
+  "id": 180,
   "tokens": [
     "business"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "business",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "house",
-    "concern",
-    "agency",
-    "firm"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,20 +1,25 @@
 {
+  "id": 1251,
   "tokens": [
     "stay"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "stay",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "be",
-    "rest",
-    "keep",
-    "remain",
-    "stand"
-  ],
   "translations": {
     "ja": [
       {

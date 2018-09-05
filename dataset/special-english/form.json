@@ -1,18 +1,25 @@
 {
+  "id": 545,
   "tokens": [
     "form"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "form",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "base",
-    "word",
-    "root"
-  ],
   "translations": {
     "ja": [
       {

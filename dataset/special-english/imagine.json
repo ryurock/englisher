@@ -1,20 +1,25 @@
 {
+  "id": 662,
   "tokens": [
     "imagine"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "imagine",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "see",
-    "picture",
-    "dream",
-    "project",
-    "think"
-  ],
   "translations": {
     "ja": [
       {

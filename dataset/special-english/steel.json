@@ -1,17 +1,23 @@
 {
+  "id": 1254,
   "tokens": [
     "steel"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "steel",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "metal",
-    "iron"
-  ],
   "translations": {
     "ja": [
       {

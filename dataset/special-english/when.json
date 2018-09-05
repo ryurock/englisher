@@ -1,16 +1,22 @@
 {
+  "id": 1463,
   "tokens": [
     "when"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "when",
+      "postTags": [
+        "QuestionWord"
+      ],
+      "bestPosTag": "QuestionWord"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "so"
-  ],
   "translations": {
     "ja": [
       {

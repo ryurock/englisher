@@ -1,27 +1,22 @@
 {
+  "id": 46,
   "tokens": [
     "although"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "although",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "nanometre",
-    "nm",
-    "metric linear unit",
-    "micromicron",
-    "angstrom unit",
-    "millimicron",
-    "angstrom",
-    "micromillimeter",
-    "micromillimetre",
-    "nanometer",
-    "picometre",
-    "picometer"
-  ],
   "translations": {
     "ja": [
       {

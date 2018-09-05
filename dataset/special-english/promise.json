@@ -1,17 +1,25 @@
 {
+  "id": 1013,
   "tokens": [
     "promise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "promise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "guarantee",
-    "declare"
-  ],
   "translations": {
     "ja": [
       {

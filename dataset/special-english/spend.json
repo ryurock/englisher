@@ -1,23 +1,25 @@
 {
+  "id": 1234,
   "tokens": [
     "spend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "spend",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "do",
-    "winter",
-    "summer",
-    "pass",
-    "serve",
-    "vacation",
-    "soldier",
-    "holiday"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,20 +1,23 @@
 {
+  "id": 690,
   "tokens": [
     "intelligence"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "intelligence",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "mind",
-    "brain",
-    "intelligent",
-    "power",
-    "stupid"
-  ],
   "translations": {
     "ja": [
       {

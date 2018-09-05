@@ -1,18 +1,25 @@
 {
+  "id": 499,
   "tokens": [
     "fear"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fear",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "emotion",
-    "afraid",
-    "terror"
-  ],
   "translations": {
     "ja": [
       {

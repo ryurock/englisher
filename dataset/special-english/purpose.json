@@ -1,22 +1,23 @@
 {
+  "id": 1029,
   "tokens": [
     "purpose"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "purpose",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "will",
-    "end",
-    "goal",
-    "mind",
-    "idea",
-    "aim",
-    "design"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,23 @@
 {
+  "id": 68,
   "tokens": [
     "appoint"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "appoint",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "plant",
-    "name",
-    "nominate",
-    "establish"
-  ],
   "translations": {
     "ja": [
       {

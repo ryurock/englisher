@@ -1,20 +1,25 @@
 {
+  "id": 72,
   "tokens": [
     "argue"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "argue",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "represent",
-    "defend",
-    "reason",
-    "support",
-    "present"
-  ],
   "translations": {
     "ja": [
       {

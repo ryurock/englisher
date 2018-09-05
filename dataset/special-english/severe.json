@@ -1,17 +1,23 @@
 {
+  "id": 1165,
   "tokens": [
     "severe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "severe",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "intense",
-    "terrible"
-  ],
   "translations": {
     "ja": [
       {

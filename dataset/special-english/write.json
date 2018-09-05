@@ -1,16 +1,25 @@
 {
+  "id": 1501,
   "tokens": [
     "write"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "write",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "publish"
-  ],
   "translations": {
     "ja": [
       {

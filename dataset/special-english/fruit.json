@@ -1,16 +1,23 @@
 {
+  "id": 556,
   "tokens": [
     "fruit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fruit",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "seed"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,23 @@
 {
+  "id": 1072,
   "tokens": [
     "religion"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "religion",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

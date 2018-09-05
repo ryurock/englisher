@@ -1,16 +1,23 @@
 {
+  "id": 233,
   "tokens": [
     "clean"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "clean",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fresh"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,32 +1,25 @@
 {
+  "id": 299,
   "tokens": [
     "cover"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cover",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "paper",
-    "line",
-    "spread",
-    "bank",
-    "bread",
-    "ice",
-    "surround",
-    "wash",
-    "paint",
-    "hold",
-    "steel",
-    "grass",
-    "surface",
-    "recover",
-    "oil",
-    "dust",
-    "face"
-  ],
   "translations": {
     "ja": [
       {

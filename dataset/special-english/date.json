@@ -1,16 +1,25 @@
 {
+  "id": 327,
   "tokens": [
     "date"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "date",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "day"
-  ],
   "translations": {
     "ja": [
       {

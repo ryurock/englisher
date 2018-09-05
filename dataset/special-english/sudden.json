@@ -1,17 +1,23 @@
 {
+  "id": 1281,
   "tokens": [
     "sudden"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sudden",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fast",
-    "sharp"
-  ],
   "translations": {
     "ja": [
       {

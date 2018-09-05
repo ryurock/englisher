@@ -1,19 +1,22 @@
 {
+  "id": 1189,
   "tokens": [
     "signal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "signal",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "number",
-    "sign",
-    "start",
-    "curfew"
-  ],
   "translations": {
     "ja": [
       {

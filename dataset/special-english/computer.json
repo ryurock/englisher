@@ -1,19 +1,23 @@
 {
+  "id": 267,
   "tokens": [
     "computer"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "computer",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "machine",
-    "memory",
-    "store",
-    "bus"
-  ],
   "translations": {
     "ja": [
       {

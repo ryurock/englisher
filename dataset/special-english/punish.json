@@ -1,19 +1,22 @@
 {
+  "id": 1026,
   "tokens": [
     "punish"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "punish",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "correct",
-    "judge",
-    "estimate",
-    "execute"
-  ],
   "translations": {
     "ja": [
       {

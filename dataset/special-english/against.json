@@ -1,14 +1,22 @@
 {
+  "id": 23,
   "tokens": [
     "against"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "against",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

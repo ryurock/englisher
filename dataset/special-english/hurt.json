@@ -1,19 +1,25 @@
 {
+  "id": 653,
   "tokens": [
     "hurt"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hurt",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shoot",
-    "hunger",
-    "bite",
-    "burn"
-  ],
   "translations": {
     "ja": [
       {

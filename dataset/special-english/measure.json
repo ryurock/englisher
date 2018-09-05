@@ -1,17 +1,25 @@
 {
+  "id": 805,
   "tokens": [
     "measure"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "measure",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shoot",
-    "decide"
-  ],
   "translations": {
     "ja": [
       {

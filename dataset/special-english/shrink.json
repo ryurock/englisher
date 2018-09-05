@@ -1,17 +1,23 @@
 {
+  "id": 1184,
   "tokens": [
     "shrink"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "shrink",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "decrease",
-    "fall"
-  ],
   "translations": {
     "ja": [
       {

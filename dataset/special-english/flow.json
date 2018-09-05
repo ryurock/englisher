@@ -1,18 +1,25 @@
 {
+  "id": 530,
   "tokens": [
     "flow"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "flow",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "travel",
-    "current",
-    "run"
-  ],
   "translations": {
     "ja": [
       {

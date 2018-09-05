@@ -1,14 +1,23 @@
 {
+  "id": 198,
   "tokens": [
     "care"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "care",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

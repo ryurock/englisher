@@ -1,16 +1,23 @@
 {
+  "id": 1421,
   "tokens": [
     "victim"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "victim",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "target"
-  ],
   "translations": {
     "ja": [
       {

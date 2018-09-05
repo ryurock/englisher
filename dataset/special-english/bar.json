@@ -1,16 +1,23 @@
 {
+  "id": 111,
   "tokens": [
     "bar"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bar",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "room"
-  ],
   "translations": {
     "ja": [
       {

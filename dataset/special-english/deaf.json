@@ -1,14 +1,23 @@
 {
+  "id": 331,
   "tokens": [
     "deaf"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "deaf",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

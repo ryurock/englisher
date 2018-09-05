@@ -1,14 +1,24 @@
 {
+  "id": 1220,
   "tokens": [
     "soldier"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "soldier",
+      "postTags": [
+        "Actor",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

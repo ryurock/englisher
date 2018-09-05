@@ -1,17 +1,23 @@
 {
+  "id": 895,
   "tokens": [
     "occupy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "occupy",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "busy",
-    "work"
-  ],
   "translations": {
     "ja": [
       {

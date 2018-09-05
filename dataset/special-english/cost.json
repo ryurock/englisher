@@ -1,18 +1,25 @@
 {
+  "id": 294,
   "tokens": [
     "cost"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cost",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "damage",
-    "charge",
-    "price"
-  ],
   "translations": {
     "ja": [
       {

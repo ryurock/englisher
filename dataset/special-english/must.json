@@ -1,14 +1,24 @@
 {
+  "id": 857,
   "tokens": [
     "must"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "must",
+      "postTags": [
+        "Modal",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

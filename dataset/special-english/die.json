@@ -1,23 +1,25 @@
 {
+  "id": 365,
   "tokens": [
     "die"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "die",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fail",
-    "pass",
-    "go",
-    "starve",
-    "break",
-    "fall",
-    "turn",
-    "drown"
-  ],
   "translations": {
     "ja": [
       {

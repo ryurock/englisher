@@ -1,19 +1,23 @@
 {
+  "id": 1138,
   "tokens": [
     "science"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "science",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "subject",
-    "field",
-    "mathematics",
-    "study"
-  ],
   "translations": {
     "ja": [
       {

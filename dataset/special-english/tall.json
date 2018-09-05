@@ -1,19 +1,23 @@
 {
+  "id": 1310,
   "tokens": [
     "tall"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tall",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "large",
-    "long",
-    "big",
-    "high"
-  ],
   "translations": {
     "ja": [
       {

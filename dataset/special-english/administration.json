@@ -1,16 +1,23 @@
 {
+  "id": 14,
   "tokens": [
     "administration"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "administration",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "direction"
-  ],
   "translations": {
     "ja": [
       {

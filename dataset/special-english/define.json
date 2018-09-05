@@ -1,16 +1,25 @@
 {
+  "id": 342,
   "tokens": [
     "define"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "define",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "be"
-  ],
   "translations": {
     "ja": [
       {

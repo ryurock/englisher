@@ -1,18 +1,23 @@
 {
+  "id": 1470,
   "tokens": [
     "whole"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "whole",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "full",
-    "complete",
-    "total"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,20 +1,25 @@
 {
+  "id": 1098,
   "tokens": [
     "return"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "return",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rise",
-    "travel",
-    "move",
-    "home",
-    "go"
-  ],
   "translations": {
     "ja": [
       {

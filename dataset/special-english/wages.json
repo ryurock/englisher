@@ -1,14 +1,23 @@
 {
+  "id": 1433,
   "tokens": [
     "wages"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wages",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

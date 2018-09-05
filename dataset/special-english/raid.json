@@ -1,14 +1,23 @@
 {
+  "id": 1040,
   "tokens": [
     "raid"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "raid",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

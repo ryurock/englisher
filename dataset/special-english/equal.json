@@ -1,19 +1,22 @@
 {
+  "id": 442,
   "tokens": [
     "equal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "equal",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "close",
-    "even",
-    "same",
-    "level"
-  ],
   "translations": {
     "ja": [
       {

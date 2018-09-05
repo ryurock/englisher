@@ -1,16 +1,23 @@
 {
+  "id": 971,
   "tokens": [
     "plot"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "plot",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "game"
-  ],
   "translations": {
     "ja": [
       {

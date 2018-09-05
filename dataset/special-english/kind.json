@@ -1,21 +1,23 @@
 {
+  "id": 723,
   "tokens": [
     "kind"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "kind",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "k",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "color",
-    "make",
-    "sort",
-    "form",
-    "like",
-    "model"
-  ],
   "translations": {
     "ja": [
       {

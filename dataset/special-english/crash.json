@@ -1,14 +1,23 @@
 {
+  "id": 301,
   "tokens": [
     "crash"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "crash",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

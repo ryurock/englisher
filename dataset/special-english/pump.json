@@ -1,16 +1,25 @@
 {
+  "id": 1025,
   "tokens": [
     "pump"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pump",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "gun"
-  ],
   "translations": {
     "ja": [
       {

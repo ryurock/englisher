@@ -1,16 +1,25 @@
 {
+  "id": 289,
   "tokens": [
     "cooperate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cooperate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "work"
-  ],
   "translations": {
     "ja": [
       {

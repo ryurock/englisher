@@ -1,17 +1,25 @@
 {
+  "id": 1259,
   "tokens": [
     "stop"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "stop",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "halt",
-    "settle"
-  ],
   "translations": {
     "ja": [
       {

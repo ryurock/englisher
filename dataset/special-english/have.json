@@ -1,18 +1,25 @@
 {
+  "id": 609,
   "tokens": [
     "have"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "have",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "keep",
-    "carry",
-    "hold"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,22 @@
 {
+  "id": 459,
   "tokens": [
     "excellent"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "excellent",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

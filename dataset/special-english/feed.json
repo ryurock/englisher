@@ -1,17 +1,25 @@
 {
+  "id": 501,
   "tokens": [
     "feed"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "feed",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "provide",
-    "supply"
-  ],
   "translations": {
     "ja": [
       {

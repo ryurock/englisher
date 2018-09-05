@@ -1,16 +1,23 @@
 {
+  "id": 492,
   "tokens": [
     "fan"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fan",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "device"
-  ],
   "translations": {
     "ja": [
       {

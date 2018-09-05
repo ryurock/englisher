@@ -1,16 +1,23 @@
 {
+  "id": 1141,
   "tokens": [
     "season"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "season",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "period"
-  ],
   "translations": {
     "ja": [
       {

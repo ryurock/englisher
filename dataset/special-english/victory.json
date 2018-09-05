@@ -1,16 +1,23 @@
 {
+  "id": 1422,
   "tokens": [
     "victory"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "victory",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "target"
-  ],
   "translations": {
     "ja": [
       {

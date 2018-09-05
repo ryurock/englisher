@@ -1,24 +1,25 @@
 {
+  "id": 1047,
   "tokens": [
     "reach"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "reach",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "go",
-    "find",
-    "ground",
-    "make",
-    "hit",
-    "gain",
-    "travel",
-    "top"
-  ],
   "translations": {
     "ja": [
       {

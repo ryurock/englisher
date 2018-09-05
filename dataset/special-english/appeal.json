@@ -1,16 +1,25 @@
 {
+  "id": 66,
   "tokens": [
     "appeal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "appeal",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "request"
-  ],
   "translations": {
     "ja": [
       {

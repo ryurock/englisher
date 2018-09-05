@@ -1,18 +1,25 @@
 {
+  "id": 1277,
   "tokens": [
     "substitute"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "substitute",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "exchange",
-    "reduce",
-    "change"
-  ],
   "translations": {
     "ja": [
       {

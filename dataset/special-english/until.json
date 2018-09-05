@@ -1,14 +1,22 @@
 {
+  "id": 1405,
   "tokens": [
     "until"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "until",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "u",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

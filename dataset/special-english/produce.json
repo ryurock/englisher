@@ -1,19 +1,25 @@
 {
+  "id": 1006,
   "tokens": [
     "produce"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "produce",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "manufacture",
-    "have",
-    "make",
-    "create"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,25 @@
 {
+  "id": 615,
   "tokens": [
     "hear"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hear",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "get",
-    "catch"
-  ],
   "translations": {
     "ja": [
       {

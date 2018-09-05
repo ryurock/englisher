@@ -1,17 +1,23 @@
 {
+  "id": 326,
   "tokens": [
     "dark"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "dark",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "black",
-    "light"
-  ],
   "translations": {
     "ja": [
       {

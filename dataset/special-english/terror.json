@@ -1,16 +1,23 @@
 {
+  "id": 1331,
   "tokens": [
     "terror"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "terror",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fear"
-  ],
   "translations": {
     "ja": [
       {

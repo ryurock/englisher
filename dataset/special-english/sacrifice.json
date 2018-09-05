@@ -1,20 +1,23 @@
 {
+  "id": 1125,
   "tokens": [
     "sacrifice"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sacrifice",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "give",
-    "pay",
-    "free",
-    "resign",
-    "release"
-  ],
   "translations": {
     "ja": [
       {

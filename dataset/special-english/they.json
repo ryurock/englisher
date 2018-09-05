@@ -1,16 +1,24 @@
 {
+  "id": 1344,
   "tokens": [
     "they"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "they",
+      "postTags": [
+        "Pronoun",
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Pronoun"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "so"
-  ],
   "translations": {
     "ja": [
       {

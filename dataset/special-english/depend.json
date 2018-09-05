@@ -1,16 +1,25 @@
 {
+  "id": 351,
   "tokens": [
     "depend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "depend",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "be"
-  ],
   "translations": {
     "ja": [
       {

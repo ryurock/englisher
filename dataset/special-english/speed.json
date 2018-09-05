@@ -1,16 +1,23 @@
 {
+  "id": 1233,
   "tokens": [
     "speed"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "speed",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rate"
-  ],
   "translations": {
     "ja": [
       {

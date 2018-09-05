@@ -1,14 +1,23 @@
 {
+  "id": 1218,
   "tokens": [
     "soft"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "soft",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

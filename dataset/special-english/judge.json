@@ -1,17 +1,25 @@
 {
+  "id": 714,
   "tokens": [
     "judge"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "judge",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "j",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "settle",
-    "decide"
-  ],
   "translations": {
     "ja": [
       {

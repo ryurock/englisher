@@ -1,14 +1,23 @@
 {
+  "id": 1236,
   "tokens": [
     "spirit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "spirit",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,24 @@
 {
+  "id": 158,
   "tokens": [
     "boy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "boy",
+      "postTags": [
+        "Person",
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "male"
-  ],
   "translations": {
     "ja": [
       {

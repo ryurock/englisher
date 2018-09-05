@@ -1,16 +1,22 @@
 {
+  "id": 47,
   "tokens": [
     "always"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "always",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ever"
-  ],
   "translations": {
     "ja": [
       {

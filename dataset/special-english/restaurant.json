@@ -1,16 +1,23 @@
 {
+  "id": 1093,
   "tokens": [
     "restaurant"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "restaurant",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "building"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 251,
   "tokens": [
     "colony"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "colony",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "body"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,26 @@
 {
+  "id": 1245,
   "tokens": [
     "star"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "star",
+      "postTags": [
+        "FemaleName",
+        "FirstName",
+        "Person",
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sun"
-  ],
   "translations": {
     "ja": [
       {

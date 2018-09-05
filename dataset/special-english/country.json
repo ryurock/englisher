@@ -1,20 +1,23 @@
 {
+  "id": 297,
   "tokens": [
     "country"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "country",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "state",
-    "ally",
-    "power",
-    "nation",
-    "land"
-  ],
   "translations": {
     "ja": [
       {

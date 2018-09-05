@@ -1,20 +1,23 @@
 {
+  "id": 414,
   "tokens": [
     "easy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "easy",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "clean",
-    "simple",
-    "smooth",
-    "ease",
-    "soft"
-  ],
   "translations": {
     "ja": [
       {

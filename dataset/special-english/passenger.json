@@ -1,14 +1,23 @@
 {
+  "id": 940,
   "tokens": [
     "passenger"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "passenger",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

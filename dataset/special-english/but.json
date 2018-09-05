@@ -1,17 +1,22 @@
 {
+  "id": 182,
   "tokens": [
     "but"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "but",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "only",
-    "just"
-  ],
   "translations": {
     "ja": [
       {

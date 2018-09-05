@@ -1,14 +1,23 @@
 {
+  "id": 829,
   "tokens": [
     "minority"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "minority",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,22 @@
 {
+  "id": 944,
   "tokens": [
     "patient"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "patient",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "case"
-  ],
   "translations": {
     "ja": [
       {

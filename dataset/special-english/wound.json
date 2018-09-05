@@ -1,19 +1,22 @@
 {
+  "id": 1498,
   "tokens": [
     "wound"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wound",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "harm",
-    "cut",
-    "hurt",
-    "bite"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,22 @@
 {
+  "id": 640,
   "tokens": [
     "hostile"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "hostile",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "offensive"
-  ],
   "translations": {
     "ja": [
       {

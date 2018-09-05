@@ -1,16 +1,23 @@
 {
+  "id": 756,
   "tokens": [
     "light"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "light",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sun"
-  ],
   "translations": {
     "ja": [
       {

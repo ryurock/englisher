@@ -1,16 +1,23 @@
 {
+  "id": 1258,
   "tokens": [
     "stone"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "stone",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rock"
-  ],
   "translations": {
     "ja": [
       {

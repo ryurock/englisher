@@ -1,16 +1,25 @@
 {
+  "id": 1112,
   "tokens": [
     "roll"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "roll",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "turn"
-  ],
   "translations": {
     "ja": [
       {

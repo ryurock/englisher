@@ -1,16 +1,25 @@
 {
+  "id": 169,
   "tokens": [
     "broadcast"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "broadcast",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "message"
-  ],
   "translations": {
     "ja": [
       {

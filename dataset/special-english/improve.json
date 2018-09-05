@@ -1,31 +1,25 @@
 {
+  "id": 667,
   "tokens": [
     "improve"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "improve",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "repair",
-    "fix",
-    "help",
-    "doctor",
-    "down",
-    "perfect",
-    "develop",
-    "raise",
-    "reform",
-    "better",
-    "build",
-    "change",
-    "lift",
-    "aid",
-    "condition",
-    "amend"
-  ],
   "translations": {
     "ja": [
       {

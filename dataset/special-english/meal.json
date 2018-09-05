@@ -1,19 +1,23 @@
 {
+  "id": 803,
   "tokens": [
     "meal"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "meal",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tea",
-    "bite",
-    "spread",
-    "dinner"
-  ],
   "translations": {
     "ja": [
       {

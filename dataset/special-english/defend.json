@@ -1,20 +1,23 @@
 {
+  "id": 340,
   "tokens": [
     "defend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "defend",
+      "postTags": [
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "excuse",
-    "reason",
-    "apologize",
-    "argue",
-    "support"
-  ],
   "translations": {
     "ja": [
       {

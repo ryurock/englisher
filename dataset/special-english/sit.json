@@ -1,17 +1,25 @@
 {
+  "id": 1199,
   "tokens": [
     "sit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sit",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rest",
-    "seat"
-  ],
   "translations": {
     "ja": [
       {

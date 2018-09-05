@@ -1,14 +1,23 @@
 {
+  "id": 120,
   "tokens": [
     "bed"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bed",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

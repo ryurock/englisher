@@ -1,17 +1,23 @@
 {
+  "id": 716,
   "tokens": [
     "jury"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "jury",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "j",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "body",
-    "court"
-  ],
   "translations": {
     "ja": [
       {

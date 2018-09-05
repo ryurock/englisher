@@ -1,17 +1,25 @@
 {
+  "id": 882,
   "tokens": [
     "noon"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "noon",
+      "postTags": [
+        "Time",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Time"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hour",
-    "day"
-  ],
   "translations": {
     "ja": [
       {

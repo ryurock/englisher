@@ -1,16 +1,25 @@
 {
+  "id": 665,
   "tokens": [
     "import"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "import",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "trade"
-  ],
   "translations": {
     "ja": [
       {

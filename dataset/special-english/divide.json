@@ -1,17 +1,25 @@
 {
+  "id": 387,
   "tokens": [
     "divide"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "divide",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "split",
-    "separate"
-  ],
   "translations": {
     "ja": [
       {

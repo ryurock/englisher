@@ -1,17 +1,23 @@
 {
+  "id": 258,
   "tokens": [
     "common"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "common",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "joint",
-    "public"
-  ],
   "translations": {
     "ja": [
       {

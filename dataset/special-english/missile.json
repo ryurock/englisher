@@ -1,17 +1,23 @@
 {
+  "id": 832,
   "tokens": [
     "missile"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "missile",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rocket",
-    "weapon"
-  ],
   "translations": {
     "ja": [
       {

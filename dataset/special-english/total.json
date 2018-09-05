@@ -1,17 +1,22 @@
 {
+  "id": 1366,
   "tokens": [
     "total"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "total",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "full",
-    "whole"
-  ],
   "translations": {
     "ja": [
       {

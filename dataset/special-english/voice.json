@@ -1,16 +1,23 @@
 {
+  "id": 1429,
   "tokens": [
     "voice"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "voice",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "sound"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,27 +1,25 @@
 {
+  "id": 1410,
   "tokens": [
     "use"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "use",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "u",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "enjoy",
-    "share",
-    "put",
-    "extend",
-    "give",
-    "take",
-    "waste",
-    "exercise",
-    "play",
-    "hold",
-    "work",
-    "employ"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,23 @@
 {
+  "id": 928,
   "tokens": [
     "pain"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pain",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "torture",
-    "burn"
-  ],
   "translations": {
     "ja": [
       {

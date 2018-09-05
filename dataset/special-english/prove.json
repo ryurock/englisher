@@ -1,17 +1,25 @@
 {
+  "id": 1019,
   "tokens": [
     "prove"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "prove",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "be",
-    "result"
-  ],
   "translations": {
     "ja": [
       {

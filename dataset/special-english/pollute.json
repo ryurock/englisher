@@ -1,17 +1,25 @@
 {
+  "id": 978,
   "tokens": [
     "pollute"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pollute",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "soil",
-    "infect"
-  ],
   "translations": {
     "ja": [
       {

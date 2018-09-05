@@ -1,17 +1,24 @@
 {
+  "id": 437,
   "tokens": [
     "engineer"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "engineer",
+      "postTags": [
+        "Actor",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "individual",
-    "person"
-  ],
   "translations": {
     "ja": [
       {

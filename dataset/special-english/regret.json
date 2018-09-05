@@ -1,17 +1,24 @@
 {
+  "id": 1068,
   "tokens": [
     "regret"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "regret",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "feel",
-    "experience"
-  ],
   "translations": {
     "ja": [
       {

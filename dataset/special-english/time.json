@@ -1,17 +1,23 @@
 {
+  "id": 1355,
   "tokens": [
     "time"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "time",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "case",
-    "example"
-  ],
   "translations": {
     "ja": [
       {

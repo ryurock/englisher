@@ -1,24 +1,25 @@
 {
+  "id": 6,
   "tokens": [
     "accept"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "accept",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "recognize",
-    "judge",
-    "respect",
-    "resign",
-    "observe",
-    "know",
-    "believe",
-    "receive",
-    "honor"
-  ],
   "translations": {
     "ja": [
       {

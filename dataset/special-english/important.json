@@ -1,21 +1,22 @@
 {
+  "id": 666,
   "tokens": [
     "important"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "important",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "heavy",
-    "main",
-    "big",
-    "great",
-    "chief",
-    "serious"
-  ],
   "translations": {
     "ja": [
       {

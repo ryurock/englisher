@@ -1,17 +1,23 @@
 {
+  "id": 538,
   "tokens": [
     "foot"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "foot",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "human",
-    "man"
-  ],
   "translations": {
     "ja": [
       {

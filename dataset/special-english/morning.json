@@ -1,17 +1,25 @@
 {
+  "id": 845,
   "tokens": [
     "morning"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "morning",
+      "postTags": [
+        "Time",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Time"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "period",
-    "day"
-  ],
   "translations": {
     "ja": [
       {

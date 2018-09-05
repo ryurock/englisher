@@ -1,18 +1,25 @@
 {
+  "id": 393,
   "tokens": [
     "donate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "donate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "gift",
-    "give",
-    "present"
-  ],
   "translations": {
     "ja": [
       {

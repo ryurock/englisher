@@ -1,27 +1,23 @@
 {
+  "id": 430,
   "tokens": [
     "employ"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "employ",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "enjoy",
-    "share",
-    "put",
-    "use",
-    "extend",
-    "give",
-    "take",
-    "waste",
-    "exercise",
-    "play",
-    "hold",
-    "work"
-  ],
   "translations": {
     "ja": [
       {

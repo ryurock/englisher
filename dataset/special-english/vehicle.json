@@ -1,17 +1,23 @@
 {
+  "id": 1417,
   "tokens": [
     "vehicle"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "vehicle",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rocket",
-    "transport"
-  ],
   "translations": {
     "ja": [
       {

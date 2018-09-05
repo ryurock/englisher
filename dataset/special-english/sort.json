@@ -1,21 +1,25 @@
 {
+  "id": 1226,
   "tokens": [
     "sort"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sort",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "color",
-    "make",
-    "form",
-    "kind",
-    "like",
-    "model"
-  ],
   "translations": {
     "ja": [
       {

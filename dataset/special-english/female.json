@@ -1,18 +1,22 @@
 {
+  "id": 503,
   "tokens": [
     "female"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "female",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "dam",
-    "animal",
-    "creature"
-  ],
   "translations": {
     "ja": [
       {

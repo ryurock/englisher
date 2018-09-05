@@ -1,14 +1,22 @@
 {
+  "id": 235,
   "tokens": [
     "clergy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "clergy",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

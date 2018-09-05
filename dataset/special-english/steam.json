@@ -1,18 +1,23 @@
 {
+  "id": 1253,
   "tokens": [
     "steam"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "steam",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "travel",
-    "move",
-    "go"
-  ],
   "translations": {
     "ja": [
       {

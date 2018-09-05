@@ -1,18 +1,23 @@
 {
+  "id": 1247,
   "tokens": [
     "starve"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "starve",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hurt",
-    "suffer",
-    "hunger"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,23 +1,25 @@
 {
+  "id": 672,
   "tokens": [
     "increase"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "increase",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "full",
-    "add",
-    "rise",
-    "gain",
-    "grow",
-    "gather",
-    "explode",
-    "climb"
-  ],
   "translations": {
     "ja": [
       {

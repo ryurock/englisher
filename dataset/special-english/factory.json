@@ -1,17 +1,23 @@
 {
+  "id": 485,
   "tokens": [
     "factory"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "factory",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "plant",
-    "line"
-  ],
   "translations": {
     "ja": [
       {

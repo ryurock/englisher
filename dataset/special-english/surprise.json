@@ -1,21 +1,25 @@
 {
+  "id": 1296,
   "tokens": [
     "surprise"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "surprise",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "catch",
-    "shock",
-    "floor",
-    "move",
-    "affect",
-    "strike"
-  ],
   "translations": {
     "ja": [
       {

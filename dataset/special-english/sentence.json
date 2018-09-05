@@ -1,16 +1,23 @@
 {
+  "id": 1156,
   "tokens": [
     "sentence"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sentence",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "question"
-  ],
   "translations": {
     "ja": [
       {

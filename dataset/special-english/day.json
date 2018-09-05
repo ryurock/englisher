@@ -1,23 +1,25 @@
 {
+  "id": 329,
   "tokens": [
     "day"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "day",
+      "postTags": [
+        "Duration",
+        "Date",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tomorrow",
-    "noon",
-    "today",
-    "yesterday",
-    "dark",
-    "date",
-    "hour",
-    "night"
-  ],
   "translations": {
     "ja": [
       {

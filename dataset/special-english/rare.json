@@ -1,14 +1,23 @@
 {
+  "id": 1045,
   "tokens": [
     "rare"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rare",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

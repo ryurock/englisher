@@ -1,22 +1,24 @@
 {
+  "id": 1162,
   "tokens": [
     "set"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "set",
+      "postTags": [
+        "PastTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "price",
-    "tax",
-    "value",
-    "charge",
-    "identify",
-    "date",
-    "place"
-  ],
   "translations": {
     "ja": [
       {

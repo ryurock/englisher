@@ -1,19 +1,23 @@
 {
+  "id": 434,
   "tokens": [
     "energy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "energy",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "radiation",
-    "heat",
-    "work",
-    "electricity"
-  ],
   "translations": {
     "ja": [
       {

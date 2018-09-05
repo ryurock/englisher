@@ -1,16 +1,23 @@
 {
+  "id": 1180,
   "tokens": [
     "short"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "short",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "brief"
-  ],
   "translations": {
     "ja": [
       {

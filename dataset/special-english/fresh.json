@@ -1,20 +1,23 @@
 {
+  "id": 551,
   "tokens": [
     "fresh"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fresh",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "good",
-    "warm",
-    "hot",
-    "new",
-    "strong"
-  ],
   "translations": {
     "ja": [
       {

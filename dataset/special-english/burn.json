@@ -1,18 +1,25 @@
 {
+  "id": 176,
   "tokens": [
     "burn"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "burn",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fire",
-    "ruin",
-    "destroy"
-  ],
   "translations": {
     "ja": [
       {

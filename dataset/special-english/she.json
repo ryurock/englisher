@@ -1,14 +1,24 @@
 {
+  "id": 1171,
   "tokens": [
     "she"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "she",
+      "postTags": [
+        "Pronoun",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

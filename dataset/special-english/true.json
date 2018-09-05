@@ -1,20 +1,23 @@
 {
+  "id": 1393,
   "tokens": [
     "true"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "true",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "real",
-    "right",
-    "honest",
-    "sure",
-    "correct"
-  ],
   "translations": {
     "ja": [
       {

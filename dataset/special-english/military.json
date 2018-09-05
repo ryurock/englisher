@@ -1,14 +1,23 @@
 {
+  "id": 821,
   "tokens": [
     "military"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "military",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

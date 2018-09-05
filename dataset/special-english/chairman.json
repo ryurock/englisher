@@ -1,16 +1,23 @@
 {
+  "id": 211,
   "tokens": [
     "chairman"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "chairman",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "president"
-  ],
   "translations": {
     "ja": [
       {

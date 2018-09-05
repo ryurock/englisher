@@ -1,25 +1,23 @@
 {
+  "id": 94,
   "tokens": [
     "automobile"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "automobile",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "window",
-    "gun",
-    "first",
-    "low",
-    "bus",
-    "gas",
-    "third",
-    "car",
-    "high",
-    "machine"
-  ],
   "translations": {
     "ja": [
       {

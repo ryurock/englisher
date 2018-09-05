@@ -1,16 +1,22 @@
 {
+  "id": 460,
   "tokens": [
     "except"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "except",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "object"
-  ],
   "translations": {
     "ja": [
       {

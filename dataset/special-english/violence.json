@@ -1,16 +1,23 @@
 {
+  "id": 1426,
   "tokens": [
     "violence"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "violence",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "break"
-  ],
   "translations": {
     "ja": [
       {

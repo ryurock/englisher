@@ -1,24 +1,25 @@
 {
+  "id": 1033,
   "tokens": [
     "question"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "question",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "q",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "atmosphere",
-    "ease",
-    "worth",
-    "bad",
-    "nature",
-    "power",
-    "air",
-    "good",
-    "humor"
-  ],
   "translations": {
     "ja": [
       {

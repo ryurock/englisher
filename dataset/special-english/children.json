@@ -1,16 +1,23 @@
 {
+  "id": 223,
   "tokens": [
     "children"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "children",
+      "postTags": [
+        "Plural",
+        "Noun"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "minor"
-  ],
   "translations": {
     "ja": [
       {

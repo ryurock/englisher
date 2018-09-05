@@ -1,17 +1,22 @@
 {
+  "id": 646,
   "tokens": [
     "however"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "however",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "still",
-    "yet"
-  ],
   "translations": {
     "ja": [
       {

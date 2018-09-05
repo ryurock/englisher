@@ -1,18 +1,23 @@
 {
+  "id": 237,
   "tokens": [
     "climb"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "climb",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rise",
-    "lift",
-    "ride"
-  ],
   "translations": {
     "ja": [
       {

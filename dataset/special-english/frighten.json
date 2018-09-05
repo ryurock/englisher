@@ -1,17 +1,23 @@
 {
+  "id": 553,
   "tokens": [
     "frighten"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "frighten",
+      "postTags": [
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "shake",
-    "fear"
-  ],
   "translations": {
     "ja": [
       {

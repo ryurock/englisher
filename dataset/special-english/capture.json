@@ -1,16 +1,23 @@
 {
+  "id": 196,
   "tokens": [
     "capture"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "capture",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "represent"
-  ],
   "translations": {
     "ja": [
       {

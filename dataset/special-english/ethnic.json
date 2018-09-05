@@ -1,16 +1,22 @@
 {
+  "id": 448,
   "tokens": [
     "ethnic"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ethnic",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "social"
-  ],
   "translations": {
     "ja": [
       {

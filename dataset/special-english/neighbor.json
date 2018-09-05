@@ -1,17 +1,23 @@
 {
+  "id": 870,
   "tokens": [
     "neighbor"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "neighbor",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "person",
-    "individual"
-  ],
   "translations": {
     "ja": [
       {

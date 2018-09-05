@@ -1,14 +1,23 @@
 {
+  "id": 739,
   "tokens": [
     "law"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "law",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

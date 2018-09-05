@@ -1,18 +1,25 @@
 {
+  "id": 919,
   "tokens": [
     "organize"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "organize",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "form",
-    "make",
-    "create"
-  ],
   "translations": {
     "ja": [
       {

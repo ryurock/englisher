@@ -1,22 +1,23 @@
 {
+  "id": 410,
   "tokens": [
     "earth"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "earth",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "atmosphere",
-    "land",
-    "air",
-    "earth",
-    "world",
-    "sky",
-    "ground"
-  ],
   "translations": {
     "ja": [
       {

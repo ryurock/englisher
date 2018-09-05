@@ -1,64 +1,22 @@
 {
+  "id": 674,
   "tokens": [
     "individual"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "individual",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "terror",
-    "suspect",
-    "male",
-    "sort",
-    "adult",
-    "baby",
-    "native",
-    "machine",
-    "creature",
-    "ethnic",
-    "man",
-    "have",
-    "witness",
-    "cause",
-    "engineer",
-    "ancient",
-    "friend",
-    "double",
-    "modern",
-    "self",
-    "best",
-    "neutral",
-    "face",
-    "hope",
-    "sport",
-    "subject",
-    "expert",
-    "equal",
-    "simple",
-    "life",
-    "neighbor",
-    "child",
-    "case",
-    "straight",
-    "dissident",
-    "party",
-    "slave",
-    "person",
-    "partner",
-    "shape",
-    "victim",
-    "candidate",
-    "innocent",
-    "people",
-    "female",
-    "form",
-    "actor",
-    "build",
-    "jewel"
-  ],
   "translations": {
     "ja": [
       {

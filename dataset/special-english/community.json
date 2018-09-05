@@ -1,17 +1,23 @@
 {
+  "id": 260,
   "tokens": [
     "community"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "community",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "house",
-    "village"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 1265,
   "tokens": [
     "strange"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "strange",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "other"
-  ],
   "translations": {
     "ja": [
       {

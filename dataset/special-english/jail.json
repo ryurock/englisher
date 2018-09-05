@@ -1,14 +1,23 @@
 {
+  "id": 708,
   "tokens": [
     "jail"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "jail",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "j",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

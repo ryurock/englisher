@@ -1,17 +1,25 @@
 {
+  "id": 446,
   "tokens": [
     "establish"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "establish",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "launch",
-    "open"
-  ],
   "translations": {
     "ja": [
       {

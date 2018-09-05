@@ -1,17 +1,23 @@
 {
+  "id": 504,
   "tokens": [
     "fence"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fence",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "barrier",
-    "wall"
-  ],
   "translations": {
     "ja": [
       {

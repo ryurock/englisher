@@ -1,17 +1,25 @@
 {
+  "id": 1183,
   "tokens": [
     "show"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "show",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "demonstrate",
-    "present"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,20 +1,22 @@
 {
+  "id": 1399,
   "tokens": [
     "under"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "under",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "u",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "port",
-    "cut",
-    "roll",
-    "face"
-  ],
   "translations": {
     "ja": [
       {

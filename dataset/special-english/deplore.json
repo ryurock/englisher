@@ -1,16 +1,23 @@
 {
+  "id": 352,
   "tokens": [
     "deplore"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "deplore",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "criticize"
-  ],
   "translations": {
     "ja": [
       {

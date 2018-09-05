@@ -1,17 +1,25 @@
 {
+  "id": 1440,
   "tokens": [
     "warn"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "warn",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "inform",
-    "threaten"
-  ],
   "translations": {
     "ja": [
       {

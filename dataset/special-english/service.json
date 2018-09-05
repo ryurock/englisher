@@ -1,16 +1,23 @@
 {
+  "id": 1161,
   "tokens": [
     "service"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "service",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "work"
-  ],
   "translations": {
     "ja": [
       {

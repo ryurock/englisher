@@ -1,16 +1,25 @@
 {
+  "id": 724,
   "tokens": [
     "kiss"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "kiss",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "k",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "touch"
-  ],
   "translations": {
     "ja": [
       {

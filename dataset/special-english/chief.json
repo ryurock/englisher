@@ -1,17 +1,22 @@
 {
+  "id": 221,
   "tokens": [
     "chief"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "chief",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "important",
-    "main"
-  ],
   "translations": {
     "ja": [
       {

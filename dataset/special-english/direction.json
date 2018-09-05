@@ -1,18 +1,23 @@
 {
+  "id": 373,
   "tokens": [
     "direction"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "direction",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "way",
-    "aim",
-    "path"
-  ],
   "translations": {
     "ja": [
       {

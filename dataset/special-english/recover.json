@@ -1,17 +1,25 @@
 {
+  "id": 1061,
   "tokens": [
     "recover"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "recover",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "get",
-    "find"
-  ],
   "translations": {
     "ja": [
       {

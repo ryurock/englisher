@@ -1,17 +1,24 @@
 {
+  "id": 520,
   "tokens": [
     "first"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "first",
+      "postTags": [
+        "Ordinal",
+        "Value",
+        "TextValue"
+      ],
+      "bestPosTag": "Value"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "early",
-    "front"
-  ],
   "translations": {
     "ja": [
       {

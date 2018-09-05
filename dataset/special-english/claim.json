@@ -1,17 +1,25 @@
 {
+  "id": 230,
   "tokens": [
     "claim"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "claim",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "silver",
-    "light"
-  ],
   "translations": {
     "ja": [
       {

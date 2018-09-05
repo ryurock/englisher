@@ -1,14 +1,23 @@
 {
+  "id": 49,
   "tokens": [
     "amend"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "amend",
+      "postTags": [
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

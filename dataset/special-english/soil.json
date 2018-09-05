@@ -1,16 +1,23 @@
 {
+  "id": 1219,
   "tokens": [
     "soil"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "soil",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "dirt"
-  ],
   "translations": {
     "ja": [
       {

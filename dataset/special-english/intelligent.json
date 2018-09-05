@@ -1,21 +1,22 @@
 {
+  "id": 691,
   "tokens": [
     "intelligent"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "intelligent",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ready",
-    "natural",
-    "born",
-    "intelligence",
-    "bright",
-    "quick"
-  ],
   "translations": {
     "ja": [
       {

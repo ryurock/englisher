@@ -1,16 +1,22 @@
 {
+  "id": 663,
   "tokens": [
     "immediate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "immediate",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "close"
-  ],
   "translations": {
     "ja": [
       {

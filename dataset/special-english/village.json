@@ -1,17 +1,23 @@
 {
+  "id": 1424,
   "tokens": [
     "village"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "village",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "picture",
-    "television"
-  ],
   "translations": {
     "ja": [
       {

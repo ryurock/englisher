@@ -1,17 +1,25 @@
 {
+  "id": 1121,
   "tokens": [
     "rule"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rule",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "normal",
-    "convention"
-  ],
   "translations": {
     "ja": [
       {

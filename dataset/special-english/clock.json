@@ -1,16 +1,23 @@
 {
+  "id": 238,
   "tokens": [
     "clock"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "clock",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "movement"
-  ],
   "translations": {
     "ja": [
       {

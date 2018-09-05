@@ -1,16 +1,22 @@
 {
+  "id": 1357,
   "tokens": [
     "to"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "to",
+      "postTags": [
+        "Conjunction"
+      ],
+      "bestPosTag": "Conjunction"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "missile"
-  ],
   "translations": {
     "ja": [
       {

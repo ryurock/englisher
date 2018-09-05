@@ -1,17 +1,25 @@
 {
+  "id": 900,
   "tokens": [
     "offer"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "offer",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "supply",
-    "provide"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,22 @@
 {
+  "id": 876,
   "tokens": [
     "next"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "next",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "close"
-  ],
   "translations": {
     "ja": [
       {

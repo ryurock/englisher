@@ -1,16 +1,25 @@
 {
+  "id": 1425,
   "tokens": [
     "violate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "violate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "community"
-  ],
   "translations": {
     "ja": [
       {

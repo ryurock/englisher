@@ -1,16 +1,25 @@
 {
+  "id": 178,
   "tokens": [
     "bury"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "bury",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hide"
-  ],
   "translations": {
     "ja": [
       {

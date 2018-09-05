@@ -1,47 +1,25 @@
 {
+  "id": 10,
   "tokens": [
     "act"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "act",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "go",
-    "take",
-    "race",
-    "pull",
-    "try",
-    "continue",
-    "force",
-    "deal",
-    "play",
-    "repeat",
-    "surprise",
-    "effect",
-    "wait",
-    "keep",
-    "oppose",
-    "guard",
-    "carry",
-    "use",
-    "create",
-    "start",
-    "attack",
-    "hurry",
-    "volunteer",
-    "partner",
-    "court",
-    "offer",
-    "begin",
-    "finish",
-    "react",
-    "attempt",
-    "perform"
-  ],
   "translations": {
     "ja": [
       {

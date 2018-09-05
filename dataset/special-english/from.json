@@ -1,16 +1,22 @@
 {
+  "id": 554,
   "tokens": [
     "from"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "from",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "direct"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,24 @@
 {
+  "id": 275,
   "tokens": [
     "Congress"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "Congress",
+      "postTags": [
+        "TitleCase",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "C",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "legislature",
-    "Senate"
-  ],
   "translations": {
     "ja": [
       {

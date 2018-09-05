@@ -1,21 +1,25 @@
 {
+  "id": 998,
   "tokens": [
     "prevent"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "prevent",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "halt",
-    "avoid",
-    "cross",
-    "save",
-    "stop",
-    "block"
-  ],
   "translations": {
     "ja": [
       {

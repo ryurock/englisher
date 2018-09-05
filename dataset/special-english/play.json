@@ -1,25 +1,25 @@
 {
+  "id": 968,
   "tokens": [
     "play"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "play",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "walk",
-    "develop",
-    "start",
-    "field",
-    "call",
-    "complete",
-    "meet",
-    "catch",
-    "die",
-    "compete"
-  ],
   "translations": {
     "ja": [
       {

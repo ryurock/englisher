@@ -1,16 +1,23 @@
 {
+  "id": 779,
   "tokens": [
     "luck"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "luck",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "condition"
-  ],
   "translations": {
     "ja": [
       {

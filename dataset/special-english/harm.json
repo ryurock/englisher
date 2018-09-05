@@ -1,21 +1,25 @@
 {
+  "id": 605,
   "tokens": [
     "harm"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "harm",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "bite",
-    "wound",
-    "burn",
-    "hurt",
-    "break",
-    "pull"
-  ],
   "translations": {
     "ja": [
       {

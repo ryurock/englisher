@@ -1,14 +1,23 @@
 {
+  "id": 587,
   "tokens": [
     "green"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "green",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "g",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

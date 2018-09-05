@@ -1,16 +1,23 @@
 {
+  "id": 1339,
   "tokens": [
     "them"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "them",
+      "postTags": [
+        "Pronoun",
+        "Noun"
+      ],
+      "bestPosTag": "Pronoun"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "so"
-  ],
   "translations": {
     "ja": [
       {

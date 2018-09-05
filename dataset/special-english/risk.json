@@ -1,17 +1,25 @@
 {
+  "id": 1106,
   "tokens": [
     "risk"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "risk",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "attempt",
-    "try"
-  ],
   "translations": {
     "ja": [
       {

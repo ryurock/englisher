@@ -1,14 +1,25 @@
 {
+  "id": 694,
   "tokens": [
     "interfere"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "interfere",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

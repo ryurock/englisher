@@ -1,19 +1,23 @@
 {
+  "id": 1221,
   "tokens": [
     "solid"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "solid",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "plastic",
-    "matter",
-    "food",
-    "glass"
-  ],
   "translations": {
     "ja": [
       {

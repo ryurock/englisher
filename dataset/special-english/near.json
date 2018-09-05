@@ -1,19 +1,23 @@
 {
+  "id": 866,
   "tokens": [
     "near"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "near",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "distance",
-    "hot",
-    "warm",
-    "close"
-  ],
   "translations": {
     "ja": [
       {

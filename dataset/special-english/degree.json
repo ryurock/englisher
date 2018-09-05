@@ -1,23 +1,23 @@
 {
+  "id": 343,
   "tokens": [
     "degree"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "degree",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "high",
-    "quality",
-    "low",
-    "intense",
-    "extreme",
-    "level",
-    "grind",
-    "property"
-  ],
   "translations": {
     "ja": [
       {

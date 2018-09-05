@@ -1,20 +1,25 @@
 {
+  "id": 183,
   "tokens": [
     "buy"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "buy",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "purchase",
-    "get",
-    "pay",
-    "take",
-    "choose"
-  ],
   "translations": {
     "ja": [
       {

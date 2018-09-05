@@ -1,16 +1,23 @@
 {
+  "id": 1084,
   "tokens": [
     "rescue"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rescue",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "save"
-  ],
   "translations": {
     "ja": [
       {

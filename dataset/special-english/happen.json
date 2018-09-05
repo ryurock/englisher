@@ -1,29 +1,25 @@
 {
+  "id": 602,
   "tokens": [
     "happen"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "happen",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "give",
-    "pass",
-    "go",
-    "develop",
-    "repeat",
-    "break",
-    "strike",
-    "chance",
-    "fall",
-    "come",
-    "shine",
-    "intervene",
-    "operate",
-    "result"
-  ],
   "translations": {
     "ja": [
       {

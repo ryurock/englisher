@@ -1,17 +1,25 @@
 {
+  "id": 660,
   "tokens": [
     "ignore"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "ignore",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cut",
-    "treat"
-  ],
   "translations": {
     "ja": [
       {

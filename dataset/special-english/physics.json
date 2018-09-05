@@ -1,16 +1,23 @@
 {
+  "id": 957,
   "tokens": [
     "physics"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "physics",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "astronomy"
-  ],
   "translations": {
     "ja": [
       {

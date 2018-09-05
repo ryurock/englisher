@@ -1,22 +1,25 @@
 {
+  "id": 201,
   "tokens": [
     "carry"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "carry",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move",
-    "bring",
-    "port",
-    "transport",
-    "take",
-    "return",
-    "fly"
-  ],
   "translations": {
     "ja": [
       {

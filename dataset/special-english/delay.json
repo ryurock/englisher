@@ -1,18 +1,23 @@
 {
+  "id": 344,
   "tokens": [
     "delay"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "delay",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "slow",
-    "detain",
-    "catch"
-  ],
   "translations": {
     "ja": [
       {

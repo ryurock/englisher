@@ -1,17 +1,25 @@
 {
+  "id": 773,
   "tokens": [
     "look"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "look",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "see",
-    "consider"
-  ],
   "translations": {
     "ja": [
       {

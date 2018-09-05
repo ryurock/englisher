@@ -1,16 +1,22 @@
 {
+  "id": 541,
   "tokens": [
     "foreign"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "foreign",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "international"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,23 @@
 {
+  "id": 1206,
   "tokens": [
     "slave"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "slave",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "person",
-    "individual",
-    "tool",
-    "creature"
-  ],
   "translations": {
     "ja": [
       {

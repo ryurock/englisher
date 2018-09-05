@@ -1,21 +1,23 @@
 {
+  "id": 1028,
   "tokens": [
     "pure"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pure",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "native",
-    "fine",
-    "light",
-    "clear",
-    "clean",
-    "fresh"
-  ],
   "translations": {
     "ja": [
       {

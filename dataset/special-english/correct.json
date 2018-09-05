@@ -1,19 +1,22 @@
 {
+  "id": 292,
   "tokens": [
     "correct"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "correct",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "repair",
-    "right",
-    "amend",
-    "turn"
-  ],
   "translations": {
     "ja": [
       {

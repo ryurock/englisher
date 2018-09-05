@@ -1,16 +1,25 @@
 {
+  "id": 8,
   "tokens": [
     "accuse"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "accuse",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "charge"
-  ],
   "translations": {
     "ja": [
       {

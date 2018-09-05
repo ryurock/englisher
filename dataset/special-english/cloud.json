@@ -1,14 +1,23 @@
 {
+  "id": 242,
   "tokens": [
     "cloud"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "cloud",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

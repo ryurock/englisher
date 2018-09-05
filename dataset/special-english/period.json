@@ -1,37 +1,23 @@
 {
+  "id": 951,
   "tokens": [
     "period"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "period",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "month",
-    "sleep",
-    "day",
-    "window",
-    "watch",
-    "term",
-    "dark",
-    "school",
-    "morning",
-    "night",
-    "generation",
-    "flower",
-    "run",
-    "life",
-    "season",
-    "hour",
-    "past",
-    "century",
-    "year",
-    "time",
-    "age",
-    "week"
-  ],
   "translations": {
     "ja": [
       {

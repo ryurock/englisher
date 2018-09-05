@@ -1,16 +1,25 @@
 {
+  "id": 720,
   "tokens": [
     "kick"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "kick",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "k",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "move"
-  ],
   "translations": {
     "ja": [
       {

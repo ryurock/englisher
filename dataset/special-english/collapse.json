@@ -1,20 +1,25 @@
 {
+  "id": 248,
   "tokens": [
     "collapse"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "collapse",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "give",
-    "break",
-    "sink",
-    "burst",
-    "change"
-  ],
   "translations": {
     "ja": [
       {

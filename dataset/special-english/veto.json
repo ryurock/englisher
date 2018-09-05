@@ -1,17 +1,23 @@
 {
+  "id": 1420,
   "tokens": [
     "veto"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "veto",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "vote",
-    "ballot"
-  ],
   "translations": {
     "ja": [
       {

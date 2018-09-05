@@ -1,14 +1,25 @@
 {
+  "id": 236,
   "tokens": [
     "climate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "climate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

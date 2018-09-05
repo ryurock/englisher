@@ -1,16 +1,23 @@
 {
+  "id": 518,
   "tokens": [
     "fireworks"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "fireworks",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "rocket"
-  ],
   "translations": {
     "ja": [
       {

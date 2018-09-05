@@ -1,14 +1,23 @@
 {
+  "id": 394,
   "tokens": [
     "door"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "door",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

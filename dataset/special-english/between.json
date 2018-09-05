@@ -1,14 +1,22 @@
 {
+  "id": 131,
   "tokens": [
     "between"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "between",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

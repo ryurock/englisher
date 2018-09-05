@@ -1,16 +1,24 @@
 {
+  "id": 610,
   "tokens": [
     "he"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "he",
+      "postTags": [
+        "Pronoun",
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "h",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "letter"
-  ],
   "translations": {
     "ja": [
       {

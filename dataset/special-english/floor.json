@@ -1,17 +1,23 @@
 {
+  "id": 529,
   "tokens": [
     "floor"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "floor",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "room",
-    "level"
-  ],
   "translations": {
     "ja": [
       {

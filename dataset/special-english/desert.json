@@ -1,16 +1,23 @@
 {
+  "id": 356,
   "tokens": [
     "desert"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "desert",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "leave"
-  ],
   "translations": {
     "ja": [
       {

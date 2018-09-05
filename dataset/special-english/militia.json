@@ -1,16 +1,23 @@
 {
+  "id": 822,
   "tokens": [
     "militia"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "militia",
+      "postTags": [
+        "Noun",
+        "Plural"
+      ],
+      "bestPosTag": "Plural"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "force"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,19 +1,23 @@
 {
+  "id": 1327,
   "tokens": [
     "tense"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "tense",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "perfect",
-    "past",
-    "future",
-    "present"
-  ],
   "translations": {
     "ja": [
       {

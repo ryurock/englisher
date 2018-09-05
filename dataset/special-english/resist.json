@@ -1,17 +1,25 @@
 {
+  "id": 1087,
   "tokens": [
     "resist"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "resist",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "refuse",
-    "escape"
-  ],
   "translations": {
     "ja": [
       {

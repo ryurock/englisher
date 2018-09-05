@@ -1,14 +1,23 @@
 {
+  "id": 757,
   "tokens": [
     "lightning"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "lightning",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

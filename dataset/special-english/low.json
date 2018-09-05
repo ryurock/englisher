@@ -1,18 +1,23 @@
 {
+  "id": 777,
   "tokens": [
     "low"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "low",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "l",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "degree",
-    "level",
-    "down"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,22 @@
 {
+  "id": 44,
   "tokens": [
     "already"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "already",
+      "postTags": [
+        "Adverb"
+      ],
+      "bestPosTag": "Adverb"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

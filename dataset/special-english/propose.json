@@ -1,21 +1,23 @@
 {
+  "id": 1016,
   "tokens": [
     "propose"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "propose",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "urge",
-    "move",
-    "state",
-    "suggest",
-    "advise",
-    "declare"
-  ],
   "translations": {
     "ja": [
       {

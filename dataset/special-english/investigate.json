@@ -1,21 +1,25 @@
 {
+  "id": 701,
   "tokens": [
     "investigate"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "investigate",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "explore",
-    "search",
-    "study",
-    "examine",
-    "research",
-    "experiment"
-  ],
   "translations": {
     "ja": [
       {

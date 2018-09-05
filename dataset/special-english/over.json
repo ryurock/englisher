@@ -1,16 +1,22 @@
 {
+  "id": 924,
   "tokens": [
     "over"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "over",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "complete"
-  ],
   "translations": {
     "ja": [
       {

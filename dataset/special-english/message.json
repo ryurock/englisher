@@ -1,18 +1,25 @@
 {
+  "id": 815,
   "tokens": [
     "message"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "message",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "broadcast",
-    "mail",
-    "wire"
-  ],
   "translations": {
     "ja": [
       {

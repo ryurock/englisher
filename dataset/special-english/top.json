@@ -1,18 +1,22 @@
 {
+  "id": 1364,
   "tokens": [
     "top"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "top",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "head",
-    "part",
-    "capital"
-  ],
   "translations": {
     "ja": [
       {

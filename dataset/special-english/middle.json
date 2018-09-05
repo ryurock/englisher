@@ -1,19 +1,23 @@
 {
+  "id": 819,
   "tokens": [
     "middle"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "middle",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "center",
-    "area",
-    "country",
-    "seat"
-  ],
   "translations": {
     "ja": [
       {

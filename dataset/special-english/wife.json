@@ -1,18 +1,23 @@
 {
+  "id": 1473,
   "tokens": [
     "wife"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wife",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "partner",
-    "mate",
-    "woman"
-  ],
   "translations": {
     "ja": [
       {

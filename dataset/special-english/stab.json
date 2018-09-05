@@ -1,18 +1,23 @@
 {
+  "id": 1243,
   "tokens": [
     "stab"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "stab",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "injure",
-    "wound",
-    "knife"
-  ],
   "translations": {
     "ja": [
       {

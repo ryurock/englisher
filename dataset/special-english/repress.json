@@ -1,19 +1,23 @@
 {
+  "id": 1081,
   "tokens": [
     "repress"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "repress",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "suppress",
-    "reduce",
-    "crush",
-    "oppress"
-  ],
   "translations": {
     "ja": [
       {

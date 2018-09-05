@@ -1,16 +1,23 @@
 {
+  "id": 823,
   "tokens": [
     "milk"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "milk",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "m",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "drink"
-  ],
   "translations": {
     "ja": [
       {

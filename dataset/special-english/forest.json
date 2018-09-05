@@ -1,17 +1,23 @@
 {
+  "id": 542,
   "tokens": [
     "forest"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "forest",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "wood",
-    "tree"
-  ],
   "translations": {
     "ja": [
       {

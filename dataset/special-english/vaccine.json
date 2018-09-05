@@ -1,14 +1,23 @@
 {
+  "id": 1413,
   "tokens": [
     "vaccine"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "vaccine",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

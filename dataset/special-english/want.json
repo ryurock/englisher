@@ -1,24 +1,25 @@
 {
+  "id": 1437,
   "tokens": [
     "want"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "want",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hunger",
-    "miss",
-    "long",
-    "care",
-    "hope",
-    "starve",
-    "desire",
-    "like",
-    "wish"
-  ],
   "translations": {
     "ja": [
       {

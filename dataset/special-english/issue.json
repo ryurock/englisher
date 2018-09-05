@@ -1,14 +1,25 @@
 {
+  "id": 706,
   "tokens": [
     "issue"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "issue",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

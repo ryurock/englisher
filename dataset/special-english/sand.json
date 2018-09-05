@@ -1,17 +1,23 @@
 {
+  "id": 1132,
   "tokens": [
     "sand"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "sand",
+      "postTags": [
+        "Uncountable",
+        "Noun"
+      ],
+      "bestPosTag": "Uncountable"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "dirt",
-    "soil"
-  ],
   "translations": {
     "ja": [
       {

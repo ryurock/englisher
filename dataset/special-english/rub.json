@@ -1,20 +1,25 @@
 {
+  "id": 1118,
   "tokens": [
     "rub"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "rub",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "pass",
-    "touch",
-    "worry",
-    "run",
-    "guide"
-  ],
   "translations": {
     "ja": [
       {

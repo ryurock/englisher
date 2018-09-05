@@ -1,16 +1,23 @@
 {
+  "id": 917,
   "tokens": [
     "orbit"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "orbit",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "o",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "path"
-  ],
   "translations": {
     "ja": [
       {

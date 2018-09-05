@@ -1,20 +1,25 @@
 {
+  "id": 1299,
   "tokens": [
     "survive"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "survive",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "last",
-    "be",
-    "live",
-    "exist",
-    "go"
-  ],
   "translations": {
     "ja": [
       {

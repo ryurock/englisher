@@ -1,14 +1,22 @@
 {
+  "id": 885,
   "tokens": [
     "not"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "not",
+      "postTags": [
+        "Negative"
+      ],
+      "bestPosTag": "Negative"
+    }
+  ],
+  "sort": "n",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

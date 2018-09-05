@@ -1,16 +1,23 @@
 {
+  "id": 402,
   "tokens": [
     "drug"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "drug",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "cover"
-  ],
   "translations": {
     "ja": [
       {

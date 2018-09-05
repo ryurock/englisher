@@ -1,17 +1,22 @@
 {
+  "id": 265,
   "tokens": [
     "complex"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "complex",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "hard",
-    "difficult"
-  ],
   "translations": {
     "ja": [
       {

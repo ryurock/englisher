@@ -1,23 +1,25 @@
 {
+  "id": 1381,
   "tokens": [
     "treat"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "treat",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "deal",
-    "cut",
-    "step",
-    "abuse",
-    "baby",
-    "cover",
-    "wrong",
-    "ignore"
-  ],
   "translations": {
     "ja": [
       {

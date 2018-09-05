@@ -1,17 +1,22 @@
 {
+  "id": 38,
   "tokens": [
     "alive"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "alive",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "life",
-    "live"
-  ],
   "translations": {
     "ja": [
       {

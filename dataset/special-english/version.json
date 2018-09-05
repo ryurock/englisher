@@ -1,14 +1,23 @@
 {
+  "id": 1418,
   "tokens": [
     "version"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "version",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

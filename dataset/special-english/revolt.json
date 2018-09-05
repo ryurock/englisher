@@ -1,18 +1,23 @@
 {
+  "id": 1099,
   "tokens": [
     "revolt"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "revolt",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "struggle",
-    "battle",
-    "conflict"
-  ],
   "translations": {
     "ja": [
       {

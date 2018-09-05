@@ -1,17 +1,22 @@
 {
+  "id": 1334,
   "tokens": [
     "than"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "than",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "t",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "helicopter",
-    "airplane"
-  ],
   "translations": {
     "ja": [
       {

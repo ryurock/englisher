@@ -1,46 +1,25 @@
 {
+  "id": 1289,
   "tokens": [
     "supply"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "supply",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "s",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "fit",
-    "charge",
-    "fuel",
-    "hat",
-    "joint",
-    "railroad",
-    "seat",
-    "bottom",
-    "tube",
-    "pump",
-    "bed",
-    "extend",
-    "water",
-    "step",
-    "feed",
-    "top",
-    "offer",
-    "fire",
-    "tool",
-    "glass",
-    "heat",
-    "pour",
-    "give",
-    "partner",
-    "border",
-    "provide",
-    "flood",
-    "shelter",
-    "date",
-    "coal",
-    "edge"
-  ],
   "translations": {
     "ja": [
       {

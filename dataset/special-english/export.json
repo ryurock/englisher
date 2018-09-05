@@ -1,16 +1,25 @@
 {
+  "id": 476,
   "tokens": [
     "export"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "export",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "trade"
-  ],
   "translations": {
     "ja": [
       {

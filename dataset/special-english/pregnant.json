@@ -1,19 +1,23 @@
 {
+  "id": 993,
   "tokens": [
     "pregnant"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "pregnant",
+      "postTags": [
+        "Comparable",
+        "Adjective"
+      ],
+      "bestPosTag": "Comparable"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "heavy",
-    "great",
-    "big",
-    "large"
-  ],
   "translations": {
     "ja": [
       {

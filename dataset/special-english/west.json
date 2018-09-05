@@ -1,14 +1,23 @@
 {
+  "id": 1458,
   "tokens": [
     "west"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "west",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,14 +1,22 @@
 {
+  "id": 498,
   "tokens": [
     "favorite"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "favorite",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [],
   "translations": {
     "ja": [
       {

@@ -1,17 +1,25 @@
 {
+  "id": 1097,
   "tokens": [
     "retire"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "retire",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "r",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "resign",
-    "withdraw"
-  ],
   "translations": {
     "ja": [
       {

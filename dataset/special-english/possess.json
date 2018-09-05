@@ -1,26 +1,23 @@
 {
+  "id": 984,
   "tokens": [
     "possess"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "possess",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "right",
-    "point",
-    "back",
-    "lie",
-    "lead",
-    "station",
-    "situation",
-    "front",
-    "place",
-    "stand",
-    "left"
-  ],
   "translations": {
     "ja": [
       {

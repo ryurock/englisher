@@ -1,18 +1,23 @@
 {
+  "id": 705,
   "tokens": [
     "island"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "island",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "land",
-    "earth",
-    "ground"
-  ],
   "translations": {
     "ja": [
       {

@@ -1,16 +1,23 @@
 {
+  "id": 261,
   "tokens": [
     "company"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "company",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "service"
-  ],
   "translations": {
     "ja": [
       {

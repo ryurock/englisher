@@ -1,17 +1,25 @@
 {
+  "id": 1489,
   "tokens": [
     "wonder"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "wonder",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "w",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "request",
-    "question"
-  ],
   "translations": {
     "ja": [
       {

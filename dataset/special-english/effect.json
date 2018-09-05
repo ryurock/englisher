@@ -1,21 +1,23 @@
 {
+  "id": 420,
   "tokens": [
     "effect"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "effect",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "e",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "influence",
-    "result",
-    "event",
-    "issue",
-    "harvest",
-    "change"
-  ],
   "translations": {
     "ja": [
       {

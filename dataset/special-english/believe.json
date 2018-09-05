@@ -1,21 +1,25 @@
 {
+  "id": 125,
   "tokens": [
     "believe"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "believe",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "b",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "buy",
-    "accept",
-    "understand",
-    "swallow",
-    "trust",
-    "bank"
-  ],
   "translations": {
     "ja": [
       {

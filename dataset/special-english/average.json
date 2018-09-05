@@ -1,17 +1,22 @@
 {
+  "id": 97,
   "tokens": [
     "average"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "average",
+      "postTags": [
+        "Adjective"
+      ],
+      "bestPosTag": "Adjective"
+    }
+  ],
+  "sort": "a",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "normal",
-    "mean"
-  ],
   "translations": {
     "ja": [
       {

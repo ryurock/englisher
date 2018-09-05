@@ -1,18 +1,23 @@
 {
+  "id": 1423,
   "tokens": [
     "video"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "video",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "v",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "win",
-    "finish",
-    "fall"
-  ],
   "translations": {
     "ja": [
       {

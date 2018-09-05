@@ -1,20 +1,23 @@
 {
+  "id": 986,
   "tokens": [
     "postpone"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "postpone",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "p",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "suspend",
-    "cancel",
-    "delay",
-    "call",
-    "hold"
-  ],
   "translations": {
     "ja": [
       {

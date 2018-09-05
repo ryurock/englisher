@@ -1,16 +1,22 @@
 {
+  "id": 404,
   "tokens": [
     "during"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "during",
+      "postTags": [
+        "Preposition"
+      ],
+      "bestPosTag": "Preposition"
+    }
+  ],
+  "sort": "d",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "season"
-  ],
   "translations": {
     "ja": [
       {

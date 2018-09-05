@@ -1,18 +1,23 @@
 {
+  "id": 490,
   "tokens": [
     "family"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "family",
+      "postTags": [
+        "Singular",
+        "Noun"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "f",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "tribe",
-    "parent",
-    "child"
-  ],
   "translations": {
     "ja": [
       {

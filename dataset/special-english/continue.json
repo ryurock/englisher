@@ -1,20 +1,25 @@
 {
+  "id": 284,
   "tokens": [
     "continue"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "continue",
+      "postTags": [
+        "Infinitive",
+        "PresentTense",
+        "Verb",
+        "VerbPhrase"
+      ],
+      "bestPosTag": "Verb"
+    }
+  ],
+  "sort": "c",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "ride",
-    "move",
-    "keep",
-    "act",
-    "hold"
-  ],
   "translations": {
     "ja": [
       {

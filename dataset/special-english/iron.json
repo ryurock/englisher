@@ -1,17 +1,23 @@
 {
+  "id": 704,
   "tokens": [
     "iron"
   ],
-  "token": [],
-  "sort": null,
+  "token": [
+    {
+      "text": "iron",
+      "postTags": [
+        "Noun",
+        "Singular"
+      ],
+      "bestPosTag": "Singular"
+    }
+  ],
+  "sort": "i",
   "meta": {
     "specialEnglish": ""
   },
   "phrases": [],
-  "synonyms": [
-    "steel",
-    "metal"
-  ],
   "translations": {
     "ja": [
       {
