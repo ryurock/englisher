@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <h1 class="logo"><a href="/">enner</a></h1>
+    <h1 class="header__logo"><a href="/">enner</a></h1>
   </header>
 </template>
 <style lang="scss">
@@ -9,7 +9,22 @@
   top: 0;
   width: 100%;
   height: 40px;
-  background-color: $green;
+
+  &__logo {
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 5px;
+    font-size: 22px;
+    font-family: $title-font-family;
+    font-style: italic;
+    font-weight: normal;
+    color: $white;
+
+    a {
+      text-decoration: none;
+      letter-spacing: -1px;
+    }
+  }
 }
 
 .logo {
