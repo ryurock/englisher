@@ -1,0 +1,42 @@
+version: '3'
+
+services:
+  app:
+    image: "enner-app:latest"
+    build:
+      context: ./
+      dockerfile: ./dockerfiles/nuxtjs/Dockerfile
+    volumes:
+      - "./:/app/enner"
+    ports:
+      - "3000:3000"
+    container_name: "enner-app"
+    networks:
+      - "service_networks"
+    tty: true
+    stdin_open: true
+    depends_on:
+      - mysql
+  mysql:
+    image: "enner-mysql:latest"
+    container_name: "enner-db"
+    build:
+      context: ./dockerfiles/mysql
+      dockerfile: ./Dockerfile
+    ports:
+      - "3307:3306"
+    volumes:
+      - "./tmp/mysql/volumes/mysql:/var/lib/mysql"
+      - "./tmp/mysql/volumes/initdb:/docker-entrypoint-initdb.d"
+    networks:
+      service_networks:
+        aliases:
+          - "mysql"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_PORT_3306_TCP_ADDR: "localhost"
+      MYSQL_PORT_3306_TCP_PORT: 3306
+    tty: true
+
+networks:
+  service_networks:
