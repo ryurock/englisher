@@ -35,7 +35,10 @@ WORKDIR /app/enner
 COPY ./package* /app/enner/
 
 RUN npm install \
+  && npm rebuild node-sass \
   && rm -rf package*
+
+ENV HOST 0.0.0.0
 
 VOLUME /app/enner
 WORKDIR /app/enner
