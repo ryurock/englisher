@@ -20,6 +20,10 @@ module.exports = {
           type: Sequelize.STRING,
           allowNull: false,
         },
+        priority: {
+          type: Sequelize.INTEGER,
+          allowNull: false,
+        },
         created_at: {
           allowNull: false,
           type: Sequelize.DATE
@@ -34,12 +38,26 @@ module.exports = {
         {
           fields: ['tag']
         }
+      ),
+      queryInterface.addIndex(
+        'en_part_of_speeches',
+        {
+          fields: ['priority']
+        }
+      ),
+      queryInterface.addIndex(
+        'en_part_of_speeches',
+        {
+          fields: ['tag', 'priority']
+        }
       )
     ];
   },
   down: (queryInterface, Sequelize) => {
     return [
       queryInterface.removeIndex('en_part_of_speeches', 'en_part_of_speeches_tag'),
+      queryInterface.removeIndex('en_part_of_speeches', 'en_part_of_speeches_priority'),
+      queryInterface.removeIndex('en_part_of_speeches', 'en_part_of_speeches_tag_priority'),
       queryInterface.dropTable('en_part_of_speeches')
     ];
   }
