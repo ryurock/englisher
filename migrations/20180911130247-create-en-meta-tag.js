@@ -21,6 +21,10 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false
       },
+      meta_value: {
+        type: Sequelize.JSON,
+        allowNull: false
+      },
       created_at: {
         allowNull: false,
         type: Sequelize.DATE

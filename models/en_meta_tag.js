@@ -1,7 +1,9 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   const en_meta_tag = sequelize.define('en_meta_tag', {
-    meta_key: DataTypes.STRING
+    en_word_id: DataTypes.INTEGER,
+    meta_key: DataTypes.STRING,
+    meta_value: DataTypes.JSON,
   }, {
     underscored: true,
   });

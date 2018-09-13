@@ -1,7 +1,9 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   const en_part_of_speech = sequelize.define('en_part_of_speech', {
-    tag: DataTypes.STRING
+    tag:        DataTypes.STRING,
+    en_word_id: DataTypes.INTEGER,
+    priority:   DataTypes.INTEGER,
   }, {
     underscored: true,
   });
