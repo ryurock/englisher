@@ -1,7 +1,8 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   const en_synonym = sequelize.define('en_synonym', {
-    en_word_id: DataTypes.INTEGER
+    en_word_id: DataTypes.INTEGER,
+    synonym_word_id: DataTypes.INTEGER
   }, {
     underscored: true,
   });
