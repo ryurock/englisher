@@ -39,7 +39,7 @@
 </template>
 
 <script>
-import basicEnglish850Words from '~/models/words/basic-english/850.json'
+import basicEnglish850Words from '~/datasets/words/basic-english/850.json';
 
 export default {
   async asyncData({ params }) {

@@ -1,7 +1,7 @@
 module.exports = {
   generate: {
     routes: function(callback) {
-      const basicEnglish850 = require('./models/words/basic-english/850.json');
+      const basicEnglish850 = require('./datasets/words/basic-english/850.json');
       let routeMap = basicEnglish850.map(((word) => {
         return `/word/basic-english/${word.id}`;
       }));
