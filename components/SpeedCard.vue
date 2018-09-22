@@ -1,12 +1,12 @@
 <template>
   <main class="main">
     <section class="word">
-      <h1 class="word__typography">Acording to</h1>
+      <h1 class="word__typography">{{ word }}</h1>
     </section>
 
     <section class="translate-section">
       <div>
-        <h2 class="translate-section__typography">コンテンツ</h2>
+        <h2 class="translate-section__typography">{{ translate }}</h2>
       </div>
 
     </section>
@@ -91,6 +91,7 @@ import Speaker from '~/lib/speaker';
 
 export default {
   props: [
+    'words',
     'speedParam'
   ],
   data() {
@@ -116,8 +117,13 @@ export default {
         label: '遅い'
       }
     };
+
+    const wordCounter = 0;
     return {
+      word: this.words[wordCounter].token,
+      translate: this.words[wordCounter].translate.ja[0].token,
       speedMap: speedMap[this.speedParam],
+      wordCounter: wordCounter,
       isPlay: false,
       isSpeak: false,
     };
@@ -138,6 +144,7 @@ export default {
       buttons: ['再生しない', '再生する']
     })
     .then((isVoice) => {
+      this.isPlay = true;
       if (isVoice) {
         // this.speaker.speed(this.speakRate);
         // this.speaker.say(this.word);
@@ -145,17 +152,20 @@ export default {
       } else {
         // this.isVoice = false;
       }
-      this.isPlay = true;
 
-      // this.loadPlay();
+      this.loadPlay();
       // this.loadTimer();
     });
   },
   methods: {
     loadPlay() {
-      // this.wordInterval = setInterval(() => {
+      this.wordInterval = setInterval(() => {
+        if (this.words.length - 1 == this.wordCounter) clearInterval(this.wordInterval);
+        this.word = this.words[this.wordCounter].token;
+        this.translate = this.words[this.wordCounter].translate.ja[0].token
 
-      // }, this.speedMap.delay);
+        this.wordCounter++;
+      }, this.speedMap.delay);
     }
   }
 };

@@ -1,11 +1,14 @@
 <template>
   <SpeedCard
+    v-bind:words="words"
     v-bind:speedParam="speedParams"
   />
 </template>
 
 <script>
 import SpeedCard from "~/components/SpeedCard";
+import words from '~/datasets/words/special-english/all.min.json';
+
 export default {
   validate({params}) {
     if (params.speed) {
@@ -15,6 +18,7 @@ export default {
   },
   async asyncData({params}) {
     return {
+      words: words,
       speedParams: params.speed
     };
 
