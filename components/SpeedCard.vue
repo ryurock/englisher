@@ -59,10 +59,10 @@
         <div class="footer__player-speed">
           <button class="footer__player-speed-dropbtn">{{ speedMap.label }}</button>
           <div class="footer__player-speed-dropup-content">
-            <a v-if="speedLabel != 'slow'"     href="/speedcard/basic-english/850/slow">遅い</a>
-            <a v-if="speedLabel != 'normal'"   href="/speedcard/basic-english/850/normal">普通</a>
-            <a v-if="speedLabel != 'fast'"     href="/speedcard/basic-english/850/fast">早い</a>
-            <a v-if="speedLabel != 'veryfast'" href="/speedcard/basic-english/850/veryfast">超早</a>
+            <a v-if="speedParam != 'slow'"     href="/speedcard/basic-english/850/slow">遅い</a>
+            <a v-if="speedParam != 'normal'"   href="/speedcard/basic-english/850/normal">普通</a>
+            <a v-if="speedParam != 'fast'"     href="/speedcard/basic-english/850/fast">早い</a>
+            <a v-if="speedParam != 'veryfast'" href="/speedcard/basic-english/850/veryfast">超早</a>
           </div>
         </div>
 
@@ -91,14 +91,9 @@ import Speaker from '~/lib/speaker';
 
 export default {
   props: [
-    'speedLabel',
-    'isPlay',
-
-
     'speedParam'
   ],
   data() {
-    console.log(this.speedParam);
     const speedMap = {
       veryfast: {
         speakRate: 2.25,
@@ -123,11 +118,13 @@ export default {
     };
     return {
       speedMap: speedMap[this.speedParam],
-      isSpeak: false
+      isPlay: false,
+      isSpeak: false,
     };
   },
   mounted() {
     this.speaker = new Speaker();
+    // 音声未対応の場合
     if (!this.speaker.isSay()) {
       this.isPlay = true;
       this.loadPlay();
@@ -148,11 +145,18 @@ export default {
       } else {
         // this.isVoice = false;
       }
-      // this.isPlay = true;
+      this.isPlay = true;
 
       // this.loadPlay();
       // this.loadTimer();
     });
+  },
+  methods: {
+    loadPlay() {
+      // this.wordInterval = setInterval(() => {
+
+      // }, this.speedMap.delay);
+    }
   }
 };
 </script>
