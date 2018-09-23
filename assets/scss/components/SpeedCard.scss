@@ -1,14 +1,17 @@
-.octicon {
-  display: inline-block; /* 公式と同じ */
-  fill: currentColor;    /* 公式と同じ */
-  height: 1.4em; /* 大きさは height で指定 */
-}
+
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
 .main {
   margin-top: 5vh;
   color: #35495e;
 }
+.octicon {
+  display: inline-block; /* 公式と同じ */
+  fill: currentColor;    /* 公式と同じ */
+  height: 1.4em; /* 大きさは height で指定 */
+}
+
+
 
 .word {
   text-align: center;
