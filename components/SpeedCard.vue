@@ -59,25 +59,28 @@
         <div class="footer__player-speed">
           <button class="footer__player-speed-dropbtn">{{ speedMap.label }}</button>
           <div class="footer__player-speed-dropup-content">
-            <a v-if="speedParam != 'slow'"     href="/speedcard/basic-english/850/slow">遅い</a>
-            <a v-if="speedParam != 'normal'"   href="/speedcard/basic-english/850/normal">普通</a>
-            <a v-if="speedParam != 'fast'"     href="/speedcard/basic-english/850/fast">早い</a>
-            <a v-if="speedParam != 'veryfast'" href="/speedcard/basic-english/850/veryfast">超早</a>
+            <a
+              v-for="(link, index) in links" v-bind:key="index"
+              v-if="speedParam != link.key"
+              v-bind:href="link.link"
+            >
+              {{link.label}}
+            </a>
           </div>
         </div>
 
         <div class="footer__player-timer-section">
           <div class="footer__player-timer-section-timer">
             <div class="footer__player-timer-section-timer-min">
-              <span class="footer__player-timer-section-timer-number">00</span>
+              <span class="footer__player-timer-section-timer-number">{{ timerTime.minutes }}</span>
               <span class="footer__player-timer-section-timer-format">:</span>
             </div>
             <div class="footer__player-timer-section-timer-sec">
-              <span class="footer__player-timer-section-timer-number">00</span>
+              <span class="footer__player-timer-section-timer-number">{{ timerTime.seconds }}</span>
             </div>
           </div>
           <div class="footer__player-word-counter">
-            <p>残 1500</p>
+            <p>残 {{ wordLength }}</p>
           </div>
         </div>
       </div>
@@ -92,38 +95,51 @@ import Speaker from '~/lib/speaker';
 export default {
   props: [
     'words',
-    'speedParam'
+    'speedParam',
+    'type'
   ],
   data() {
     const speedMap = {
       veryfast: {
         speakRate: 2.25,
         delay: 500,
-        label: '超早'
+        label: '超早',
+        link: `/speedcard/${this.type}/veryfast`
       },
       fast: {
         speakRate: 1.75,
         delay: 750,
-        label: '早い'
+        label: '早い',
+        link: `/speedcard/${this.type}/fast`
       },
       normal: {
         speakRate: 1,
         delay: 1000,
-        label: '普通'
+        label: '普通',
+        link: `/speedcard/${this.type}/normal`
       },
       slow: {
         speakRate: 1,
         delay: 2000,
-        label: '遅い'
+        label: '遅い',
+        link: `/speedcard/${this.type}/slow`
       }
     };
-
     const wordCounter = 0;
+    const timerTime = this.endTime(this.words.length, speedMap[this.speedParam].delay);
     return {
       word: this.words[wordCounter].token,
+      wordLength: this.words.length,
       translate: this.words[wordCounter].translate.ja[0].token,
+      links: [
+        {key: "veryfast", label: speedMap.veryfast.label, link: speedMap.veryfast.link},
+        {key: "fast", label: speedMap.fast.label,     link: speedMap.fast.link},
+        {key: "normal", label: speedMap.normal.label,   link: speedMap.normal.link},
+        {key: "slow", label: speedMap.slow.label,     link: speedMap.slow.link},
+      ],
       speedMap: speedMap[this.speedParam],
       wordCounter: wordCounter,
+      timerTime: timerTime,
       isPlay: false,
       isSpeak: false,
     };
@@ -152,19 +168,38 @@ export default {
       } else {
         // this.isVoice = false;
       }
-
       this.loadPlay();
-      // this.loadTimer();
+      this.loadTimer();
     });
   },
   methods: {
+    loadTimer() {
+      this.timerInterval = setInterval(() => {
+        this.timerTime = this.endTime(this.wordLength, this.speedMap.delay);
+      }, 1000);
+    },
+    endTime(wordLength, speedDelay) {
+      const endSeconds = (wordLength * (speedDelay / 1000));
+      const startDateTime = new Date();
+      const endDateTime   = new Date((startDateTime.getTime() + endSeconds * 1000));
+      const left = endDateTime - startDateTime;
+      const a_day = 24 * 60 * 60 * 1000;
+      return {
+        hours:   Math.floor((left % a_day) / (60 * 60 * 1000)).toString().padStart(2, "0"),
+        minutes: (Math.floor((left % a_day) / (60 * 1000)) % 60).toString().padStart(2, "0"),
+        seconds: (Math.floor((left % a_day) / 1000) % 60 % 60).toString().padStart(2, "0")
+      };
+    },
     loadPlay() {
       this.wordInterval = setInterval(() => {
         if (this.words.length - 1 == this.wordCounter) clearInterval(this.wordInterval);
+        if (this.isPlay == false) clearInterval(this.wordInterval);
+
         this.word = this.words[this.wordCounter].token;
         this.translate = this.words[this.wordCounter].translate.ja[0].token
 
         this.wordCounter++;
+        this.wordLength--;
       }, this.speedMap.delay);
     }
   }

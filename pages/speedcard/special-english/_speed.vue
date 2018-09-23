@@ -1,6 +1,7 @@
 <template>
   <SpeedCard
     v-bind:words="words"
+    v-bind:type="'special-english'"
     v-bind:speedParam="speedParams"
   />
 </template>
