@@ -5,7 +5,7 @@ module.exports = {
       let routeMap = basicEnglish850.map(((word) => {
         return `/word/basic-english/${word.id}`;
       }));
-      const speedCardBasicEnglish850Pages = [
+      const speedCardBasicEnglishPages = [
         '/speedcard/basic-english/850/veryfast',
         '/speedcard/basic-english/850/fast',
         '/speedcard/basic-english/850/normal',
@@ -17,7 +17,7 @@ module.exports = {
         '/speedcard/special-english/normal',
         '/speedcard/special-english/slow',
       ];
-      routeMap = routeMap.concat(speedCardBasicEnglish850Pages).concat(speedCardSpecialEnglishPages);
+      routeMap = routeMap.concat(speedCardBasicEnglishPages).concat(speedCardSpecialEnglishPages);
       callback(null, routeMap);
     }
   },
