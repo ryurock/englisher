@@ -8,8 +8,7 @@
 
 <script>
 import SpeedCard from "~/components/SpeedCard";
-import words from '~/datasets/words/special-english/all.min.json';
-
+import words from '~/datasets/words/basic-english/all.min.json';
 export default {
   validate({params}) {
     if (params.speed) {
@@ -29,5 +28,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/pages/speedcard/special-english/_speed.scss';
+@import '@/assets/scss/pages/speedcard/basic-english/850/_speed.scss';
 </style>
