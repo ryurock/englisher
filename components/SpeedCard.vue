@@ -159,14 +159,13 @@ export default {
       icon: "warning",
       buttons: ['再生しない', '再生する']
     })
-    .then((isVoice) => {
+    .then((isSpeak) => {
       this.isPlay = true;
-      if (isVoice) {
-        // this.speaker.speed(this.speakRate);
-        // this.speaker.say(this.word);
-        // this.isVoice = true;
+      if (isSpeak) {
+        this.speaker.speed(this.speedMap.speakRate);
+        this.isSpeak = true;
       } else {
-        // this.isVoice = false;
+        this.isSpeak = false;
       }
       this.loadPlay();
       this.loadTimer();
@@ -197,6 +196,7 @@ export default {
 
         this.word = this.words[this.wordCounter].token;
         this.translate = this.words[this.wordCounter].translate.ja[0].token
+        if (this.isSpeak) this.speaker.say(this.word);
 
         this.wordCounter++;
         this.wordLength--;
