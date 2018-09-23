@@ -11,7 +11,13 @@ module.exports = {
         '/speedcard/basic-english/850/normal',
         '/speedcard/basic-english/850/slow',
       ];
-      routeMap = routeMap.concat(speedCardBasicEnglish850Pages);
+      const speedCardSpecialEnglishPages = [
+        '/speedcard/special-english/veryfast',
+        '/speedcard/special-english/fast',
+        '/speedcard/special-english/normal',
+        '/speedcard/special-english/slow',
+      ];
+      routeMap = routeMap.concat(speedCardBasicEnglish850Pages).concat(speedCardSpecialEnglishPages);
       callback(null, routeMap);
     }
   },
