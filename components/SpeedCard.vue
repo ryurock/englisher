@@ -19,6 +19,7 @@
       <div class="footer__player">
         <svg
           v-if="isPlay == false"
+          v-on:click="togglePlay(true)"
           class="octicon octicon-triangle-right footer__player-icon"
           viewBox="0 0 6 16"
           version="1.1"
@@ -28,6 +29,7 @@
         </svg>
         <svg
           v-else
+          v-on:click="togglePlay(false)"
           class="octicon octicon-x footer__player-icon"
           viewBox="0 0 12 16"
           version="1.1"
@@ -38,6 +40,7 @@
 
         <svg
           v-if="isSpeak == false"
+          v-on:click="toggleSpeak(true)"
           class="octicon octicon-mute footer__player-icon"
           viewBox="0 0 16 16"
           version="1.1"
@@ -47,7 +50,7 @@
         </svg>
         <svg
           v-else
-          v-on:click="toggleVoice(false)"
+          v-on:click="toggleSpeak(false)"
           class="octicon octicon-unmute footer__player-icon"
           viewBox="0 0 16 16"
           version="1.1"
@@ -161,12 +164,8 @@ export default {
     })
     .then((isSpeak) => {
       this.isPlay = true;
-      if (isSpeak) {
-        this.speaker.speed(this.speedMap.speakRate);
-        this.isSpeak = true;
-      } else {
-        this.isSpeak = false;
-      }
+      this.speaker.speed(this.speedMap.speakRate);
+      this.isSpeak = (isSpeak) ? true : false;
       this.loadPlay();
       this.loadTimer();
     });
@@ -188,6 +187,19 @@ export default {
         minutes: (Math.floor((left % a_day) / (60 * 1000)) % 60).toString().padStart(2, "0"),
         seconds: (Math.floor((left % a_day) / 1000) % 60 % 60).toString().padStart(2, "0")
       };
+    },
+    toggleSpeak(isSpeak) {
+      this.isSpeak = isSpeak;
+    },
+    togglePlay(isPlay) {
+      if (isPlay == false) {
+        clearInterval(this.wordInterval);
+        clearInterval(this.timerInterval);
+      } else {
+        this.loadPlay();
+        this.loadTimer();
+      }
+      this.isPlay = isPlay;
     },
     loadPlay() {
       this.wordInterval = setInterval(() => {
