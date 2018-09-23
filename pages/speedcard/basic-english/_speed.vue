@@ -28,5 +28,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/pages/speedcard/basic-english/850/_speed.scss';
+@import '@/assets/scss/pages/speedcard/basic-english/_speed.scss';
 </style>
