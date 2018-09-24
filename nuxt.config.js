@@ -1,10 +1,17 @@
 module.exports = {
   generate: {
     routes: function(callback) {
-      const basicEnglish850 = require('./datasets/words/basic-english/850.json');
-      let routeMap = basicEnglish850.map(((word) => {
-        return `/word/basic-english/${word.id}`;
+      const basicEnglish = require('./datasets/words/basic-english/all.min.json');
+      let routeMap = basicEnglish.map(((word) => {
+        return `/word/basic-english/${word.token}`;
       }));
+
+      const specialEnglish = require('./datasets/words/special-english/all.min.json');
+      let specialEnglishWords = specialEnglish.map((word) => {
+        return `/word/special-english/${word.token}`;
+      });
+      routeMap.concat(specialEnglishWords);
+
       const speedCardBasicEnglishPages = [
         '/speedcard/basic-english/850/veryfast',
         '/speedcard/basic-english/850/fast',
