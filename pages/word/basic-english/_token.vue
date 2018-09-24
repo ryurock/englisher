@@ -162,4 +162,13 @@ export default {
     align-items: center;
   }
 }
+
+@media screen and (min-width: 920px) {
+  .part-of-speech-section {
+    margin: 6vh 282px;
+  }
+  .synonyms-section {
+    margin: 3vh 282px;
+  }
+}
 </style>
