@@ -147,6 +147,13 @@ export default {
       isSpeak: false,
     };
   },
+  created() {
+    if (process.browser) {
+      window.onbeforeunload = (e) => {
+        this.speaker.cancel();
+      };
+    }
+  },
   mounted() {
     this.speaker = new Speaker();
     // 音声未対応の場合
