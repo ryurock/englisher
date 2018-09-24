@@ -12,7 +12,7 @@
         <a
           v-for="(relatedMovement, index) in relatedMovements"
           v-bind:key="index"
-          v-bind:href="`/word/basic-english/${relatedMovement.id }`"
+          v-bind:href="`/word/basic-english/${relatedMovement.token }`"
           target="_blank"
           class="links__botton"
         >{{ relatedMovement.token }}
@@ -27,7 +27,7 @@
         <a
           v-for="(relatedPopularState, index) in relatedPopularStates"
           v-bind:key="index"
-          v-bind:href="`/word/basic-english/${relatedPopularState.id }`"
+          v-bind:href="`/word/basic-english/${relatedPopularState.token }`"
           target="_blank"
           class="links__botton"
         >{{ relatedPopularState.token }}
@@ -42,7 +42,7 @@
         <a
           v-for="(relatedRelativeState, index) in relatedRelativeStates"
           v-bind:key="index"
-          v-bind:href="`/word/basic-english/${relatedRelativeState.id }`"
+          v-bind:href="`/word/basic-english/${relatedRelativeState.token }`"
           target="_blank"
           class="links__botton"
         >{{ relatedRelativeState.token }}
@@ -57,7 +57,7 @@
         <a
           v-for="(relatedPopularMovement, index) in relatedPopularMovements"
           v-bind:key="index"
-          v-bind:href="`/word/basic-english/${relatedPopularMovement.id }`"
+          v-bind:href="`/word/basic-english/${relatedPopularMovement.token }`"
           target="_blank"
           class="links__botton"
         >{{ relatedPopularMovement.token }}
@@ -72,7 +72,7 @@
         <a
           v-for="(relatedVisionThing, index) in relatedVisionThings"
           v-bind:key="index"
-          v-bind:href="`/word/basic-english/${relatedVisionThing.id }`"
+          v-bind:href="`/word/basic-english/${relatedVisionThing.token }`"
           target="_blank"
           class="links__botton"
         >{{ relatedVisionThing.token }}
