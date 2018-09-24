@@ -72,5 +72,6 @@ module.exports = {
     ['nuxt-sass-resources-loader', [
       '@/assets/scss/_base.scss',
     ]],
+    '@/modules/hook/generate'
   ],
 };
