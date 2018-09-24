@@ -8,8 +8,13 @@
         ベーシック英語やスペシャルイングリッシュを元にしたシンプルな英単語、フレーズを学べます。
       </h2>
       <div class="links">
-        <a href="/speedcard/basic-english/850/fast" class="button__green">
-        スピードカードで英単語を覚える
+        <a href="/speedcard/basic-english/fast" class="button__green">
+        スピードカードで英単語を覚える<br />(初級)
+        </a>
+      </div>
+      <div class="links">
+        <a href="/speedcard/special-english/fast" class="button__green">
+        スピードカードで英単語を覚える<br />(中級)
         </a>
       </div>
     </section>
@@ -17,24 +22,46 @@
     <section class="section">
       <h3>スピードカードとは？</h3>
       <p>英単語カードのように単語やフレーズをめくりながら黙読できる機能です。</p>
+      <h3>初級(Basic English)</h3>
       <div class="links">
-        <a href="/speedcard/basic-english/850/veryfast" class="button__green">
-        スピードカードで英単語を覚える(2倍速)
+        <a href="/speedcard/basic-english/veryfast" class="button__green">
+        スピードカードで英単語を覚える<br />(2倍速)
         </a>
       </div>
       <div class="links">
-        <a href="/speedcard/basic-english/850/fast" class="button__green">
-        スピードカードで英単語を覚える(1.5倍速)
+        <a href="/speedcard/basic-english/fast" class="button__green">
+        スピードカードで英単語を覚える<br />(1.5倍速)
         </a>
       </div>
       <div class="links">
-        <a href="/speedcard/basic-english/850/normal" class="button__green">
-        スピードカードで英単語を覚える(1倍速)
+        <a href="/speedcard/basic-english/normal" class="button__green">
+        スピードカードで英単語を覚える<br />(普通)
         </a>
       </div>
       <div class="links">
-        <a href="/speedcard/basic-english/850/slow" class="button__green">
-        スピードカードで英単語を覚える(低速)
+        <a href="/speedcard/basic-english/slow" class="button__green">
+        スピードカードで英単語を覚える<br />(低速)
+        </a>
+      </div>
+      <h3>中級(Specail English)</h3>
+      <div class="links">
+        <a href="/speedcard/special-english/veryfast" class="button__green">
+        スピードカードで英単語を覚える<br />(2倍速)
+        </a>
+      </div>
+      <div class="links">
+        <a href="/speedcard/special-english/fast" class="button__green">
+        スピードカードで英単語を覚える<br />(1.5倍速)
+        </a>
+      </div>
+      <div class="links">
+        <a href="/speedcard/special-english/normal" class="button__green">
+        スピードカードで英単語を覚える<br />(普通)
+        </a>
+      </div>
+      <div class="links">
+        <a href="/speedcard/special-english/slow" class="button__green">
+        スピードカードで英単語を覚える<br />(低速)
         </a>
       </div>
     </section>
@@ -44,7 +71,7 @@
       <p>基本単語が850と少ない単語とルールで成り立つ英語の事です。ennerでは辞書のような冗長的な品詞の種類等を取り除いて見やすく覚えやすいです。</p>
       <div class="links">
         <a
-          href="/speedcard/basic-english/850"
+          href="/word/basic-english/"
           target="_blank"
           class="button__green">ベーシック英単語一覧を見る</a>
       </div>
@@ -58,7 +85,7 @@
       </p>
       <div class="links">
         <a
-          href="/speedcard/basic-english/850"
+          href="/speedcard/special-english/"
           target="_blank"
           class="button__green">スペシャルイングリッシュの単語一覧を見る</a>
       </div>
