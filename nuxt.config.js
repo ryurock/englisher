@@ -10,7 +10,7 @@ module.exports = {
       let specialEnglishWords = specialEnglish.map((word) => {
         return `/word/special-english/${word.token}`;
       });
-      routeMap.concat(specialEnglishWords);
+      routeMap = routeMap.concat(specialEnglishWords);
 
       const speedCardBasicEnglishPages = [
         '/speedcard/basic-english/850/veryfast',
