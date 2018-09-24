@@ -42,7 +42,7 @@
 export default {
   async asyncData({ params }) {
     const token = params.token;
-    const word = require(`~/datasets/words/basic-english/dist/${token}.min.json`);
+    const word = require(`~/datasets/words/special-english/dist/${token}.min.json`);
     return {
       word: word
     };
@@ -126,7 +126,6 @@ export default {
 
 .part-of-speech-section {
   margin: 0 13px;
-
   &__title {
     padding-left: 8px;
     border-bottom: 1px solid #3b8070;
@@ -163,4 +162,14 @@ export default {
     align-items: center;
   }
 }
+
+@media screen and (min-width: 920px) {
+  .part-of-speech-section {
+    margin: 6vh 282px;
+  }
+  .synonyms-section {
+    margin: 3vh 282px;
+  }
+}
+
 </style>
