@@ -63,7 +63,6 @@ export default {
     makeSynonymLink() {
       return this.word.synonyms.map((synonym) => {
         let data = { token: synonym.token };
-        console.log(synonym.links);
         if ( synonym.links.hasOwnProperty('basicEnglish') ) {
           data.link = synonym.links.basicEnglish;
         } else if (synonym.links.hasOwnProperty('specialEnglish')){

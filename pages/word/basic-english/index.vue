@@ -96,9 +96,9 @@ export default {
   components: {AppFooter},
   head() {
     return {
-      title: 'enner | 英単語やフレーズを簡単な語句、フレーズで覚えれる学べるサイト',
+      title: 'enner | BasicEnglish(ベーシック・イングリッシュ)や基礎単語の一覧',
       meta: [
-        { hid: 'description', name: 'description', content: '英語を学習できるサイト。スピードラーニングのような聞き流しや単語やフレーズをみて覚えれる勉強方法等のコンテンツがあります' }
+        { hid: 'description', name: 'description', content: 'BasicEnglish(ベーシック・イングリッシュ)や基礎単語の種類別の一覧' }
       ]
     }
   },

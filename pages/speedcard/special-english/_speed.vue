@@ -17,6 +17,14 @@ export default {
     }
     return false;
   },
+  head() {
+    return {
+      title: 'enner | SpecialEnglish(スペシャル・イングリッシュ)のスピードカード',
+      meta: [
+        { hid: 'description', name: 'description', content: 'SpecailEnglish(スペシャル・イングリッシュ)を黙読して英単語を覚えましょう' }
+      ]
+    }
+  },
   async asyncData({params}) {
     return {
       words: words,

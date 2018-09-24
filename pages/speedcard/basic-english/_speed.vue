@@ -16,6 +16,14 @@ export default {
     }
     return false;
   },
+  head() {
+    return {
+      title: 'enner | BasicEnglish(ベーシック・イングリッシュ)のスピードカード',
+      meta: [
+        { hid: 'description', name: 'description', content: 'BasicEnglish(ベーシック・イングリッシュ)を黙読して英単語を覚えましょう' }
+      ]
+    }
+  },
   async asyncData({params}) {
     return {
       words: words,
