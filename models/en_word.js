@@ -11,7 +11,7 @@ module.exports = (sequelize, DataTypes) => {
     en_word.hasMany(models.en_meta_tag);
   };
 
-  en_word.findMetaTag = function(enWordId){
+  en_word.findMetaTags = function(enWordId){
     return sequelize.query(`
     SELECT
       ew.id,ew.token,ew.created_at,ew.updated_at,

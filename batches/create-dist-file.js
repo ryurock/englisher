@@ -71,20 +71,13 @@ const fs = require('fs');
 
           if (synonyms.length > 0) {
             data.synonyms = synonyms.map((synonym) => {
-              const links = {};
-              const isBasicEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'basicEnglish');
-              if (isBasicEnglish) links.basicEnglish = `/word/basic-english/${synonym.token}`;
-              const isSpecialEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'specialEnglish');
-              if (isSpecialEnglish) links.specialEnglish = `/word/special-english/${synonym.token}`;
               return {
                 id: synonym.id,
                 synonym_word_id: synonym.synonym_word_id,
-                token: synonym.token,
-                links: links
+                token: synonym.token
               };
             });
           }
-
 
           data.metaTags.map((metaTag) => {
             if (metaTag.metaKey == 'specialEnglish') {
@@ -98,6 +91,50 @@ const fs = require('fs');
         });
       }
       resolve();
+    }).then(() => {
+      return new Promise((resolve) => {
+        glob('./datasets/words/basic-english/dist/*.min.json', async (err, files) => {
+          for (let i = 0; i < files.length; i++) {
+            const wordFile = require(`../${files[i]}`);
+            if (wordFile.synonyms.length == 0) continue;
+            for (let ii = 0; ii < wordFile.synonyms.length; ii++) {
+              const synonymWordId = wordFile.synonyms[ii].synonym_word_id;
+              const metaTags = await enWord.findMetaTags(synonymWordId);
+              const links = {};
+              const isBasicEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'basicEnglish');
+              if (isBasicEnglish) links.basicEnglish = `/word/basic-english/${wordFile.synonyms[ii].token}`;
+              const isSpecialEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'specialEnglish');
+              if (isSpecialEnglish) links.specialEnglish = `/word/special-english/${wordFile.synonyms[ii].token}`;
+              wordFile.synonyms[ii].links = links;
+              fs.writeFileSync(`./datasets/words/basic-english/dist/${wordFile.token}.min.json`, JSON.stringify(wordFile));
+            }
+          }
+          console.log('write basic-english synonyms finish');
+          resolve();
+        });
+      });
+    }).then(() => {
+      return new Promise((resolve) => {
+        glob('./datasets/words/special-english/dist/*.min.json', async (err, files) => {
+          for (let i = 0; i < files.length; i++) {
+            const wordFile = require(`../${files[i]}`);
+            if (wordFile.synonyms.length == 0) continue;
+            for (let ii = 0; ii < wordFile.synonyms.length; ii++) {
+              const synonymWordId = wordFile.synonyms[ii].synonym_word_id;
+              const metaTags = await enWord.findMetaTags(synonymWordId);
+              const links = {};
+              const isBasicEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'basicEnglish');
+              if (isBasicEnglish) links.basicEnglish = `/word/basic-english/${wordFile.synonyms[ii].token}`;
+              const isSpecialEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'specialEnglish');
+              if (isSpecialEnglish) links.specialEnglish = `/word/special-english/${wordFile.synonyms[ii].token}`;
+              wordFile.synonyms[ii].links = links;
+              fs.writeFileSync(`./datasets/words/special-english/dist/${wordFile.token}.min.json`, JSON.stringify(wordFile));
+            }
+          }
+          console.log('write special-english synonyms finish');
+          resolve();
+        });
+      });
     }).then(() => {
       console.log('finish');
       glob('./datasets/words/basic-english/dist/*.min.json', (err, files) => {
