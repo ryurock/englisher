@@ -1,6 +1,20 @@
-# englisher
+# enner
 
-> Nuxt.js project
+## Deploy
+
+### branch
+
+```
+npm run generate
+$(npm bin)/netlify deploy
+```
+
+### production
+
+```
+APP_ENV=production npm run generate
+$(npm bin)/netlify deploy --prod
+```
 
 ## Build Setup
 
