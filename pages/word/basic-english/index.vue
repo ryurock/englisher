@@ -1,123 +1,145 @@
 <template>
-  <section class="container">
-    <div>
-      <h1 class="title">
-        英単語を素早く覚えましょう
-      </h1>
-      <h2 class="subtitle">
-        ennerはベーシック英語を元にしたシンプルな英単語、フレーズを学べます。
-      </h2>
-      <div class="links">
-        <a
-          href="/speedcard/basic-english/850"
-          target="_blank"
-          class="button--green">スピードカードで英単語を覚える</a>
-      </div>
-    </div>
-    <section class="sub-section">
-      <h3>ベーシック英語とは？</h3>
-      <p>基本単語が850と少ない単語とルールで成り立つ英語の事です。ennerでは辞書のような冗長的な品詞の種類等を取り除いて見やすく覚えやすいです。</p>
-      <div class="links">
-        <a
-          href="/speedcard/basic-english/850"
-          target="_blank"
-          class="button--green">ベーシック英単語一覧を見る</a>
-      </div>
-    </section>
-    <section class="sub-section">
-      <h3>ユーザー登録、課金は一切ありません。</h3>
-      <p>必要なのは覚えたいという気持ちだけです。</p>
+  <main class="container">
+    <section>
+      <h1 class="section-top__title">ベーシック英語に関する一覧</h1>
+      <h2 class="section-top__sub-title">基礎英語に関する一覧</h2>
     </section>
 
-  </section>
+    <section class="section">
+      <h3>動作に関するもの</h3>
+      <p>動作に関するものにフォーカスを当てた単語の一覧</p>
+      <div class="links">
+        <a
+          v-for="(relatedMovement, index) in relatedMovements"
+          v-bind:key="index"
+          v-bind:href="`/word/basic-english/${relatedMovement.id }`"
+          target="_blank"
+          class="links__botton"
+        >{{ relatedMovement.token }}
+        </a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h3>状態に関するもの<br />(一般的な語)</h3>
+      <p>状態に関するものにフォーカスを当てた単語の一覧</p>
+      <div class="links">
+        <a
+          v-for="(relatedPopularState, index) in relatedPopularStates"
+          v-bind:key="index"
+          v-bind:href="`/word/basic-english/${relatedPopularState.id }`"
+          target="_blank"
+          class="links__botton"
+        >{{ relatedPopularState.token }}
+        </a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h3>状態に関するもの<br />(相対する語)</h3>
+      <p>状態に関するもので相対する語にフォーカスを当てた単語の一覧</p>
+      <div class="links">
+        <a
+          v-for="(relatedRelativeState, index) in relatedRelativeStates"
+          v-bind:key="index"
+          v-bind:href="`/word/basic-english/${relatedRelativeState.id }`"
+          target="_blank"
+          class="links__botton"
+        >{{ relatedRelativeState.token }}
+        </a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h3>物事に関するもの<br />(一般的な語)</h3>
+      <p>物・事に関する事で目で見える物・事にフォーカスを当てた単語の一覧</p>
+      <div class="links">
+        <a
+          v-for="(relatedPopularMovement, index) in relatedPopularMovements"
+          v-bind:key="index"
+          v-bind:href="`/word/basic-english/${relatedPopularMovement.id }`"
+          target="_blank"
+          class="links__botton"
+        >{{ relatedPopularMovement.token }}
+        </a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h3>物事に関するもの<br />（視覚に訴える語）</h3>
+      <p>物・事に関する事で目で見える物・事にフォーカスを当てた単語の一覧</p>
+      <div class="links">
+        <a
+          v-for="(relatedVisionThing, index) in relatedVisionThings"
+          v-bind:key="index"
+          v-bind:href="`/word/basic-english/${relatedVisionThing.id }`"
+          target="_blank"
+          class="links__botton"
+        >{{ relatedVisionThing.token }}
+        </a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h3>ベーシック英語とは？</h3>
+      <p>基本単語が850と少ない単語とルールで成り立つ英語の事です。ennerでは辞書のような冗長的な品詞の種類等を取り除いて見やすく覚えやすいです。</p>
+    </section>
+    <AppFooter />
+  </main>
 </template>
 
 <script>
+import AppFooter from "~/components/AppFooter";
+import words from '~/datasets/words/basic-english/all.min.json';
+
 export default {
-  components: {},
+  components: {AppFooter},
   head() {
     return {
-      title: 'enner | ベーシック英単語を素早く読み流す',
+      title: 'enner | 英単語やフレーズを簡単な語句、フレーズで覚えれる学べるサイト',
       meta: [
-        { hid: 'description', name: 'description', content: 'My custom description' }
+        { hid: 'description', name: 'description', content: '英語を学習できるサイト。スピードラーニングのような聞き流しや単語やフレーズをみて覚えれる勉強方法等のコンテンツがあります' }
       ]
     }
+  },
+  async asyncData() {
+    const relatedVisionThings = words.filter((word) => {
+      const relatedVisionThing =  word.metaTags.find((v) => v.metaValue.type == 'relatedVisionThings');
+      return (relatedVisionThing) ? word : null;
+    });
+
+    const relatedPopularStates = words.filter((word) => {
+      const v = word.metaTags.find((v) => v.metaValue.type == 'relatedPopularState');
+      return (v) ? word : null;
+    });
+
+    const relatedRelativeStates = words.filter((word) => {
+      const v = word.metaTags.find((v) => v.metaValue.type == 'relatedRelativeState');
+      return (v) ? word : null;
+    });
+
+    const relatedPopularMovements = words.filter((word) => {
+      const v = word.metaTags.find((v) => v.metaValue.type == 'relatedPopularMovement');
+      return (v) ? word : null;
+    });
+
+    const relatedMovements = words.filter((word) => {
+      const v = word.metaTags.find((v) => v.metaValue.type == 'relatedMovement');
+      return (v) ? word : null;
+    });
+
+    return {
+      relatedPopularStates: relatedPopularStates,
+      relatedRelativeStates: relatedRelativeStates,
+      relatedPopularMovements: relatedPopularMovements,
+      relatedVisionThings: relatedVisionThings,
+      relatedMovements: relatedMovements,
+      words: words
+    };
   }
 }
 </script>
 
-<style>
-.container {
-  color: #526488;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
-}
-
-.title {
-  margin-top: 20vh;
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 300;
-  font-size: 40px;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 28px;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
-
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-bottom: 3vh;
-}
-
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
-}
-
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
-}
-.sub-section {
-  margin-top: 50px;
-}
-.sub-section h3 {
-  margin: 3vh auto;
-  font-weight: 300;
-  font-size: 28px;
-  word-spacing: 5px;
-}
-.sub-section p {
-  font-size: 18px;
-  margin: auto 3vh;
-}
-
+<style lang="scss">
+@import '@/assets/scss/pages/word/basic-english/index.scss'
 </style>
