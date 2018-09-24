@@ -85,7 +85,7 @@
       </p>
       <div class="links">
         <a
-          href="/speedcard/special-english/"
+          href="/word/special-english/"
           target="_blank"
           class="button__green">スペシャルイングリッシュの単語一覧を見る</a>
       </div>
