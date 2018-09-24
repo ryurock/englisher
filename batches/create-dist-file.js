@@ -41,16 +41,6 @@ const fs = require('fs');
           const jaTokens = responses[2];
           const metaTags = responses[3];
 
-          if (synonyms.length > 0) {
-            data.synonyms = synonyms.map((synonym) => {
-              return {
-                id: synonym.id,
-                synonym_word_id: synonym.synonym_word_id,
-                token: synonym.token
-              };
-            });
-          }
-
           if (poses.length > 0) {
             data.pos.tags = poses.map((pos) => {
               return {
@@ -78,6 +68,23 @@ const fs = require('fs');
               metaValue: metaTag.meta_value
             };
           });
+
+          if (synonyms.length > 0) {
+            data.synonyms = synonyms.map((synonym) => {
+              const links = {};
+              const isBasicEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'basicEnglish');
+              if (isBasicEnglish) links.basicEnglish = `/word/basic-english/${synonym.token}`;
+              const isSpecialEnglish = metaTags.find((metaTag) => metaTag.meta_key == 'specialEnglish');
+              if (isSpecialEnglish) links.specialEnglish = `/word/special-english/${synonym.token}`;
+              return {
+                id: synonym.id,
+                synonym_word_id: synonym.synonym_word_id,
+                token: synonym.token,
+                links: links
+              };
+            });
+          }
+
 
           data.metaTags.map((metaTag) => {
             if (metaTag.metaKey == 'specialEnglish') {
