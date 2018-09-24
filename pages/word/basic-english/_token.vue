@@ -62,12 +62,14 @@ export default {
       });
     },
     makeSynonymLink() {
-      const metaKeys = this.word.metaTags.map((metaTag) => metaTag.metaKey);
-      const isBasicEnglish = metaKeys.find((metaKey) => metaKey == 'basicEnglish');
       return this.word.synonyms.map((synonym) => {
         let data = { token: synonym.token };
-
-        data.link = (isBasicEnglish) ? `/word/basic-english/${data.token}` : `/word/special-english/${data.token}`;
+        console.log(synonym.links);
+        if ( synonym.links.hasOwnProperty('basicEnglish') ) {
+          data.link = synonym.links.basicEnglish;
+        } else if (synonym.links.hasOwnProperty('specialEnglish')){
+          data.link = synonym.links.specialEnglish;
+        }
         return data;
       });
     }
