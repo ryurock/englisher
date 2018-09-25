@@ -8,7 +8,7 @@
 
 <script>
 import SpeedCard from "~/components/SpeedCard";
-import words from '~/datasets/words/basic-english/all.min.json';
+import words from '~/datasets/words/basic-english/speedcard.min.json';
 export default {
   validate({params}) {
     if (params.speed) {

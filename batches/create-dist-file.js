@@ -138,18 +138,37 @@ const fs = require('fs');
     }).then(() => {
       console.log('finish');
       glob('./datasets/words/basic-english/dist/*.min.json', (err, files) => {
-        const allData = files.map((filePath) => {
-          return require(`../${filePath}`);
+        const speedcard = files.map((filePath) => {
+          const data = require(`../${filePath}`);
+          return {
+            id: data.id,
+            token: data.token,
+            translate: data.translate
+          };
         });
+        fs.writeFileSync('./datasets/words/basic-english/speedcard.min.json', JSON.stringify(speedcard));
+        fs.writeFileSync('./datasets/words/basic-english/speedcard.json', JSON.stringify(speedcard, null, '  '));
+
+        const allData = files.map((filePath) => require(`../${filePath}`));
         fs.writeFileSync('./datasets/words/basic-english/all.min.json', JSON.stringify(allData));
         fs.writeFileSync('./datasets/words/basic-english/all.json', JSON.stringify(allData, null, '  '));
       });
       glob('./datasets/words/special-english/dist/*.min.json', (err, files) => {
-        const allData = files.map((filePath) => {
-          return require(`../${filePath}`);
+        const speedcard = files.map((filePath) => {
+          const data = require(`../${filePath}`);
+          return {
+            id: data.id,
+            token: data.token,
+            translate: data.translate
+          };
         });
+        fs.writeFileSync('./datasets/words/special-english/speedcard.min.json', JSON.stringify(speedcard));
+        fs.writeFileSync('./datasets/words/special-english/speedcard.json', JSON.stringify(speedcard, null, '  '));
+
+        const allData = files.map((filePath) => require(`../${filePath}`));
         fs.writeFileSync('./datasets/words/special-english/all.min.json', JSON.stringify(allData));
         fs.writeFileSync('./datasets/words/special-english/all.json', JSON.stringify(allData, null, '  '));
+
       });
     });
   });
