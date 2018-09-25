@@ -43,6 +43,7 @@
         スピードカードで英単語を覚える<br />(低速)
         </a>
       </div>
+
       <h3>中級(Specail English)</h3>
       <div class="links">
         <a href="/speedcard/special-english/veryfast" class="button__green">
