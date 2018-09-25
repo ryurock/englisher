@@ -21,11 +21,13 @@ let cnt = 0;
     };
 
     const tokens = enWoedAll.map((v) => v.token);
-    const url = `http://www.synonym.com/synonyms/${enWoedAll[cnt].token}`;
+    const url = `https://www.collinsdictionary.com/dictionary/english-thesaurus/${enWoedAll[cnt].token}`;
     const response = await axios.get(url, config);
     let dom = new JSDOM(response.data);
     const html = dom.window.document.querySelectorAll('div.card')[0].innerHTML;
     dom = new JSDOM(html);
+    // @todo query
+    // Array.from($('.moreAnt > .synonymBlock > .sensehead > .key')).map((v) => v.innerText).map((v) => v.split(' '))
     let data = Array.from(dom.window.document.querySelectorAll('li.syn > a'), (node) => node.innerHTML);
     data = data.filter((v) => tokens.indexOf(v) != -1);
     if (data.length > 0) {
