@@ -13,10 +13,10 @@ module.exports = {
       routeMap = routeMap.concat(specialEnglishWords);
 
       const speedCardBasicEnglishPages = [
-        '/speedcard/basic-english/850/veryfast',
-        '/speedcard/basic-english/850/fast',
-        '/speedcard/basic-english/850/normal',
-        '/speedcard/basic-english/850/slow',
+        '/speedcard/basic-english/veryfast',
+        '/speedcard/basic-english/fast',
+        '/speedcard/basic-english/normal',
+        '/speedcard/basic-english/slow',
       ];
       const speedCardSpecialEnglishPages = [
         '/speedcard/special-english/veryfast',
