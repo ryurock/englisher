@@ -166,8 +166,8 @@ const fs = require('fs');
         fs.writeFileSync('./datasets/words/special-english/speedcard.json', JSON.stringify(speedcard, null, '  '));
 
         const allData = files.map((filePath) => require(`../${filePath}`));
-        fs.writeFileSync('./datasets/words/basic-english/all.min.json', JSON.stringify(allData));
-        fs.writeFileSync('./datasets/words/basic-english/all.json', JSON.stringify(allData, null, '  '));
+        fs.writeFileSync('./datasets/words/special-english/all.min.json', JSON.stringify(allData));
+        fs.writeFileSync('./datasets/words/special-english/all.json', JSON.stringify(allData, null, '  '));
 
       });
     });
