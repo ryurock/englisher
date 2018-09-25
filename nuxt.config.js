@@ -28,6 +28,9 @@ module.exports = {
       callback(null, routeMap);
     }
   },
+  env: {
+    appEnv: (process.env.BRANCH == 'master') ? 'production' : 'development'
+  },
   /*
   ** Headers of the page
   */
