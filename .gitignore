@@ -13,3 +13,4 @@ dist/**
 tmp/
 
 static/robots.txt
+static/sitemap.xml

@@ -1,16 +1,16 @@
 module.exports = {
   generate: {
     routes: function(callback) {
-      const basicEnglish = require('./datasets/words/basic-english/speedcard.min.json');
-      let routeMap = basicEnglish.map(((word) => {
-        return `/word/basic-english/${word.token}`;
-      }));
+      // const basicEnglish = require('./datasets/words/basic-english/speedcard.min.json');
+      // let routeMap = basicEnglish.map(((word) => {
+      //   return `/word/basic-english/${word.token}`;
+      // }));
 
-      const specialEnglish = require('./datasets/words/special-english/speedcard.min.json');
-      let specialEnglishWords = specialEnglish.map((word) => {
-        return `/word/special-english/${word.token}`;
-      });
-      routeMap = routeMap.concat(specialEnglishWords);
+      // const specialEnglish = require('./datasets/words/special-english/speedcard.min.json');
+      // let specialEnglishWords = specialEnglish.map((word) => {
+      //   return `/word/special-english/${word.token}`;
+      // });
+      // routeMap = routeMap.concat(specialEnglishWords);
 
       const speedCardBasicEnglishPages = [
         '/speedcard/basic-english/veryfast',
@@ -24,7 +24,7 @@ module.exports = {
         '/speedcard/special-english/normal',
         '/speedcard/special-english/slow',
       ];
-      routeMap = routeMap.concat(speedCardBasicEnglishPages).concat(speedCardSpecialEnglishPages);
+      let routeMap = [].concat(speedCardBasicEnglishPages).concat(speedCardSpecialEnglishPages);
       callback(null, routeMap);
     }
   },
@@ -79,6 +79,15 @@ module.exports = {
     ['nuxt-sass-resources-loader', [
       '@/assets/scss/_base.scss',
     ]],
+    ['@nuxtjs/sitemap'],
     '@/modules/hook/generate'
   ],
+  sitemap: {
+    path: '/sitemap.xml',
+    hostname: 'https://enner.link',
+    generate: true,
+    exclude: [
+      '/admin'
+    ]
+  }
 };

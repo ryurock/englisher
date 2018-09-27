@@ -2,10 +2,10 @@
   <main class="container">
     <section>
       <h1 class="section-top__title">
-        英語スキルの向上を
+        英単語を覚えて英語を楽しみましょう
       </h1>
       <h2 class="section-top__sub-title">
-        ベーシック英語やスペシャルイングリッシュを元にしたシンプルな英単語、フレーズを学べます。
+        スピードカード(英単語カード)を使って中高校生レベルの単語を覚えれます。
       </h2>
       <div class="links">
         <a href="/speedcard/basic-english/fast" class="button__green">
@@ -66,30 +66,6 @@
       </div>
     </section>
 
-    <section class="section">
-      <h3>ベーシック英語とは？</h3>
-      <p>基本単語が850と少ない単語とルールで成り立つ英語の事です。ennerでは辞書のような冗長的な品詞の種類等を取り除いて見やすく覚えやすいです。</p>
-      <div class="links">
-        <a
-          href="/word/basic-english/"
-          target="_blank"
-          class="button__green">ベーシック英単語一覧を見る</a>
-      </div>
-    </section>
-
-    <section class="section">
-      <h3>スペシャルイングリッシュとは？</h3>
-      <p>
-        英語を母国語としない人向けに単語を約1500語に絞ったアメリカ合衆国政府が運営する国営放送<a href="https://www.voanews.com/" target="_blank">Voice of America</a>で使われている英語のことです。
-        簡易な文法で非ネイティブの人がアメリカ英語を勉強するのに人気があります。
-      </p>
-      <div class="links">
-        <a
-          href="/word/special-english/"
-          target="_blank"
-          class="button__green">スペシャルイングリッシュの単語一覧を見る</a>
-      </div>
-    </section>
     <AppFooter />
   </main>
 </template>
