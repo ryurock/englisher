@@ -10,8 +10,7 @@ ID = "f10bab71-4897-404d-9779-ad37717845c1"
 
 # Production context: All deploys from the Production branch set in your site's deploy settings will inherit these settings.
 [context.production]
-  #ドメイン登録したら開放する
-  # command = "npm run generate;echo \"User-Agent: *\" > dist/robots.txt"
+  command = "npm run generate;echo \"User-Agent: *\" > dist/robots.txt"
   # environment = { ACCESS_TOKEN = "super secret", NODE_ENV = "8.0.1" }
 
 # Deploy Preview context: All Deploy Previews (https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/)
