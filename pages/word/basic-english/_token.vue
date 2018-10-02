@@ -19,7 +19,7 @@
        class="part-of-speech-section__tag">{{ tag }}</h3>
     </section>
 
-    <section class="synonyms-section">
+    <section v-if="makeSynonymLink.length > 0" class="synonyms-section">
       <h2 class="synonyms-section__title">類義語</h2>
       <h3
        v-for="(synonym, index) in makeSynonymLink"
@@ -28,6 +28,7 @@
        <a v-bind:href="synonym.link">{{ synonym.token }}</a>
        </h3>
     </section>
+    <section class="word-content-section" v-html="wordContent"></section>
 
     <section class="ad">
       <div class="ad__banner">
@@ -38,13 +39,19 @@
 </template>
 
 <script>
+import ActivateLists from '~/datasets/words/basic-english/activate.json';
 
 export default {
+  validate ({ params }) {
+    return ( ActivateLists.activate.indexOf(params.token) !== -1 ) ? true : false;
+  },
   async asyncData({ params }) {
     const token = params.token;
     const word = require(`~/datasets/words/basic-english/dist/${token}.min.json`);
+    const wordContent = require(`~/datasets/words/basic-english/markdown/${token}.md`);
     return {
-      word: word
+      word: word,
+      wordContent: wordContent
     };
   },
   computed: {
@@ -155,6 +162,15 @@ export default {
   }
 
 }
+
+.word-content-section {
+  margin: 3vh 13px;
+
+  h3 {
+    margin: 6vh 0;
+  }
+}
+
 .ad {
   &__banner {
     display: flex;
@@ -169,6 +185,9 @@ export default {
   }
   .synonyms-section {
     margin: 3vh 282px;
+  }
+  .word-content-section {
+    margin: 6vh 282px;
   }
 }
 </style>

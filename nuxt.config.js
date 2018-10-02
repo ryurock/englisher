@@ -80,7 +80,8 @@ module.exports = {
       '@/assets/scss/_base.scss',
     ]],
     ['@nuxtjs/sitemap'],
-    '@/modules/hook/generate'
+    '@/modules/hook/generate',
+    '@nuxtjs/markdownit'
   ],
   sitemap: {
     path: '/sitemap.xml',
@@ -88,6 +89,14 @@ module.exports = {
     generate: true,
     exclude: [
       '/admin'
+    ]
+  },
+  markdownit: {
+    preset: 'default',
+    linkify: true,
+    breaks: true,
+    use: [
+      'markdown-it-attrs'
     ]
   }
 };
