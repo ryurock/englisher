@@ -1,16 +1,10 @@
 module.exports = {
   generate: {
     routes: function(callback) {
-      // const basicEnglish = require('./datasets/words/basic-english/speedcard.min.json');
-      // let routeMap = basicEnglish.map(((word) => {
-      //   return `/word/basic-english/${word.token}`;
-      // }));
-
-      // const specialEnglish = require('./datasets/words/special-english/speedcard.min.json');
-      // let specialEnglishWords = specialEnglish.map((word) => {
-      //   return `/word/special-english/${word.token}`;
-      // });
-      // routeMap = routeMap.concat(specialEnglishWords);
+      const basicEnglish = require('./datasets/words/basic-english/activate.json');
+      let routeMap = basicEnglish.activate.map(((word) => {
+        return `/word/basic-english/${word}`;
+      }));
 
       const speedCardBasicEnglishPages = [
         '/speedcard/basic-english/veryfast',
@@ -24,7 +18,7 @@ module.exports = {
         '/speedcard/special-english/normal',
         '/speedcard/special-english/slow',
       ];
-      let routeMap = [].concat(speedCardBasicEnglishPages).concat(speedCardSpecialEnglishPages);
+      routeMap = routeMap.concat(speedCardBasicEnglishPages).concat(speedCardSpecialEnglishPages);
       callback(null, routeMap);
     }
   },
