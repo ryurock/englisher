@@ -83,7 +83,14 @@ module.exports = {
     generate: true,
     exclude: [
       '/admin'
-    ]
+    ],
+    routes(callback){
+      const basicEnglish = require('./datasets/words/basic-english/activate.json');
+      let routeMap = basicEnglish.activate.map(((word) => {
+        return `/word/basic-english/${word}`;
+      }));
+      return callback(null, routeMap);
+    }
   },
   markdownit: {
     preset: 'default',
